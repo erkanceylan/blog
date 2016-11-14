@@ -15,7 +15,6 @@ description: Programmer From Somewhere On Earth
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email: erkanceylan@gmail.com
   facebook: erkan.ceylan4
   flickr:
@@ -28,8 +27,7 @@ footer-links:
   stackoverflow: users/5398376/erkan-ceylan # your stackoverflow profile, e.g. "users/3807565/akshay"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-  medium: @erkanceylan
-
+  medium: @erkanceylan # medium profile
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
