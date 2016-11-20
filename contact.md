@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Contact
+title: İletişim
 permalink: /contact/
 ---
 
-
-## İletişim
 
 <div id="formBlock">
        <form id="someForm">
