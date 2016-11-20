@@ -7,16 +7,25 @@ permalink: /contact/
 
 ## İletişim
 
-<form action="https://formspree.io/erkanceylan4@gmail.com" method="POST">
-    <label for="name">İsim: </label><br/>
-    <input type="text" name="name"><br/>
-    <label for="_replyto">Email: </label><br/>
-    <input type="email" name="_replyto" placeholder="Your email"><br/>
-    <label for="comments">Mesajınız:</label> <br/>
-    <textarea name="message" placeholder="Your message"></textarea><br/>
+<div id="formBlock">
+       <form id="someForm">
+           <label for="name">Name:</label> <br/>
+           <input type="text" id="name"><br/>
+           <label for="email">Email:</label> <br/>
+           <input type="email" id="email"><br/>
+           <label for="comments">Mesajınız:</label> <br/>
+           <textarea id="comments" placeholder="Mesajınız"></textarea><br/>  
+           <!-- Honeypot for spams -->
+           <input type="text" name="_gotcha" style="display:none" />
+           <input type="submit">
+       </form>
+</div>
 
-    <!-- Honeypot for spams -->
-    <input type="text" name="_gotcha" style="display:none" />
-    <input type="hidden" name="_next" value="//site.io/thanks.html" />
-    <input type="submit" value="Send">
-</form>
+   <div id="thankyouBlock" style="display:none">
+       <p>
+           Mesajınız başarıyla iletildi, değerli görüşleriniz için çok teşekkürler.
+       </p>
+   </div>
+
+   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+   <script src="test.js"></script>
