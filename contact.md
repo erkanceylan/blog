@@ -9,15 +9,12 @@ permalink: /contact/
 
 <div id="formBlock">
        <form id="someForm">
-           <label for="name" >Name:</label> <br/>
-           <input type="text" id="name" placeholder="Adınız"><br/>
-           <label for="email">Email:</label> <br/>
-           <input type="email" id="email" placeholder="Email Adresiniz"><br/>
-           <label for="comments">Mesajınız:</label> <br/>
-           <textarea id="comments" placeholder="Mesajınız"></textarea><br/>  
+           <input class="feedback-input" type="text" id="name" placeholder="Adınız"><br/>
+           <input class="feedback-input" type="email" id="email" placeholder="Email Adresiniz"><br/>
+           <textarea class="feedback-input" id="comments" placeholder="Mesajınız"></textarea><br/>  
            <!-- Honeypot for spams
            <input type="text" name="_gotcha" style="display:none" />-->
-           <input type="submit">
+           <input class="feedback-input" type="submit" value="GÖNDER">
        </form>
 </div>
 
