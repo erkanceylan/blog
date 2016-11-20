@@ -1,7 +1,9 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+---
+comments: true
+---
 # Name of your site (displayed in the header)
 name: erkan ceylan
 
