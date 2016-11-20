@@ -28,4 +28,4 @@ permalink: /contact/
    </div>
 
    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-   <script src="test.js"></script>
+   <script src="js/sendSubmission.js"></script>
