@@ -18,9 +18,9 @@ $(document).ready(function() {
             method:'POST',
             data:{
                 name:name,
-                 email:email,
+                email:email,
                 comments:comments,
-                _subject:'Form Mesajı',
+                _subject:'Form Mesajı'
             },
             dataType:"json",
             success:function() {

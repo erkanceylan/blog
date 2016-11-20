@@ -21,11 +21,11 @@ permalink: /contact/
        </form>
 </div>
 
-   <div id="thankyouBlock" style="display:none">
+<div id="thankyouBlock" style="display:none">
        <p>
            Mesajınız başarıyla iletildi, değerli görüşleriniz için çok teşekkürler.
        </p>
-   </div>
+</div>
 
    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-   <script src="js/sendSubmission.js"></script>
+   <script src="/js/sendSubmission.js"></script>
