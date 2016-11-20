@@ -7,9 +7,9 @@ permalink: /contact/
 
 <div id="formBlock">
        <form id="someForm">
-           <input class="feedback-input" type="text" id="name" placeholder="Adınız"><br/>
-           <input class="feedback-input" type="email" id="email" placeholder="Email Adresiniz"><br/>
-           <textarea class="feedback-input" id="comments" placeholder="Mesajınız"></textarea><br/>  
+           <input class="feedback-input" type="text" id="name" placeholder="Adınız" required><br/>
+           <input class="feedback-input" type="email" id="email" placeholder="Email Adresiniz" required><br/>
+           <textarea class="feedback-input" id="comments" placeholder="Mesajınız" required></textarea><br/>  
            <!-- Honeypot for spams
            <input type="text" name="_gotcha" style="display:none" />-->
            <input class="feedback-input" type="submit" value="GÖNDER">
