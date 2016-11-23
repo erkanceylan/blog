@@ -21,12 +21,12 @@ Algoritması
 Girdi:	DFA
 Çıktı:	Minimized DFA
 
-*Adım 1	İlk olarak başlangıç durumundan başlayıp erişilemeyen durum varsa o durumu direkt iptal et.
-*Adım 2  Tüm durum çiftleri için bir tablo oluştur(Qi, Qj)
-*Adım 3	Çiftleri kontrol et: Eğer durumlardan biri kabul biri red durumuysa o durumu işaretle.
+* Adım 1	İlk olarak başlangıç durumundan başlayıp erişilemeyen durum varsa o durumu direkt iptal et.
+* Adım 2  Tüm durum çiftleri için bir tablo oluştur(Qi, Qj)
+* Adım 3	Çiftleri kontrol et: Eğer durumlardan biri kabul biri red durumuysa o durumu işaretle.
 (Durum çifti=(Qi,Qj) => Qi ∈ F & Qj ∉ F)
 //Unutmadan söyleyeyim burada işaretlediğimiz çiftler DFA'da birleşmesi mümkün olmayan durum çiftleridir.
-*Adım 4	Kalan durum çiftlerine sırayla alfabeninin tüm harflerini uygula, eğer aynı harf için gittikleri
+* Adım 4	Kalan durum çiftlerine sırayla alfabeninin tüm harflerini uygula, eğer aynı harf için gittikleri
 sonuçlardan biri kabul biri red çıkarsa o çifti de işaretle.(Yani ulaşılan sonuç çifti daha önce tabloda
 işaretlenmişse)
 

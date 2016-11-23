@@ -7,7 +7,7 @@ name: erkanceylan
 
 # Short bio or description (displayed in the header)
 description: Programmer From Somewhere On Earth
-
+comments: true
 
 #
 # Flags below are optional
