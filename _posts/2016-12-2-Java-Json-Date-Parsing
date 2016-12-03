@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java'da Json İçerisinden Date Bilgisi Elde Etmek
+title: Javada Json İçerisinden Date Bilgisi Elde Etmek
 author: Erkan Ceylan
 id: 1
 ---
@@ -8,12 +8,13 @@ id: 1
 Bu yazımda karşılaştığım ufak bir problemin basit çözümünü paylaşacağım.
 
 ## Problem Ne?
-
+-----
 Bir android uygulama için 3.parti bir API'den Json veriler çekip, parse edip uygulamamda kullanıyordum. Json da tarih bilgisi 2016-12-14T11:49:35Z
 gibi bir formatta geldi. Buradaki T harfi arkasından saat bilgisi geleceğini Z harfi ise saatin CMT zaman dilimine göre kaydedildiğini ifade etmekte.
 Json'u kullanacağım uygulama bir android uygulama olduğu için zaman bilgisini Date tipinde bir nesneye parse etmem gerekti.
 
 ## Çözüm
+-----
 
 <code>
 String dateStr = jsonObject.getString("date");
