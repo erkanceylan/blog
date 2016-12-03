@@ -16,7 +16,7 @@ Json'u kullanacağım uygulama bir android uygulama olduğu için zaman bilgisin
 ## Çözüm
 -----
 
-<code>
+```java
 //Cihaza ait lokal zaman dilimini bulalım
 Calendar cal = Calendar.getInstance();
 TimeZone tz = cal.getTimeZone();
@@ -26,4 +26,4 @@ String dateStr = jsonObject.getString("date");
 SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'");
 sdf.setTimeZone(tz);
 Date dateObject = sdf.parse(dateStr);
-</code>
+```
