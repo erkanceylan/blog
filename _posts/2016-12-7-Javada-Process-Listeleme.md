@@ -13,13 +13,15 @@ Merhabalar bu yazımda Java'da işletim sistemi üzerinde çalışan process bil
 Process(işlem, süreç..) bir işletim sistemi üzerinde çalışan en küçük işlem parçası denebilir. İşletim sistemi üzerinde koşan her program ayrı bir processtir. Ancak her program birden fazla process ile de ifade edilebilir. Her process kendi adres alanında çalışır ve bu sayede hiçbir process birbirine müdahale edemez.
 
 İki çeşit process oluşturma yöntemi vardır;
+
 * Fork Ederek: Parent(ana) process Child(yavru) processi oluşturur, Child process, Parent processten kalıtım alır ve onun özelliklerini taşır.
+
 * Execute Ederek: Bu yöntemde oluşturulan Child(yavru) process Parent'inden tamamen bağımsız şekilde çalışır.
 
 ## Java'da Process'lerin Listelenmesi
 -----
 
-```JAVA
+```java
 // Çalışan processlerin görüntülenmesi
  private static void showRunningProcesses()
  {
@@ -32,7 +34,8 @@ Process(işlem, süreç..) bir işletim sistemi üzerinde çalışan en küçük
          .exec(System.getenv("windir") +"\\system32\\"+"tasklist.exe");
          //Linux makineler için
          //Process p = Runtime.getRuntime().exec("ps -e");
-         BufferedReader input = new BufferedReader(new InputStreamReader(p.getInputStream()));
+         BufferedReader input = new BufferedReader(new InputStreamReader
+            (p.getInputStream()));
          System.out.println("\nÇalışan Prosesler\n-----------------------");
          while ((line = input.readLine()) != null)
          {
