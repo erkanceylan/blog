@@ -13,8 +13,23 @@ comments: true
 # Flags below are optional
 #
 
-# Includes an icon in the footer for each username you enter
-footer-links:
+paginate_path: "blog/page:num/"
+
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
   email: erkanceylan@gmail.com
   facebook: erkan.ceylan4
   flickr:
