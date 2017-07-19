@@ -1,9 +1,9 @@
 # Website details
-name: ""
+name: "Erkan Ceylan"
 description: ""
-email: ""
-author: ""
-lang: ""
+email: "erkanceylan4@gmail.com"
+author: "erkanceylan"
+lang: "tr"
 locale: ""
 
 # Jekyll
@@ -15,7 +15,7 @@ timezone: Europe/Istanbul
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-baseurl: http://domain.com
+baseurl: http://erkanceylan.com
 
 # Includes
 addthisId: ""
