@@ -1,4 +1,4 @@
-ftp_host: "domain.com"
+ftp_host: "erkanceylan.com"
 ftp_dir: "/public_html"
 ftp_passive: false
 ftp_port: 21
