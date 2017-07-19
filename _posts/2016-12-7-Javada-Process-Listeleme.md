@@ -5,7 +5,7 @@ author: Erkan Ceylan
 id: 3
 ---
 
-
+![java-logo](https://raw.githubusercontent.com/erkanceylan/blog/gh-pages/images/java-logo.jpg)
 Merhabalar bu yazımda Java'da işletim sistemi üzerinde çalışan process bilgilerini listelemeyi göstereceğim.
 
 ## Process Nedir ?
