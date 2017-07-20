@@ -16,6 +16,8 @@ paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
 baseurl: http://erkanceylan.com
+aboutUrl: http://erkanceylan.com/about
+projectsUrl:http://erkanceylan.com/projects
 
 # Includes
 addthisId: ""
