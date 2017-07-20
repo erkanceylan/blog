@@ -6,7 +6,7 @@ permalink: /about/
 ##  # Hakkımda
 -----
 	
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="https://user-images.githubusercontent.com/9788440/28412272-50288b72-6d4c-11e7-97d2-699307e70c8c.jpg" title="Profile-Picture" class="profile">
 	
 Merhabalar, ben [Erkan Ceylan][erkanceylan]. Bu da benim kişisel blogum.
 	
@@ -15,29 +15,29 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 ##  # Eğitim
 -----  
 	
-* __Susurluk Anadolu Teknik Lisesi__ / Bilişim Teknolojileri Bölümü
+- __Susurluk Anadolu Teknik Lisesi__ / Bilişim Teknolojileri Bölümü
 	- C
 	- C#
 	- SQL
 	- Database Management Systems  
 	
-* __Sakarya Üniversitesi__ / Bilgisayar Mühendisliği Bölümü
+- __Sakarya Üniversitesi__ / Bilgisayar Mühendisliği Bölümü
 	- C++
 	- Java
 	- PostgreSql
 	- UML Diagrams  
 	
-* __University of Rzeszow__ / 2017-18 Erasmus+  
+- __University of Rzeszow__ / 2017-18 Erasmus+  
 	
 ##  # Tecrübelerim
 -----
 	
-* __Eflatun Yazılım__ / İstanbul, Başakşehir, Living Lab(_Stajyer_)
+- __Eflatun Yazılım__ / İstanbul, Başakşehir, Living Lab(_Stajyer_)
     - Game Development
 	- Unity 3D with C#
 	- Android Applications  
 	
-* __Bosch Fren Sistemleri__ / Bursa, Nilüfer, Organize Sanayi Bölgesi(_Stajyer_)
+- __Bosch Fren Sistemleri__ / Bursa, Nilüfer, Organize Sanayi Bölgesi(_Stajyer_)
 	- Bosch Production Systems
 	- Kanban System
 	- falan filan  
@@ -52,6 +52,7 @@ meraklılara elimden geldiğince tanıtıyorum.
 Tutkulu bir Beşiktaş taraftarı olmamın dışında, seyahat etmek, kampa gitmek, spor yapmak gibi hobilerim bulunmakta.  
 	
 ***********
+
 Bana alttaki linklerin herhangi birinden ulaşabilirsiniz. Esen kalın efenim...  
 	
 
