@@ -34,12 +34,12 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 ## Tecrübelerim
 -----
 <br/>
-- __Eflatun Yazılım__ / İstanbul, Başakşehir, Living Lab(_Stajyer_)
+- __Eflatun Yazılım__ / İstanbul, Başakşehir, Living Lab(`Stajyer`)
     - Game Development
 	- Unity 3D with C#
 	- Android Applications  
 <br/>
-- __Bosch Fren Sistemleri__ / Bursa, Nilüfer, Organize Sanayi Bölgesi(_Stajyer_)
+- __Bosch Fren Sistemleri__ / Bursa, Nilüfer, Organize Sanayi Bölgesi(`Stajyer`)
 	- Bosch Production Systems
 	- Kanban System
 	- falan filan  
@@ -53,6 +53,7 @@ meraklılara elimden geldiğince tanıtıyorum.
 <br/>
 Tutkulu bir Beşiktaş taraftarı olmamın dışında, seyahat etmek, kampa gitmek, spor yapmak gibi hobilerim bulunmakta.  
 <br/>
+
 ***********
 
 Bana alttaki linklerin herhangi birinden ulaşabilirsiniz. Esen kalın efenim...  
