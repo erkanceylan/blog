@@ -3,10 +3,10 @@ layout: default
 title: About
 permalink: /about/
 ---
+<img style="height:300px;width:300px" src="https://user-images.githubusercontent.com/9788440/28412272-50288b72-6d4c-11e7-97d2-699307e70c8c.jpg" title="Profile-Picture" class="profile">
+	
 ##  # Hakkımda
 -----
-	
-<img src="https://user-images.githubusercontent.com/9788440/28412272-50288b72-6d4c-11e7-97d2-699307e70c8c.jpg" title="Profile-Picture" class="profile">
 	
 Merhabalar, ben [Erkan Ceylan][erkanceylan]. Bu da benim kişisel blogum.
 	
