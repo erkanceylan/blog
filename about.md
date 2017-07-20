@@ -11,7 +11,7 @@ Merhabalar, ben [Erkan Ceylan][erkanceylan]. Bu da benim kişisel blogum.
   
 Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisayar Mühendisliği bölümü son sınıf öğrencisiyim.  
   
-## Eğitim
+##  #Eğitim
 -----  
 
 * __Susurluk Anadolu Teknik Lisesi__ / Bilişim Teknolojileri Bölümü
@@ -28,20 +28,20 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 	
 * __University of Rzeszow__ / 2017-18 Erasmus+  
 
-## Tecrübelerim
+##  #Tecrübelerim
 -----  
 
-* __Eflatun Yazılım__ / İstanbul, Başakşehir, Living Lab(__Stajyer__)
-	- Game Development
+* __Eflatun Yazılım__ / İstanbul, Başakşehir, Living Lab(_Stajyer_)
+    - Game Development
 	- Unity 3D with C#
 	- Android Applications  
 	
-* __Bosch Fren Sistemleri__ / Bursa, Nilüfer, Organize Sanayi Bölgesi(__Stajyer__)
+* __Bosch Fren Sistemleri__ / Bursa, Nilüfer, Organize Sanayi Bölgesi(_Stajyer_)
 	- Bosch Production Systems
 	- Kanban System
 	- falan filan  
 	
-## Hobilerim
+##  #Hobilerim
 -----  
 
 Yazılım alanında birşeyler öğrenip(Android, Game Development, Web), birşeyler araştırmayı(Cyber Security) ve ortaya birşeyler çıkarmayı çok seviyorum. Ortamlarda kullanabileceğim
