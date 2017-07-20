@@ -33,7 +33,7 @@ You can find out more info about customizing your Jekyll theme, as well as basic
 [github]: https://github.com/erkanceylan
 [facebook]: https://facebook.com/erkanceylan.4
 [twitter]: https://twitter.com/erkan4ceylan
-[linkedin]: https://linkedin.com/user/erkanceylan
+[linkedin]: https://tr.linkedin.com/in/erkanceylan
 [medium]: https://medium.com/erkanceylan
 [mail]: mailto:erkanceylan4@gmail.com
 [pinterest]: https://pinterest.com/
