@@ -3,17 +3,18 @@ layout: default
 title: About
 permalink: /about/
 ---
-## Hakkımda
+##  # Hakkımda
 -----
+	
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
-  
+	
 Merhabalar, ben [Erkan Ceylan][erkanceylan]. Bu da benim kişisel blogum.
-  
+	
 Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisayar Mühendisliği bölümü son sınıf öğrencisiyim.  
-  
-##  #Eğitim
+	
+##  # Eğitim
 -----  
-
+	
 * __Susurluk Anadolu Teknik Lisesi__ / Bilişim Teknolojileri Bölümü
 	- C
 	- C#
@@ -27,10 +28,10 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 	- UML Diagrams  
 	
 * __University of Rzeszow__ / 2017-18 Erasmus+  
-
-##  #Tecrübelerim
------  
-
+	
+##  # Tecrübelerim
+-----
+	
 * __Eflatun Yazılım__ / İstanbul, Başakşehir, Living Lab(_Stajyer_)
     - Game Development
 	- Unity 3D with C#
@@ -41,17 +42,17 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 	- Kanban System
 	- falan filan  
 	
-##  #Hobilerim
+##  # Hobilerim
 -----  
-
+	
 Yazılım alanında birşeyler öğrenip(Android, Game Development, Web), birşeyler araştırmayı(Cyber Security) ve ortaya birşeyler çıkarmayı çok seviyorum. Ortamlarda kullanabileceğim
 entel dantel diyebileceğimiz gerekli gereksiz yeni şeyleri araştırmaya, sorgulamaya bayılıyorum. Bunları da bu blog vasıtasıyla
 meraklılara elimden geldiğince tanıtıyorum.  
-  
+	
 Tutkulu bir Beşiktaş taraftarı olmamın dışında, seyahat etmek, kampa gitmek, spor yapmak gibi hobilerim bulunmakta.  
-  
+	
 Bana alttaki linklerin herhangi birinden ulaşabilirsiniz. Esen kalın efenim...  
-  
+	
 
 [Linkedin][linkedin]  
   
