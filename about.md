@@ -51,6 +51,7 @@ meraklılara elimden geldiğince tanıtıyorum.
 	
 Tutkulu bir Beşiktaş taraftarı olmamın dışında, seyahat etmek, kampa gitmek, spor yapmak gibi hobilerim bulunmakta.  
 	
+***********
 Bana alttaki linklerin herhangi birinden ulaşabilirsiniz. Esen kalın efenim...  
 	
 
