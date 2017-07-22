@@ -35,11 +35,13 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 -----
 <br/>
 - __Eflatun Yazılım__ / İstanbul, Başakşehir, Living Lab(`Stajyer`)
+***********
     - Game Development
 	- Unity 3D with C#
 	- Android Applications  
 <br/>
 - __Bosch Fren Sistemleri__ / Bursa, Nilüfer, Organize Sanayi Bölgesi(`Stajyer`)
+***********
 	- Bosch Production Systems
 	- Kanban System
 	- falan filan  
