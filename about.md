@@ -18,16 +18,16 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 -----  
 <br/>
 - __Susurluk Anadolu Teknik Lisesi__ / Bilişim Teknolojileri Bölümü
-	&emsp;- C
-	&emsp;- C#
-	&emsp;- SQL
-	&emsp;- Database Management Systems  
+&emsp;- C
+&emsp;- C#
+&emsp;- SQL
+&emsp;- Database Management Systems  
 <br/>
 - __Sakarya Üniversitesi__ / Bilgisayar Mühendisliği Bölümü
-	&emsp;- C++
-	&emsp;- Java
-	&emsp;- PostgreSql
-	&emsp;- UML Diagrams  
+&emsp;- C++
+&emsp;- Java
+&emsp;- PostgreSql
+&emsp;- UML Diagrams  
 <br/>
 - __University of Rzeszow__ / 2017-18 Erasmus+  
 <br/>
@@ -35,14 +35,14 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 -----
 <br/>
 - __Eflatun Yazılım__ / İstanbul, Başakşehir, Living Lab(`Stajyer`)
-    &emsp;- Game Development
-	&emsp;- Unity 3D with C#
-	&emsp;- Android Applications  
+&emsp;- Game Development
+&emsp;- Unity 3D with C#
+&emsp;- Android Applications  
 <br/>
 - __Bosch Fren Sistemleri__ / Bursa, Nilüfer, Organize Sanayi Bölgesi(`Stajyer`)
-	&emsp;- Bosch Production Systems
-	&emsp;- Kanban System
-	&emsp;- falan filan  
+&emsp;- Bosch Production Systems
+&emsp;- Kanban System
+&emsp;- falan filan  
 <br/>
 ## Hobilerim
 -----  
