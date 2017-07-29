@@ -12,8 +12,7 @@ Bu yaz Bursa Bosch Fren Sistemleri fabrikasında stajı gerçekleştirdim. Ve bi
 Yalın Üretim, üretime yük getiren tüm israflardan arınmayı hedef alan bir yaklaşım. Yalın üretimin ana stratejisi üretimde hızı artırıp, 
 akış süresini azaltarak; kalite, maliyet ve teslimat performansını iyileştirmektir. Yalın üretim bu felsefenin genel adı olmakla birlikte pek çok özelliği bu işin fenomeni Totoya'nın icat ettiği Toyota Production System(TPS) ile aynıdır. Araştırmak isteyenler için [Taiichi Ohno][taiichiohno] bu işin üstadı ve TPS'in kurucusu olan mühendis. Kendisi unutulmaz ilham verici sözleri ve mimarı olduğu üretim sistemi ile bugün birçok firmanın ulaşmaya çalıştığı mükemmellik yolculuğunun ilk yolcusu.
 
-https://user-images.githubusercontent.com/9788440/28749129-8a156504-74c6-11e7-9a0f-b42761b2e22f.jpg
-
+![Image of Taiichi Ohno](https://user-images.githubusercontent.com/9788440/28749129-8a156504-74c6-11e7-9a0f-b42761b2e22f.jpg)
 
 Çok sevdiğim bir Javascript kütüphanesininde dediği gibi:
 > Do more with less. -JQuery
