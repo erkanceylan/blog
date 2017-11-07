@@ -65,7 +65,7 @@ Sorumluluğu tanımlamak için yetki kavramını tanımlamak gerekir. Yetki bir 
 
 Seyirci etkisi, yardıma ihtiyaç duyulan bir durumda, çevrede olaya tanıklık eden kişi sayısı ne kadar fazla ise, müdahale eden kişi sayısının o oranda düştüğünü belirten psikolojik terim. Yabancıların "diffusion of responsibility" olarak adlandırdığı olay Türkçe'ye "sorumluluğun yayılması" olarak geçiyor. 
 
-Olası bir yardım ihtiyacı durumunda, etrafta çok sayıda tanık varsa, her bir tanık orada bulunan diğerlerinin müdahale edeceğini düşünerek duruma kayıtsız kalıyor ve bu durum hiç kimsenin müdahale etmemesi gibi sonuçlara yol açabiliyor. Yardım gerektiren bir durumla karşılaşıldığında yardımın hızlı gelmesini sağlayabilmek için "yardım edin lütfen" demek yerine toplumdaki bir kişiyi işaret ederek yardım istemeyi -örneğin 'sarı şemsiyeli lütfen yardım edin' demek- öneriyor. Böylelikle seyirci etkisi yenilmiş oluyor ve yardım çok daha çabuk geliyor.
+Olası bir yardım ihtiyacı durumunda, etrafta çok sayıda tanık varsa, her bir tanık orada bulunan diğerlerinin müdahale edeceğini düşünerek duruma kayıtsız kalıyor ve bu durum hiç kimsenin müdahale etmemesi gibi sonuçlara yol açabiliyor. Yardım gerektiren bir durumla karşılaşıldığında yardımın hızlı gelmesini sağlayabilmek için "yardım edin lütfen" demek yerine toplumdaki bir kişiyi işaret ederek yardım istemeyi -örneğin 'sarı şemsiyeli lütfen yardım edin' demek- öneriliyor. Böylelikle seyirci etkisi yenilmiş oluyor ve yardım çok daha çabuk geliyor.
 
 ![Gif of Bystander](https://user-images.githubusercontent.com/9788440/32509774-a2f6cd8e-c3ee-11e7-954e-ca68908e4e3c.gif)
 
