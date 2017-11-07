@@ -6,7 +6,7 @@ id: 4
 coverPhoto: https://user-images.githubusercontent.com/9788440/32510866-4b534bd0-c3f2-11e7-81d3-4e2fd16acfc5.jpg
 ---
 ![Main Image](https://user-images.githubusercontent.com/9788440/32510866-4b534bd0-c3f2-11e7-81d3-4e2fd16acfc5.jpg)
-İnsan dünyanın en gelişmiş ve aynı zamanda en zeki canlısı. İnsan psikolojisi de beyni bu denli komplike ve gelişmiş olan bir canlı 
+İnsan dünyanın en gelişmiş ve aynı zamanda en zeki canlısı. İnsan psikolojisi de, beyni bu denli komplike ve gelişmiş olan bir canlı 
 için oldukça karmaşık. İnsan psikolojisine hep bir ilgim olmuştur ve toplumsal olaylar karşısında insanların anlamsız davranışları 
 veya uç tepkileri hep dikkatimi çekmiştir. Peki neden? Hayatını neden-sonuç ilişkisi üzerine kuran insanlar ne oluyorda bazen 
 çok mantıksız kararlar alabiliyorlar. Bazı insanları neden anlaması gerçekten çok zor oluyor. Bu yazımda az bilinen ama toplumda 
@@ -62,6 +62,8 @@ Kimi zaman, yalnızca rehin alma değil, taciz, tecavüz, aile içi şiddet, din
 -----
 
 Sorumluluğu tanımlamak için yetki kavramını tanımlamak gerekir. Yetki bir konuda karar alma, harekete geçme gücü, yani bir olaya müdahale edebilmek için gerekli olduğu düşünülen haktır, sorumluluk ise bu yetkiyi kullanma zorunluluğudur.
+
+![Images of Bystander](https://user-images.githubusercontent.com/9788440/32510844-3589d9cc-c3f2-11e7-9df6-8de1af9a817f.jpg)
 
 Seyirci etkisi, yardıma ihtiyaç duyulan bir durumda, çevrede olaya tanıklık eden kişi sayısı ne kadar fazla ise, müdahale eden kişi sayısının o oranda düştüğünü belirten psikolojik terim. Yabancıların "diffusion of responsibility" olarak adlandırdığı olay Türkçe'ye "sorumluluğun yayılması" olarak geçiyor. 
 
