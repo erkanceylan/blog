@@ -72,18 +72,18 @@ Olası bir yardım ihtiyacı durumunda, etrafta çok sayıda tanık varsa, her b
 # Truman Sanrısı
 -----
 
+Bu hususta biraz ‘’sanrı’’nın da ne olduğunu kısaca açıklamamızda fayda olacağını düşünüyorum.
+
+Sanrı; diğer insanların inandıklarını önemsemeden, mevcut düşüncelerinin hatalı olduğuna dair kesin kanıtlar olmasına rağmen, değiştirilemeyen ve dış gerçeklerden yanlış anlamlar çıkartmaya dayalı düşüncelerdir. Paranoya, hezeyan ve delüzyon da diğer aynı ya da benzer ifadeleridir. Biraz karışık bir tanım, özetle insanın kendi yanlış düşüncesini içten içe bir gerçek gibi kabullenmesi ve aksi tüm durumları reddetmesi olayı.
+
+![Image of Truman](https://user-images.githubusercontent.com/9788440/32518778-ed2c5506-c40a-11e7-897a-f19654ab065b.jpg)
+
 The Truman Show filmi bir çok açıdan çeşitli psikolojik ve sosyolojik açılımlara ve yansımalara neden olmuştur. 
 Özellikle metropol şehirlerde binlerce kamera tarafından takip edilmekte olduğumuzdan, sosyal medya ve iletişim araçları 
 tarafından kişisel tercihlerimize kadar en ince detaylar analiz edildiğinden, uydular aracılığı ile istendiğinde en mahrem 
 yerlere bile girilebildiğinden zaten bazen paranoyaya varan genel bir rahatsızlık söz konusudur.
 
-![Image of Truman](https://user-images.githubusercontent.com/9788440/32518778-ed2c5506-c40a-11e7-897a-f19654ab065b.jpg)
-
-Bütün bu faktörler bir araya geldiğinde bilhassa kuşkucu kişilerde truman sendromu dediğimiz sanrısal bozukluklar ortaya çıkabilmektedir. 
-
-Bu noktada sanrının boyutu şiddetli kuşkucu nöroz tablosundan, ağır hezeyanlı psikoz durumuna kadar değişkenlik göstermektedir. Bu hususta biraz ‘’sanrı’’nın da ne olduğunu kısaca açıklamamızda fayda olacağını düşünüyorum.
-
-Sanrı; diğer insanların inandıklarını önemsemeden, mevcut düşüncelerinin hatalı olduğuna dair kesin kanıtlar olmasına rağmen, değiştirilemeyen ve dış gerçeklerden yanlış anlamlar çıkartmaya dayalı düşüncelerdir. Paranoya, hezeyan ve delüzyon da diğer aynı ya da benzer ifadeleridir. Çok çeşitli sanrı türleri vardır.
+Bütün bu faktörler bir araya geldiğinde bilhassa kuşkucu kişilerde truman sendromu dediğimiz sanrısal bozukluklar ortaya çıkabilmektedir. Bu noktada sanrının boyutu şiddetli kuşkucu nöroz tablosundan, ağır hezeyanlı psikoz durumuna kadar değişkenlik göstermektedir. 
 
 # Kaynakça
 -----
