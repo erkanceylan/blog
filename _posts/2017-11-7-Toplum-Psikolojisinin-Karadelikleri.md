@@ -5,6 +5,7 @@ author: Erkan Ceylan
 id: 4
 coverPhoto: https://user-images.githubusercontent.com/9788440/32510866-4b534bd0-c3f2-11e7-81d3-4e2fd16acfc5.jpg
 ---
+![Main Image](https://user-images.githubusercontent.com/9788440/32510866-4b534bd0-c3f2-11e7-81d3-4e2fd16acfc5.jpg)
 İnsan dünyanın en gelişmiş ve aynı zamanda en zeki canlısı. İnsan psikolojisi de beyni bu denli komplike ve gelişmiş olan bir canlı 
 için oldukça karmaşık. İnsan psikolojisine hep bir ilgim olmuştur ve toplumsal olaylar karşısında insanların anlamsız davranışları 
 veya uç tepkileri hep dikkatimi çekmiştir. Peki neden? Hayatını neden-sonuç ilişkisi üzerine kuran insanlar ne oluyorda bazen 
@@ -23,17 +24,19 @@ Bir kişi bir konuda yetersizse;
 *	Diğer insanlarda gerçekten olan yetenek ve becerileri farketmemeye meyillidir.
 *	Kendisindeki yetersizliğin seviyesini göremez.
 *	Eğer o beceride eğitime tabi tutulursa, daha önceden yetersiz olduğunu farketmemeye yatkındır.
-<br/>
+
 ![Image of Dunning Kruger](https://user-images.githubusercontent.com/9788440/32510858-44b1ea52-c3f2-11e7-88f4-43f3d983b8c6.jpg)
+
 Dunning-Kruger’in yaptığı deneyin bir de diğer yüzü var. Yeteneklerini değerlendiren gerçekten yetenekli ve gerçekten yeteneksiz 
 üniversite öğrencilerinden, gerçekten yeteneksiz olanları kendilerini olduklarından iyi değerlendirirken; gerçekten yetenekli olanları 
 da kendilerini gerçekten olduklarından çok daha kötü değerlendiriyorlar. İlginç değil mi? Dunning-Kruger efekti henüz yeni 
 keşfedilmiş(1999) olsa da, birçok filozof ve düşünürün özlü sözleri aslında toplumu iyi gözlemleyen insanların bu fenomene 
 isim koymadan farkında olduklarını gösteriyor. 
-<br/>
+
 Örnek olarak, 
 > “Gerçek bilgi kişinin cehaletinin boyutunu anlayabilmesidir.” -Konfüçyüs
-<br/>
+
+
 > “Belki de zamanımızın en acı verici şeylerinden biri, bir fikri hiç şüphe duymadan savunan kişiler çoğunlukla aptal olması, ve biraz hayal gücü ve anlayışı olan kişiler ise şüphe ve kararsızlık dolu olmasıdır.”  -Bertrand Russel
 
 sözleri aslında Dunning-Kruger etkisinin özlüce dillendirilmiş halidir.
@@ -41,6 +44,7 @@ sözleri aslında Dunning-Kruger etkisinin özlüce dillendirilmiş halidir.
 # Stockholm Sendromu
 -----
 Psikiyatr Nils Bejerot tarafından adlandırılan sendrom, ismini 1973 yılında İsveç'in başkenti Stokholm'de yaşanan bir olaydan almaktadır. Banka soyguncusu tarafından altı gün boyunca rehin tutulan bir kadın, kendisini rehin alan soyguncuyla diyaloğu ve iletişimi sonucu, sempati ve empati gelişimiyle ona duygusal olarak bağlanır. Serbest kaldığında soyguncuyu savunmakla kalmaz, nişanlısını terk ederek kendisini rehin alan banka soyguncusunun hapisten çıkmasını bekler.
+
 Stockholm sendromu birçok rehine olayında yaşanmıştır.
 
 ![Image of Stockholm Sendrom](https://user-images.githubusercontent.com/9788440/32512533-91907262-c3f7-11e7-8e90-d98179838fbc.jpg)
@@ -56,25 +60,29 @@ Kimi zaman, yalnızca rehin alma değil, taciz, tecavüz, aile içi şiddet, din
 
 # Seyirci Etkisi(Bystander Effect)
 -----
+
 Sorumluluğu tanımlamak için yetki kavramını tanımlamak gerekir. Yetki bir konuda karar alma, harekete geçme gücü, yani bir olaya müdahale edebilmek için gerekli olduğu düşünülen haktır, sorumluluk ise bu yetkiyi kullanma zorunluluğudur.
 
 Seyirci etkisi, yardıma ihtiyaç duyulan bir durumda, çevrede olaya tanıklık eden kişi sayısı ne kadar fazla ise, müdahale eden kişi sayısının o oranda düştüğünü belirten psikolojik terim. Yabancıların "diffusion of responsibility" olarak adlandırdığı olay Türkçe'ye "sorumluluğun yayılması" olarak geçiyor. 
+
 Olası bir yardım ihtiyacı durumunda, etrafta çok sayıda tanık varsa, her bir tanık orada bulunan diğerlerinin müdahale edeceğini düşünerek duruma kayıtsız kalıyor ve bu durum hiç kimsenin müdahale etmemesi gibi sonuçlara yol açabiliyor. Yardım gerektiren bir durumla karşılaşıldığında yardımın hızlı gelmesini sağlayabilmek için "yardım edin lütfen" demek yerine toplumdaki bir kişiyi işaret ederek yardım istemeyi -örneğin 'sarı şemsiyeli lütfen yardım edin' demek- öneriyor. Böylelikle seyirci etkisi yenilmiş oluyor ve yardım çok daha çabuk geliyor.
+
 ![Gif of Bystander](https://user-images.githubusercontent.com/9788440/32509774-a2f6cd8e-c3ee-11e7-954e-ca68908e4e3c.gif)
 
 # Truman Sanrısı
 -----
+
 The Truman Show filmi bir çok açıdan çeşitli psikolojik ve sosyolojik açılımlara ve yansımalara neden olmuştur. 
 Özellikle metropol şehirlerde binlerce kamera tarafından takip edilmekte olduğumuzdan, sosyal medya ve iletişim araçları 
 tarafından kişisel tercihlerimize kadar en ince detaylar analiz edildiğinden, uydular aracılığı ile istendiğinde en mahrem 
 yerlere bile girilebildiğinden zaten bazen paranoyaya varan genel bir rahatsızlık söz konusudur.
-<br/>
+
 ![Image of Truman](https://user-images.githubusercontent.com/9788440/32518778-ed2c5506-c40a-11e7-897a-f19654ab065b.jpg)
-<br/>
+
 Bütün bu faktörler bir araya geldiğinde bilhassa kuşkucu kişilerde truman sendromu dediğimiz sanrısal bozukluklar ortaya çıkabilmektedir. 
-<br/>
+
 Bu noktada sanrının boyutu şiddetli kuşkucu nöroz tablosundan, ağır hezeyanlı psikoz durumuna kadar değişkenlik göstermektedir. Bu hususta biraz ‘’sanrı’’nın da ne olduğunu kısaca açıklamamızda fayda olacağını düşünüyorum.
-<br/>
+
 Sanrı; diğer insanların inandıklarını önemsemeden, mevcut düşüncelerinin hatalı olduğuna dair kesin kanıtlar olmasına rağmen, değiştirilemeyen ve dış gerçeklerden yanlış anlamlar çıkartmaya dayalı düşüncelerdir. Paranoya, hezeyan ve delüzyon da diğer aynı ya da benzer ifadeleridir. Çok çeşitli sanrı türleri vardır.
 
 # Kaynakça
