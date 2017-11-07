@@ -3,7 +3,7 @@ layout: post
 title: Toplum Psikolojisinin Karadelikleri
 author: Erkan Ceylan
 id: 4
-coverPhoto: https://user-images.githubusercontent.com/9788440/28430091-e2b65f6a-6d87-11e7-95f8-f47b81a4001a.jpg
+coverPhoto: https://user-images.githubusercontent.com/9788440/32510866-4b534bd0-c3f2-11e7-81d3-4e2fd16acfc5.jpg
 ---
 İnsan dünyanın en gelişmiş ve aynı zamanda en zeki canlısı. İnsan psikolojisi de beyni bu denli komplike ve gelişmiş olan bir canlı 
 için oldukça karmaşık. İnsan psikolojisine hep bir ilgim olmuştur ve toplumsal olaylar karşısında insanların anlamsız davranışları 
@@ -17,20 +17,23 @@ Belki daha önce duymuş olabileceğiniz yada öğrendikten sonra daha önce mut
 etkisi. Cornell’li psikologlar David Dunning ve Justin Kruger tarafından 1999’da keşfediliyor. Bu fenomene göre, bir beceride yetersiz 
 insanlar, o konuda kendini diğer insanlardan genelde daha üstün görüyorlar. Nasıl mı diye sorarsanız, Dunning ve Kruger bunu adım adım 
 açıklamış:
+<br/>
 Bir kişi bir konuda yetersizse;
-•	O konuda kendi seviyesini başkalarından üstün görmeye daha yatkındır.
-•	Diğer insanlarda gerçekten olan yetenek ve becerileri farketmemeye meyillidir.
-•	Kendisindeki yetersizliğin seviyesini göremez.
-•	Eğer o beceride eğitime tabi tutulursa, daha önceden yetersiz olduğunu farketmemeye yatkındır.
+*	O konuda kendi seviyesini başkalarından üstün görmeye daha yatkındır.
+*	Diğer insanlarda gerçekten olan yetenek ve becerileri farketmemeye meyillidir.
+*	Kendisindeki yetersizliğin seviyesini göremez.
+*	Eğer o beceride eğitime tabi tutulursa, daha önceden yetersiz olduğunu farketmemeye yatkındır.
+<br/>
 ![Image of Dunning Kruger](https://user-images.githubusercontent.com/9788440/32510858-44b1ea52-c3f2-11e7-88f4-43f3d983b8c6.jpg)
 Dunning-Kruger’in yaptığı deneyin bir de diğer yüzü var. Yeteneklerini değerlendiren gerçekten yetenekli ve gerçekten yeteneksiz 
 üniversite öğrencilerinden, gerçekten yeteneksiz olanları kendilerini olduklarından iyi değerlendirirken; gerçekten yetenekli olanları 
 da kendilerini gerçekten olduklarından çok daha kötü değerlendiriyorlar. İlginç değil mi? Dunning-Kruger efekti henüz yeni 
 keşfedilmiş(1999) olsa da, birçok filozof ve düşünürün özlü sözleri aslında toplumu iyi gözlemleyen insanların bu fenomene 
 isim koymadan farkında olduklarını gösteriyor. 
-
+<br/>
 Örnek olarak, 
 > “Gerçek bilgi kişinin cehaletinin boyutunu anlayabilmesidir.” -Konfüçyüs
+<br/>
 > “Belki de zamanımızın en acı verici şeylerinden biri, bir fikri hiç şüphe duymadan savunan kişiler çoğunlukla aptal olması, ve biraz hayal gücü ve anlayışı olan kişiler ise şüphe ve kararsızlık dolu olmasıdır.”  -Bertrand Russel
 
 sözleri aslında Dunning-Kruger etkisinin özlüce dillendirilmiş halidir.
@@ -43,11 +46,11 @@ Stockholm sendromu birçok rehine olayında yaşanmıştır.
 ![Image of Stockholm Sendrom](https://user-images.githubusercontent.com/9788440/32512533-91907262-c3f7-11e7-8e90-d98179838fbc.jpg)
 
 Stockholm sendromu sonucunda oluşan sempati ve empati gelişiminde ortaya çıkan psikolojik ruhla birlikte,
-•	Rehine, onu rehin alan kişinin duygularını anlamaya başlar.
-•	Rehine, onu rehin alan kişinin oluşturduğu, kendisini zora sokan kötü koşulları benimser, bu koşulları savunur ve o kişinin yanında yer alır, ona yardım eder.
-•	Rehine saldırganla özdeşleşir.
-•	Hayatta kalma duygusunun verdiği duygu yoğunluğuyla rehine saldırganla birlikte hareket eder hale gelir.
-•	Tüm bu durumlar, kurbanın kendi kendine aldığı bir karar doğrultusunda gerçekleşmez. Bu aslında, yaşadığı şiddet ve anksiyetenin doğurduğu bir sonuçtur. 
+*	Rehine, onu rehin alan kişinin duygularını anlamaya başlar.
+*	Rehine, onu rehin alan kişinin oluşturduğu, kendisini zora sokan kötü koşulları benimser, bu koşulları savunur ve o kişinin yanında yer alır, ona yardım eder.
+*	Rehine saldırganla özdeşleşir.
+*	Hayatta kalma duygusunun verdiği duygu yoğunluğuyla rehine saldırganla birlikte hareket eder hale gelir.
+*	Tüm bu durumlar, kurbanın kendi kendine aldığı bir karar doğrultusunda gerçekleşmez. Bu aslında, yaşadığı şiddet ve anksiyetenin doğurduğu bir sonuçtur. 
 
 Kimi zaman, yalnızca rehin alma değil, taciz, tecavüz, aile içi şiddet, dini ve siyasi baskı sonucu oluşan birtakım saldırı durumlarında da Stockholm Sendromu'na rastlanabilir. Ülkemizde sıkça tanık olduğumuz ya da haberlerde gördüğümüz kocamdır sever de döver de mantığı tamamen Stockholm sendromunun etkisi altında olmanın getirisidir. Kadın kocasından sürekli dayak yediği için bir süre sonra bu durumun tek sorumlusunun kocası olduğu düşüncesinden uzaklaşır ve onunda yeterli gerekçeleri olabileceğini düşünür.
 
@@ -65,10 +68,13 @@ The Truman Show filmi bir çok açıdan çeşitli psikolojik ve sosyolojik açı
 Özellikle metropol şehirlerde binlerce kamera tarafından takip edilmekte olduğumuzdan, sosyal medya ve iletişim araçları 
 tarafından kişisel tercihlerimize kadar en ince detaylar analiz edildiğinden, uydular aracılığı ile istendiğinde en mahrem 
 yerlere bile girilebildiğinden zaten bazen paranoyaya varan genel bir rahatsızlık söz konusudur.
+<br/>
 ![Image of Truman](https://user-images.githubusercontent.com/9788440/32518778-ed2c5506-c40a-11e7-897a-f19654ab065b.jpg)
-
+<br/>
 Bütün bu faktörler bir araya geldiğinde bilhassa kuşkucu kişilerde truman sendromu dediğimiz sanrısal bozukluklar ortaya çıkabilmektedir. 
+<br/>
 Bu noktada sanrının boyutu şiddetli kuşkucu nöroz tablosundan, ağır hezeyanlı psikoz durumuna kadar değişkenlik göstermektedir. Bu hususta biraz ‘’sanrı’’nın da ne olduğunu kısaca açıklamamızda fayda olacağını düşünüyorum.
+<br/>
 Sanrı; diğer insanların inandıklarını önemsemeden, mevcut düşüncelerinin hatalı olduğuna dair kesin kanıtlar olmasına rağmen, değiştirilemeyen ve dış gerçeklerden yanlış anlamlar çıkartmaya dayalı düşüncelerdir. Paranoya, hezeyan ve delüzyon da diğer aynı ya da benzer ifadeleridir. Çok çeşitli sanrı türleri vardır.
 
 # Kaynakça
