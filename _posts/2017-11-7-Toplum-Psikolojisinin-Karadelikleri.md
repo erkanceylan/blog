@@ -76,7 +76,7 @@ Olası bir yardım ihtiyacı durumunda, etrafta çok sayıda tanık varsa, her b
 
 Bu hususta biraz ‘’sanrı’’nın da ne olduğunu kısaca açıklamamızda fayda olacağını düşünüyorum.
 
-Sanrı; diğer insanların inandıklarını önemsemeden, mevcut düşüncelerinin hatalı olduğuna dair kesin kanıtlar olmasına rağmen, değiştirilemeyen ve dış gerçeklerden yanlış anlamlar çıkartmaya dayalı düşüncelerdir. Paranoya, hezeyan ve delüzyon da diğer aynı ya da benzer ifadeleridir. Biraz karışık bir tanım, özetle insanın kendi yanlış düşüncesini içten içe bir gerçek gibi kabullenmesi ve aksi tüm durumları reddetmesi olayı.
+Sanrı; diğer insanların inandıklarını önemsemeden, mevcut düşüncelerinin hatalı olduğuna dair kesin kanıtlar olmasına rağmen, değiştirilemeyen ve dış gerçeklerden yanlış anlamlar çıkartmaya dayalı düşüncelerdir. Paranoya, hezeyan ve delüzyon da diğer aynı ya da benzer ifadeleridir. Biraz karışık bir tanım, özetle insanın kendi yanlış düşüncesini içten içe bir gerçek gibi kabullenmesi ve aksi tüm kanıtları reddetmesi olayı.
 
 ![Image of Truman](https://user-images.githubusercontent.com/9788440/32518778-ed2c5506-c40a-11e7-897a-f19654ab065b.jpg)
 
