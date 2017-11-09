@@ -10,22 +10,24 @@ coverPhoto: https://user-images.githubusercontent.com/9788440/32450387-5a5b15a6-
 
 Bilenler bilir bu yılın(2017-18 dönemi) güz yarıyılı için Erasmus+ öğrenci değişim programı kapsamında Polonya’da bulunuyorum. Ülkenin güneydoğusunda bulunan Rzeszow’da yaşıyorum. Rzeszow(Jaşow diye okunuyor) çok sakin bir yer ama yaşaması keyifli. Farklı bir yazıda burdaki hayatımdan da bahsederim. Bu sakinlikten biraz kaçmak için fırsat buldukça tatillerimi değerlendirip ülkenin ve avrupanın güzel kentlerini ziyaret etmeye çalışıyorum. Bu yazıda 14 Ekim tarihinde gezdiğim Krakow -Türkçe de Krakov- kentinden bahsedicem biraz. 
 
-Krakow, Polonya’nın(O zamanki adıyla Lehistan İmparatorluğu) 6 asır boyunca başkentliğini yapmış ve 2 Dünya Şavaşından hemen hemen hiç hasar almadan kurtulan nadir bir kent. Yüzyıllar boyunca  ülkenin bilim, kültür ve sanat merkezi olan şehir birçok kuşatmaya, savaşa ve soykırım dramına şahitlik etmiş.
+Krakow, Polonya’nın(O zamanki adıyla Lehistan İmparatorluğu) 6 asır boyunca başkentliğini yapmış ve 2 Dünya Şavaşından hemen hemen hiç hasar almadan kurtulan nadir bir kent. Yüzyıllar boyunca  ülkenin bilim, kültür ve sanat merkezi olan şehir, birçok kuşatmaya, savaşa ve soykırım dramına şahitlik etmiş.
 Krakow’u gezmeye Old Town’dan başlamanızı tavsiye ederim. Eski şehire girer girmez kendinizi 100-200 yıl öncesinde bulduğunuz bir tarihi doku karşılıyor sizi.
 
 ![Market Square](https://user-images.githubusercontent.com/9788440/32450387-5a5b15a6-c314-11e7-8fb8-85dfd786ad63.jpg)
 
-Yukarıda gördüğünüz resim Old Town’daki Market Square, Polonyalılar’ın deyimiyle Rynek Główny. Burası Orta Çağ’dan kalma en büyük şehir meydanıymış. 200 metre x 200 metre olan meydanda yok yok. Belki de meydanın 4 futbol sahası büyüklüğündeki devasa boyutunu daha az göstermek için ortasına "Kumaşçılar Binası" adı verilen sarı bir bina inşa edilmiş. İçinde birbirine benzeyen çok sayıda turistik mağaza bulunuyor. Vitrinlerde hediyelik eşya, kolye, bilezik, ve yüzükler göze çarpıyor.
+Yukarıda gördüğünüz resim Old Town’daki Market Square, Polonyalılar’ın deyimiyle Rynek Główny. Burası Avrupa'daki Orta Çağ’dan kalma en büyük şehir meydanıymış. 200 metre x 200 metre olan meydanda yok yok. Belki de meydanın devasa boyutunu daha az göstermek için ortasına "Kumaşçılar Binası" adı verilen sarı bir bina inşa edilmiş. İçinde birbirine benzeyen çok sayıda turistik mağaza bulunuyor. Vitrinlerde hediyelik eşya, kolye, bilezik, ve yüzükler göze çarpıyor.
 
 ![St Marry’s Basilica](https://user-images.githubusercontent.com/9788440/32445973-ad9dce1e-c307-11e7-8e07-6ade745c9392.jpeg)
 
-Burasıysa meydan girince gözünüze ilk çarpan yapı St.Marry’s Basilica. İhtişamıyla gözünüzü alan bazilikanın yapımına 1223 yılında başlanmış ve 1347 yılında tamamlanmış. Bu devasa yapının kuleleri farklı zamanlarda tamamlandığı için yaparken etkilenilen sanat akımı da farklılık göstermiş kısa olan sağ kule barok akımıyla yapılırken uzun ve ihtişamlı sol kulenin ahşap mihrabı gotik sanat akımının en değerli örneklerindenmiş.
+Burasıysa meydan girince gözünüze ilk çarpan yapı St.Marry’s Basilica. İhtişamıyla gözünüzü alan bazilikanın yapımına 1223 yılında başlanmış ve 1347 yılında tamamlanmış. Bu devasa yapının kuleleri farklı zamanlarda tamamlandığı için yaparken etkilenilen sanat akımı da farklılık göstermiş haliyle. Kısa olan sağ kule barok akımından ilham alırken, uzun ve ihtişamlı sol kulenin ahşap mihrabı gotik sanat akımının en değerli örneklerindenmiş.
 
 Duyduğum hikayeye göre sol kulenin ahşap mihrabını yapan Alman sanatçı çok yüksek bir bedel talep ediyor. Belediye de bu parayı bir kere de ödeyemeyeceğini, taksitler halinde verebileceğini belirtiyor. Bunu kabul eden sanatçı Krakow’da yaşamaya başlıyor ve Polonyalı bir güzele aşık oluyor. Kızla evlenen sanatçı kalan taksitlerini şehre hibe ediyor ve ölene dek Krakow’da yaşıyor.
 
 Meydanda dolanan turistleri her saatbaşında bir sürpriz karşılıyor. St.Marry’s Bazilikasının sol kulesindeki camdan bir görevli çıkıyor ve trompet ile bir melodi çalmaya başlıyor. İnsanın ruhuna dokunan bu küçük resital melodinin ortasında birden kesiliyor. 
 
-[![Youtube Yarım Çalınan Melodi Videosu](https://img.youtube.com/vi/kHoK5HephDs/0.jpg)](https://www.youtube.com/watch?v=kHoK5HephDs)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=kHoK5HephDs
+" target="_blank"><img src="http://img.youtube.com/vi/kHoK5HephDs/0.jpg" 
+alt="Youtube Yarım Çalınan Melodi Videosu" width="240" height="180" border="10" /></a>
 
 Bestenin adı Hejnal yani Macarca Güneşin Doğuşu. Bu yarım çalınan melodinin sembolik bir anlamı var Polonyalılar için. 14. Yüzyıldaki Tatar istilası sırasında bir rutin olarak çalınmakta olunan bu resital Tatar bir okçunun görevliyi okuyla öldürmesi sonucu yarıda kalmıştır. O gün bu gündür her saat başında şehir itfaiyesinde görevli kişiler kuleye çıkarak bu besteyi, yarım olarak temsili bir şekilde çalmakta ve krallık için büyük bir yıkım olan Tatar istilasını Leh ırkına hatırlatmaktadır.  
 
