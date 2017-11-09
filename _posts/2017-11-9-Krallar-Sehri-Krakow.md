@@ -3,7 +3,7 @@ layout: post
 title: "Krallar Şehri : Krakow"
 author: Erkan Ceylan
 id: 5
-coverPhoto: https://user-images.githubusercontent.com/9788440/32510866-4b534bd0-c3f2-11e7-81d3-4e2fd16acfc5.jpg 
+coverPhoto: https://user-images.githubusercontent.com/9788440/32450387-5a5b15a6-c314-11e7-8fb8-85dfd786ad63.jpg 
 ---
 
 ![Main-Image](https://user-images.githubusercontent.com/9788440/32580823-845682bc-c4e7-11e7-9655-07e78bec5ec5.jpg)
