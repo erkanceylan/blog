@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Krallar Şehri: Krakow
+title: Yalın Üretim Nedir?
 author: Erkan Ceylan
 id: 5
 coverPhoto: https://user-images.githubusercontent.com/9788440/28430091-e2b65f6a-6d87-11e7-95f8-f47b81a4001a.jpg 
