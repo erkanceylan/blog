@@ -29,7 +29,7 @@ Meydanda dolanan turistleri her saatbaşında bir sürpriz karşılıyor. St.Mar
 " target="_blank"><img src="http://img.youtube.com/vi/kHoK5HephDs/0.jpg" 
 alt="Youtube Yarım Çalınan Melodi Videosu" width="240" height="180" border="10" /></a>
 
-Bestenin adı Hejnal yani Macarca Güneşin Doğuşu. Bu yarım çalınan melodinin sembolik bir anlamı var Polonyalılar için. 14. Yüzyıldaki Tatar istilası sırasında bir rutin olarak çalınmakta olunan bu resital Tatar bir okçunun görevliyi okuyla öldürmesi sonucu yarıda kalmıştır. O gün bu gündür her saat başında şehir itfaiyesinde görevli kişiler kuleye çıkarak bu besteyi, yarım olarak temsili bir şekilde çalmakta ve krallık için büyük bir yıkım olan Tatar istilasını Leh ırkına hatırlatmaktadır.  
+Bestenin adı Hejnal, yani Macarca Güneşin Doğuşu. Bu yarım çalınan melodinin sembolik bir anlamı var Polonyalılar için. 14. Yüzyıldaki Tatar istilası sırasında bir rutin olarak çalınmakta olunan bu resital, Tatar bir okçunun görevliyi okuyla öldürmesi sonucu yarıda kalmıştır. O gün bu gündür her saat başında şehir itfaiyesinde görevli kişiler kuleye çıkarak bu besteyi, yarım olarak temsili bir şekilde çalmakta ve imparatorluk için büyük bir yıkım olan Tatar istilasını Leh ırkına hatırlatmaktadır.  
 
 ![Saat kulesi](https://user-images.githubusercontent.com/9788440/32450373-567a8782-c314-11e7-9951-6882ec96f4e2.jpeg)
 
