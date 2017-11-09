@@ -1,13 +1,5 @@
 ---
 layout: post
-title: Toplum Psikolojisinin Karadelikleri
-author: Erkan Ceylan
-id: 5
-coverPhoto: https://user-images.githubusercontent.com/9788440/32510866-4b534bd0-c3f2-11e7-81d3-4e2fd16acfc5.jpg
----
-
----
-layout: post
 title: Krallar Şehri: Krakow
 author: Erkan Ceylan
 id: 5
@@ -52,7 +44,7 @@ Bu koca meydan bu kadarla da bitmiyor: Sevimli kafeler, meydanın çeşitli yerl
 Efsane bu ya bu kalenin altında zamanında bir ejderha yaşarmış. Ejderhayı hiçbir şövalye öldürememiş ve ejderha şehrin başına büyük bir bela olmaya başlamış. Kral Krakus’ta hal böyle olunca ejderhayı kim öldürürse kızımla evlendiririm diye halkı gaza getirmiş. Kralında bir kızı olunca taht sevdasına ne gençler ne abiler, kalplerindeki prenses aşkının ateşinden mi ejderhanın ateşinden midir bilinmez kor olmuş gitmiş. Günün birinde de bir ayakkabıcı kardeş çıkmış gelmiş, ben bu ejderi yerim arkadaş demiş ve planına göre bir koyunun içini komple sülfürle doldurmuş. Sonra da ejderhanın ininin önüne bırakmış. Koyunu gören ejder reyis “huaahh malakadan koyun” diye atılmış ve bir lokmada gömmüş. Sülfürü yiyen ejder çok acayip susamış ve neredeyse nehrin tamamını içmiş. O kadar yükü kaldıramayınca da patlamış, ölmüş. Ayakkabıcı reyiste yeni prens ve tahtın veliahtı olmuş. Çok saçma tabi ama Targaryenların ejderha doğurduğuna inanıyorsunuz da buna niye inanmıyorsunuz diyebiliriz şimdi.
 
 ![Wawel Kalesi 2 - Katedral](https://user-images.githubusercontent.com/9788440/32450340-4309ecce-c314-11e7-95d7-4635be5de709.jpg)
-Wawel Kalesi’nin içi de dışarıdan göründüğü kadar görkemli. Avlunun içinde bulunan Wawel Katedrali ise 1020 yılında yapılmış. 1364 yılında bugünkü halini almış. Daha sonra etrafına başka yapılar eklenerek büyütülmüş. İçerisinde bir çok Aziz’e adanmış muhteşem şapelleri bulunan Katedral, Wawel Kalesi’nin en önemli bölümüdür. Kalenin altında bir çok kralın ve devlet adamının mezarı bulunmaktaymış. Son olarak 2010 yılındaki birçok üst düzey devlet görevlisinin öldüğü [korkunç uçak kazasında]( https://www.ntv.com.tr/dunya/polonya-liderinin-ucagi-dustu-97-olu,vM8w0pgjwU-NYG09ybMHOg) hayatını kaybeden Polonya Devlet Başkanı Lech Kaczynski ve eşi buraya defnedilmiş.
+Wawel Kalesi’nin içi de dışarıdan göründüğü kadar görkemli. Avlunun içinde bulunan Wawel Katedrali ise 1020 yılında yapılmış. 1364 yılında bugünkü halini almış. Daha sonra etrafına başka yapılar eklenerek büyütülmüş. İçerisinde bir çok Aziz’e adanmış muhteşem şapelleri bulunan Katedral, Wawel Kalesi’nin en önemli bölümüdür. Kalenin altında bir çok kralın ve devlet adamının mezarı bulunmaktaymış. Son olarak 2010 yılındaki birçok üst düzey devlet görevlisinin öldüğü [korkunç uçak kazasında][kaza-linki] hayatını kaybeden Polonya Devlet Başkanı Lech Kaczynski ve eşi buraya defnedilmiş.
 
 Krakow turumun 2.gününde insanlık için bir utanç kaynağı olan Naziler tarafından 2 milyon yahudinin öldürüldüğü Aushwitz kampını gezdim. Bir sonraki yazımda izlenimlerimi sizinle paylaşıcam.  Esen kalın efenim…
 
@@ -70,3 +62,5 @@ St. Marry’s Basilica https://en.wikipedia.org/wiki/St._Mary%27s_Basilica,_Krak
 Eros Bendato https://viviennemackie.wordpress.com/2013/11/27/finding-more-heads-a-huge-head-in-krakow-poland/
 
 Wawel Kalesi http://aylakgezgin.com/2017/07/09/wawel-kalesi-krakow/
+
+[kaza-linki]:https://www.ntv.com.tr/dunya/polonya-liderinin-ucagi-dustu-97-olu,vM8w0pgjwU-NYG09ybMHOg
