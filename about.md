@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <center>
-<img style="height:300px;width:300px;border-radius: 50%;" src="https://user-images.githubusercontent.com/9788440/28413029-c0b0a15c-6d4e-11e7-9268-3d34f2abaefe.jpg" title="Profile-Picture" class="profile">
+<img style="height:300px;width:300px;border-radius: 50%;" src="https://user-images.githubusercontent.com/9788440/32659603-c2c1cc26-c61f-11e7-92df-0b7eda5de520.jpg" title="Profile-Picture" class="profile">
 </center>
 <br/>
 ## Hakkımda
@@ -46,6 +46,17 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 	- Bosch Üretim Sistemleri(BPS)
 	- Yalın Üretim
 	- Kanban Sisteminin Uygulanması
+
+<ul>
+<li>Eflatun Yazılım</li>
+	<ul>
+	<li>Eflatun Yazılım</li>
+	<li>Eflatun Yazılım</li>
+	<li>Eflatun Yazılım</li>
+	</ul>
+<li>Bosch Fren Sistemleri</li>
+<li>Parish</li>
+</ul>
 <br/>
 ## Hobilerim
 -----  
