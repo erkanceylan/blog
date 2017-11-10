@@ -47,16 +47,6 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 	- Yalın Üretim
 	- Kanban Sisteminin Uygulanması
 
-<ul>
-<li>Eflatun Yazılım</li>
-	<ul>
-	<li>Eflatun Yazılım</li>
-	<li>Eflatun Yazılım</li>
-	<li>Eflatun Yazılım</li>
-	</ul>
-<li>Bosch Fren Sistemleri</li>
-<li>Parish</li>
-</ul>
 <br/>
 ## Hobilerim
 -----  
@@ -84,6 +74,9 @@ Bana alttaki linklerin herhangi birinden ulaşabilirsiniz. Esen kalın efenim...
 [Medium][medium]  
   
 [Mail][mail]  
+
+[Pinterest][pinterest]
+
   
 
 [erkanceylan]: http://erkanceylan.com
