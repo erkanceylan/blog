@@ -86,4 +86,4 @@ Bana alttaki linklerin herhangi birinden ulaşabilirsiniz. Esen kalın efenim...
 [linkedin]: https://tr.linkedin.com/in/erkanceylan
 [medium]: https://medium.com/erkanceylan
 [mail]: mailto:erkanceylan4@gmail.com
-[pinterest]: https://pinterest.com/
+[pinterest]: https://pinterest.com/erkanceylan4
