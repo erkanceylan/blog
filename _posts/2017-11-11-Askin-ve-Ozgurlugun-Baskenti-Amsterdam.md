@@ -8,7 +8,7 @@ coverPhoto: https://user-images.githubusercontent.com/9788440/32684707-ac07e8a0-
 ![Main Image: Amsterdam](https://user-images.githubusercontent.com/9788440/32684707-ac07e8a0-c686-11e7-9578-b8749ffec522.JPG)
 Kız arkadaşım Ezgi, bu yaz Amerika’da Work And Travel programı kapsamında hem çalışıyordu hem de geziyordu (<a href="https://imgur.com/unt4d6C" target="_blank">*</a>). Benim de Erasmus’u kazanmam ile “kavuşmak hayal oldu” anlayacağınız. Onun Türkiye’ye dönüşüyle benim Türkiye’den gidişim çakışıyordu. Beraber bir tatil planı yapmayı düşündük ve Amsterdam’da karar kıldık. Bende Polonya uçuşumu Amsterdam aktarmalı yapmaya karar verdim. Ezgi’nin kardeşi Erdi’nin de katılımıyla müthiş bir üçlü olduk ve Amsterdam’da 3 muhteşem gün geçirdik.
 
-[Uclu Resmimiz]
+![Uclu Resmimiz](https://user-images.githubusercontent.com/9788440/32691421-9d149aec-c707-11e7-8738-e2adb83707d7.jpg)
 
 Amsterdam Dünya’nın en ütopik kentlerinden biri. 3 büyük günah diyebileceğimiz; marijuana(bildiğin esrar) satışının yasal olması, eşcinsel evliliğin serbest olması ve fuhuşun serbest olması bu şehir için çok sıradan. 
 
@@ -35,7 +35,7 @@ Ahanda [buradan][iamsterdamcard] sitesine gidebilir, detaylı inceleyebilirsiniz
 -----
 Şehir merkezi küçük bir alana dağılmış ve kompakt. Bununla birlikte sokaklar ve caddeler çoğunlukla dar. Bu durum araba kullanımını güçleştiriyor. Bunun alternatifi olarakta hemen her yerde bisiklet yolu bulunuyor. Yerli nüfusun büyük kısmı ulaşım için toplu taşıma (geneli raylı hatlar) ve bisiklet kullanıyor. Şık giyimli insanların kolunun altında laptopla bisiklet sürdüğünü, topuklu ayakkabıların pedalları çevirdiğini görmek ilginç. Şehirde 1 milyon civarında bisiklet bulunuyormuş. Sizde Amsterdamda bisiklete muhakkak binmelisiniz. Günlük bisiklet kiralama bedeli yaklaşık 10 euro. 
 
-[Bisikletli Fotograf]
+![Bisikletli Fotograf](https://user-images.githubusercontent.com/9788440/32691428-a8f2dd2e-c707-11e7-80a3-3aed95484d5b.jpg)
 
 Dünyanın en çok bisiklet kullanılan şehri olmasının yanında, bence dünyanın en zor bisiklet kullanılan şehri. Bisiklet sporunu çok seven biri olarak çok zorlandım bu şehirde. Her yerden çıkan bisikletlere çarpmamak için çok çaba harcıyorsunuz. Belki de bu anlamda en iyi tanımı bizi havalimanına bırakan Türk Uber şoförü Faruk Abi yaptı;
 
@@ -45,7 +45,7 @@ Dünyanın en çok bisiklet kullanılan şehri olmasının yanında, bence düny
 -----
 Her şehrin kalbinin attığı, insanların buluşma noktası haline gelen, tarihi olaylara tanıklık eden büyük meydanları vardır. Amsterdam’ın kalbi de Dam Meydanı’nda atıyor. Kraliyet Sarayı, De Niewe Kerk kilisesi, balmumu heykeller müzesi Madam Tussaud ve National Monument(Ulusal Anıt)’e ev sahipliği yapan meydan günün her saati çok kalabalık.
 
-![Ezgiyle Dam meydanından Bir Fotograf](https://user-images.githubusercontent.com/9788440/32689807-48415364-c6eb-11e7-8f5d-f1d32bfa3970.jpg)
+![Ezgiyle Dam Meydanından Bir Fotograf](https://user-images.githubusercontent.com/9788440/32689807-48415364-c6eb-11e7-8f5d-f1d32bfa3970.jpg)
 
 Meydanın ana arteri olan Damrak caddesi ve onun kılcalları olan ara sokaklar ise şehrin hareketli ve turistik açıdan canlı noktaları; kafeler, dükkanlar, ot satan tütüncüler, hediyelik eşya dükkanları, giyim mağazaları, eğlence merkezleri ve hatta bir kumarhane bile mevcut. Laf aramızda, meraklıları için Sex Müzesi de bu caddede bulunuyor.
 
