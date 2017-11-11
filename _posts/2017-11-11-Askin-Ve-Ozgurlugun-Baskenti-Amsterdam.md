@@ -5,7 +5,8 @@ author: Erkan Ceylan
 id: 6
 coverPhoto: https://user-images.githubusercontent.com/9788440/32684707-ac07e8a0-c686-11e7-9578-b8749ffec522.JPG 
 ---
-Aşkın ve Özgürlüğün Başkenti: Amsterdam
+# Aşkın ve Özgürlüğün Başkenti: Amsterdam
+-----
 ![Main Image: Amsterdam](https://user-images.githubusercontent.com/9788440/32684707-ac07e8a0-c686-11e7-9578-b8749ffec522.JPG)
 Kız arkadaşım Ezgi, bu yaz Amerika’da Work And Travel programı kapsamında hem çalışıyordu hem de geziyordu ([*][workandtravel]). Benim de Erasmus’u kazanmam ile “kavuşmak hayal oldu” anlıyacağınız. Onun Türkiye’ye dönüşüyle benim Türkiye’den gidişim çakışıyordu. Beraber bir tatil planı yapmayı düşündük ve Amsterdam’da karar kıldık. Bende Polonya uçuşumu Amsterdam aktarmalı yapmaya karar verdim. Ezgi’nin kardeşi Erdi’nin de katılımıyla müthiş bir üçlü olduk ve Amsterdam’da 3 muhteşem gün geçirdik.
 [Üçlü Resmimiz]
@@ -28,23 +29,28 @@ Bu kartın geçerlilik süresince size sağlayacağı avantajları şöyle liste
 •	Amsterdam Arena stadyum turu.
 Ahanda [buradan][iamsterdamcard] sitesine gidebilir, detaylı inceleyebilirsiniz.
 
-Bisiklet Cumhuriyeti
+# Bisiklet Cumhuriyeti
+-----
 Şehir merkezi küçük bir alana dağılmış ve kompakt. Bununla birlikte sokaklar ve caddeler çoğunlukla dar. Bu durum araba kullanımını güçleştiriyor. Bunun alternatifi olarakta hemen her yerde bisiklet yolu bulunuyor. Yerli nüfusun büyük kısmı ulaşım için toplu taşıma (geneli raylı hatlar) ve bisiklet kullanıyor. Şık giyimli insanların kolunun altında laptopla sürdüğü bisikleti, topuklu ayakkabıların çevirdiği pedalları görmek ilginç. Şehirde 1 milyon civarında bisiklet bulunuyormuş. Bisiklete muhakkak binmelisiniz. Günlük bisiklet kiralama bedeli yaklaşık 10 euro. 
 
 [Bisikletli fotoğrafımız]
 
 Dünyanın en çok bisiklet kullanılan şehri olmasının yanında, bence dünyanın en zor bisiklet kullanılan şehri. Bisiklet sporunu çok seven biri olarak çok zorlandım bu şehirde. Her yerden çıkan bisikletlere çarpmamak için çok çaba harcıyorsunuz. Belki de bu anlamda en iyi tanımı bizi havalimanına bırakan Türk Uber şoförü Faruk Abi yaptı;
 
-"Bu şehirde tam bir bisiklet terörü var." –Uberci Faruk Abi
-Şehrin Kalbi: Dam Meydanı
+> "Bu şehirde tam bir bisiklet terörü var." –Uberci Faruk Abi
+
+# Şehrin Kalbi: Dam Meydanı
+-----
 Her şehrin kalbinin attığı, insanların buluşma noktası haline gelen, tarihi olaylara tanıklık eden büyük meydanları vardır. Amsterdam’ın kalbi de Dam Meydanı’nda atıyor. Kraliyet Sarayı, De Niewe Kerk kilisesi, balmumu heykeller müzesi Madam Tussaud ve National Monument(Ulusal Anıt)’e ev sahipliği yapan meydan günün her saati çok kalabalık.
 [Ezgiyle ikili Dam meydanından bir fotoğraf]
 Meydanın ana arteri olan Damrak caddesi ve onun kılcalları olan ara sokaklar ise şehrin hareketli ve turistik açıdan canlı noktaları; kafeler, dükkanlar, ot satan tütüncüler, hediyelik eşya dükkanları, giyim mağazaları, eğlence merkezleri ve hatta bir kumarhane bile mevcut. Laf aramızda, meraklıları için Sex Müzesi de bu caddede bulunuyor.
-De Niewe Kerk
+# De Niewe Kerk
+-----
 De Niewe Kerk, Yeni Kilise anlamındaymış. Kraliyet Sarayının hemen yanındaki görkemli kilisede zamanında Hollanda hükümdarlarının taç giyme törenleri yapılıyormuş. Şimdilerde bir sergi salonu olmuş durumda. Biz gittiğimizde Mahatma Gandhi, Martin Luther King ve Nelson Mandela’nın ilham kaynağı olduğu  We Have a Dream temalı bir sergi vardı. 
 (`Dipnot:`) Bir [son dakika bilgisi][breakingnews] aldık, We Have a Dream sergisi 4 Şubat 2018’e kadar devam edicekmiş. 
-Nam-ı Değer Amsterdam Kanalları
 
+# Nam-ı Değer Amsterdam Kanalları
+-----
 ![Ustten kanal resmi](https://user-images.githubusercontent.com/9788440/32631984-3576b854-c5a2-11e7-8777-9cf92326c10d.jpg)
 
 Şehrin dört bir yanı örümcek ağı gibi kanallarla çevrili. Bu noktada kanal turu yapmanızı kesinlikle tavsiye ederim. Centraalstation(Merkez istasyon) ’un hemen önünden kalkan tur tekneleri neredeyse bütün kenti geziyor. Türkçe dil seçeneği de mevcut olan kulaklıklı sistemle tarihi-turistik yerler ve şehir hakkında harika bilgiler ediniyorsunuz. Ayrıca kanal üzerinden şehri görmek gerçekten fantastik. Hele yanınızda kız arkadaşınız varsa bir de romantik oluyor. Kendinizi Venedik’te hissediyorsunuz(ki Venedik’te bile bu kadar kanal yokmuş). 
@@ -55,7 +61,8 @@ Kanalların en büyük problemlerinden biriyse içine düşen bisikletler, her y
 [Yüzen ev resmi]
 Yıllar önce bir belgesel izlemiştim, konut sorunu yaşanan Amsterdam’da yüzen ev yaptıklarını anlatıyordu.  Amsterdam’da da buna şahit olmak mümkün, kanallar üzerinde pek çok yüzen ev var. Pek çok kişi su üzerinde yaşıyor. Hatta bazıları evlerini turistlere kiralıyormuş. 
 
-Amsterdam Evleri
+# Amsterdam Evleri
+-----
 Amsterdam diyince kanal şeritleri boyunca yer alan bu ince, boylamasına uzun evler akla gelir hemen. Her biri çok şirin ve sempatik. Ahh param olsa da alsam yaşasam şurda diyeceğimiz cinsten çekiciler.
 
 [Amsterdam Evleri Resmi]
@@ -65,14 +72,16 @@ Zamanında su taşkınlarına dur demek için bu kanallar yapılınca, herkesler
 
 Dikkatli bakınca görülüyor, ben görmek için bayaa çaba harcamıştım, her evin çatısının köşesinde bir kanca var. Bunları eve eşya, yük vs taşımak için kullanıyorlarmış. 
 
-Amsterdam ArenA
+# Amsterdam ArenA
+-----
 Stadyumlar şehrin bir parçasıdır. Bizde Erdi’yle iki futbol fanatiği bir araya gelince I Amsterdam kartımızın bize verdiği yetkiye dayanarak Amsterdam Arena turuna katılmaya gittik. Ancak kötü bir sürpriz bizi karşıladı, ertesi gün Rolling Stones konseri olduğu için stadyum turu iptal edilmişti. Hollanda’nın efsane futbol takımı Ajax’a ev sahipliği yapan bu dev arenayı içinden görme şansımız olmasa da altındaki kulüp mağazasından hatıramızı alıp önünde fotoğraf çekinmeyi ihmal etmedik. 
 
 ![Erdiyle Amsterdam Arena](https://user-images.githubusercontent.com/9788440/32684943-893c9e6c-c689-11e7-9fc1-357c9bae94e6.JPG)
 
 Bir Vodafone Park olmasada görkemli bir stad.
 
-Van Gogh Müzesi
+# Van Gogh Müzesi
+-----
 Vincent Van Gogh’u tanımayan yoktur. Hollandalı, dünyaca ünlü bir ressam. Psikolojik sorunları ve kulağını kesmesiyle sanat dünyasında entresan bir yer edinmiş. Eserleri, çağının sanatçılarının çoğu gibi, kendisi öldükten sonra hakettiği değeri bulmuş. Van Gogh müzesi sanatçının eserlerinin büyük bölümünü barındıran harika bir müze. Sanata ilginiz olsun olmasın gezmeniz gerekli burayı.  Müzeyi gezmek için bir – bir buçuk saatinizi ayırmanızı tavsiye ederim. Çünkü gerçekten çok büyük ve harika bir müze.
 
 ![Van Gogh Museum dışarıdan foto](https://user-images.githubusercontent.com/9788440/32670742-013a9846-c645-11e7-9e65-72d4bb5dcc3b.jpg)
@@ -95,17 +104,21 @@ Müzede bulunan ünlü resimlerin bazıları;
 
 (`Dipnot:`) Maalesef “The Starry Night” müzede yok.  1941 yılından beri New York’taki Modern Sanatlar Müzesi’nde bulunuyormuş. 
 
-Burda Fotoğraf Çekilmeden Ölmeyin
+# Burda Fotoğraf Çekilmeden Ölmeyin
+-----
 Van Gogh müzesinin de bulunduğu meydan ve parkın adı Museuplein. Şehrin en ünlü meydanlarından. Burası aynı zamanda o ünlü I Amsterdam yazısına da ev sahipliği yapıyor. Bizde burda fotoğraf çekilmeden ölmeyenler derneğine katılıyoruz bu vesileyle.
 [I Amsterdam Resimleri]
-Müzelerin Kralı: Rijksmuseum
+
+# Müzelerin Kralı: Rijksmuseum
+-----
 Rijksmuseum, Amsterdam’daki en şatafatlı müze. Türkçesi, Hollanda Ulusal Müzesi. Sanat ve tarihe adanmış olan müze, konumu itibariyle I Amsterdam imzasının önünde bulunuyor.
 
 ![Dışarıdan Rijksmuseum](https://user-images.githubusercontent.com/9788440/32685060-d96ab544-c68a-11e7-8d08-966c10e39a05.JPG)
 
 I Amsterdam kartla ücretsiz giriş yapılamayan sadece indirim elde edebildiğiniz müzeye girişimiz ise çok ilginç oldu. Amsterdam’daki son günümüzde kapanmasına 15 dakika kala geldiğimiz müzede giriş ücreti olan 15 euroyu duyunca bir kerat cetveli hesabıyla dakikasına 1 euro ödüyoruz yani diye düşünmedim değil. Erdi ben yinede giricem diyince, görevli kaç yaşındasınız diye sordu. Erdi 17 diyince görevli bayan 18 yaş altına zaten ücretsiz deyip 3 tane bilet uzattı. Eee zaten 15 dakika kalmış, hızlı bir tur atıcaz. Normalde etik olmasa da biletleri alıp biz de girdik Ezgi’yle. Hayatımdaki en hızlı müze gezisi oldu belki de. 
 
-Red Light District
+# Red Light District
+-----
 Amsterdam’ın en ünlü sokaklarından Kırmızı Işık Bölgesi, en turistik yerlerden biri. 
 [Red Ligth District Foto]
 Misyonu itibariyle bekar erkek turistlerin daha çok dikkatini çeken bir yer. Yine de caddeden kız arkadaşınızla gezmeye tereddüt etmenize gerek yok. Bizdeki Zürafa Sokak örneğinin aksine rahatsız edilmeden yürümeniz mümkün.  
@@ -114,7 +127,8 @@ Bir yazının daha sonuna geldik. Herşeyiyle harika bir deneyimdi Amsterdam’d
 
 Esen kalın efenim.
 
-Kaynakça
+# Kaynakça
+-----
 Amsterdam Kanalları Resmi : http://www.letraitdunion.nl/chronique/2eme-chronique/attachment/amsterdam-3/
 
 Van Gogh Müzesi: 
