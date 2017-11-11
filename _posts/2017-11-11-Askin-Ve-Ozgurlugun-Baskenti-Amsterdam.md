@@ -5,12 +5,10 @@ author: Erkan Ceylan
 id: 6
 coverPhoto: https://user-images.githubusercontent.com/9788440/32684707-ac07e8a0-c686-11e7-9578-b8749ffec522.JPG 
 ---
-# Aşkın ve Özgürlüğün Başkenti: Amsterdam
------
 ![Main Image: Amsterdam](https://user-images.githubusercontent.com/9788440/32684707-ac07e8a0-c686-11e7-9578-b8749ffec522.JPG)
 Kız arkadaşım Ezgi, bu yaz Amerika’da Work And Travel programı kapsamında hem çalışıyordu hem de geziyordu ([*][workandtravel]). Benim de Erasmus’u kazanmam ile “kavuşmak hayal oldu” anlıyacağınız. Onun Türkiye’ye dönüşüyle benim Türkiye’den gidişim çakışıyordu. Beraber bir tatil planı yapmayı düşündük ve Amsterdam’da karar kıldık. Bende Polonya uçuşumu Amsterdam aktarmalı yapmaya karar verdim. Ezgi’nin kardeşi Erdi’nin de katılımıyla müthiş bir üçlü olduk ve Amsterdam’da 3 muhteşem gün geçirdik.
 [Üçlü Resmimiz]
-Amsterdam Dünya’nın en ütopik kentlerinden biri. 3 büyük günah diyebileceğimiz; marijuana(bildiği esrar) satışının yasal olması, eşcinsel evliliğin serbest olması(:heart: is :heart:) ve fuhuşun serbest olması bu şehir için çok sıradan. 
+Amsterdam Dünya’nın en ütopik kentlerinden biri. 3 büyük günah diyebileceğimiz; marijuana(bildiği esrar) satışının yasal olması, eşcinsel evliliğin serbest olması ve fuhuşun serbest olması bu şehir için çok sıradan. 
 
 Yine de bunlar, sanılanın aksine Amsterdam’ı kirli ve kötü bir yer yapmıyor. Burası dünyanın suç oranı en düşük başkentlerinden. Şöyle bir haber bunun en net kanıtı olacaktır:
 [Hollanda, boş cezaevlerini mültecilere ev olarak servis ediyor.][multeci] 
