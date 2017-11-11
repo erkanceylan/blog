@@ -57,15 +57,15 @@ De Niewe Kerk, Yeni Kilise anlamındaymış. Kraliyet Sarayının hemen yanında
 
 # Nam-ı Değer Amsterdam Kanalları
 -----
-![Ustten kanal resmi](https://user-images.githubusercontent.com/9788440/32631984-3576b854-c5a2-11e7-8777-9cf92326c10d.jpg)
+![Havadan Kanal Agi](https://user-images.githubusercontent.com/9788440/32631984-3576b854-c5a2-11e7-8777-9cf92326c10d.jpg)
 
 Şehrin dört bir yanı örümcek ağı gibi kanallarla çevrili. Bu noktada kanal turu yapmanızı kesinlikle tavsiye ederim. Centraalstation(Merkez istasyon) ’un hemen önünden kalkan tur tekneleri neredeyse bütün kenti geziyor. Türkçe dil seçeneği de mevcut olan kulaklıklı sistemle tarihi-turistik yerler ve şehir hakkında harika bilgiler ediniyorsunuz. Ayrıca kanal üzerinden şehri görmek gerçekten fantastik. Hele yanınızda kız arkadaşınız varsa bir de romantik oluyor. Kendinizi Venedik’te hissediyorsunuz(ki Venedik’te bile bu kadar kanal yokmuş). 
 
-[Tekne turundan resim.]
+![Tekne Turundan Resim](https://user-images.githubusercontent.com/9788440/32692201-f9ab2f80-c713-11e7-8ec8-91612a851500.JPG)
 
 Kanalların en büyük problemlerinden biriyse içine düşen bisikletler, her yıl binlerce bisiklet toplanıyormuş. [Burda][youtubebisiklet] örnek bir video var.
 
-![Yuzen ev resmi](https://user-images.githubusercontent.com/9788440/32689622-8c1fab4c-c6e8-11e7-86b5-ed374e3f5fc3.jpg)
+![Yuzen Ev](https://user-images.githubusercontent.com/9788440/32689622-8c1fab4c-c6e8-11e7-86b5-ed374e3f5fc3.jpg)
 
 Yıllar önce bir belgesel izlemiştim, konut sorunu yaşanan Amsterdam’da yüzen ev yaptıklarını anlatıyordu.  Amsterdam’da da buna şahit olmak mümkün, kanallar üzerinde pek çok yüzen ev var. Pek çok kişi su üzerinde yaşıyor. Hatta bazıları evlerini turistlere kiralıyormuş. 
 
@@ -73,11 +73,11 @@ Yıllar önce bir belgesel izlemiştim, konut sorunu yaşanan Amsterdam’da yü
 -----
 Amsterdam diyince kanal şeritleri boyunca yer alan bu ince, boylamasına uzun evler akla gelir hemen. Her biri çok şirin ve sempatik. Ahh param olsa da alsam yaşasam şurda diyeceğimiz cinsten çekiciler.
 
-![Amsterdam Evleri Resmi](https://user-images.githubusercontent.com/9788440/32689608-20860d0e-c6e8-11e7-9b6f-195d02bc66f3.JPG)
+![Amsterdam Evleri](https://user-images.githubusercontent.com/9788440/32689608-20860d0e-c6e8-11e7-9b6f-195d02bc66f3.JPG)
 
 Zamanında su taşkınlarına dur demek için bu kanallar yapılınca, herkesler kanal kenarında evim olsun, benim olsun demiş. Belediye de arsa satarken çareyi 6 metre sınırı koymakta bulmuş. Yani arsanın genişliği çok önemli değil x lira verin, pardon euro verin, ya da her neyse o zamanki para birimi, kanal kenarından 6 metre arsanız olsun demiş. Bazı kodoman arkadaşlarda öyle iş mi olur ya al şu 2x’i bana 12 metre ver filan demiş. Öylece anlaşmışlar. 
 
-![Kancalı cati resmi](https://user-images.githubusercontent.com/9788440/32689692-0ce840ae-c6e9-11e7-8c96-87c76ed6abc9.jpg)
+![Kancalı Cati Resmi](https://user-images.githubusercontent.com/9788440/32689692-0ce840ae-c6e9-11e7-8c96-87c76ed6abc9.jpg)
 
 Dikkatli bakınca görülüyor, ben görmek için bayaa çaba harcamıştım, her evin çatısının köşesinde bir kanca var. Bunları eve eşya, yük vs taşımak için kullanıyorlarmış. 
 
@@ -93,7 +93,7 @@ Bir Vodafone Park olmasada görkemli bir stad.
 -----
 Vincent Van Gogh’u tanımayan yoktur. Hollandalı, dünyaca ünlü bir ressam. Psikolojik sorunları ve kulağını kesmesiyle sanat dünyasında entresan bir yer edinmiş. Eserleri, çağının sanatçılarının çoğu gibi, kendisi öldükten sonra hakettiği değeri bulmuş. Van Gogh müzesi sanatçının eserlerinin büyük bölümünü barındıran harika bir müze. Sanata ilginiz olsun olmasın gezmeniz gerekli burayı.  Müzeyi gezmek için bir – bir buçuk saatinizi ayırmanızı tavsiye ederim. Çünkü gerçekten çok büyük ve harika bir müze.
 
-![Van Gogh Museum dışarıdan foto](https://user-images.githubusercontent.com/9788440/32670742-013a9846-c645-11e7-9e65-72d4bb5dcc3b.jpg)
+![Van Gogh Muzesi Dis](https://user-images.githubusercontent.com/9788440/32670742-013a9846-c645-11e7-9e65-72d4bb5dcc3b.jpg)
 
 Van Gogh müzesinde fotoğraf çekmek yasak, gözlerinizle sanat ziyafetini yaşıyorsunuz ancak bir hatırayla ayrılmak istiyorsanız, sizde bizim gibi, müzenin 1. katındaki fotoğraf otomatından ücretsiz fotoğraf çektirip, email adresinize gönderebilirsiniz. 
 
