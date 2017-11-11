@@ -7,10 +7,13 @@ coverPhoto: https://user-images.githubusercontent.com/9788440/32684707-ac07e8a0-
 ---
 ![Main Image: Amsterdam](https://user-images.githubusercontent.com/9788440/32684707-ac07e8a0-c686-11e7-9578-b8749ffec522.JPG)
 Kız arkadaşım Ezgi, bu yaz Amerika’da Work And Travel programı kapsamında hem çalışıyordu hem de geziyordu ([*][workandtravel]). Benim de Erasmus’u kazanmam ile “kavuşmak hayal oldu” anlıyacağınız. Onun Türkiye’ye dönüşüyle benim Türkiye’den gidişim çakışıyordu. Beraber bir tatil planı yapmayı düşündük ve Amsterdam’da karar kıldık. Bende Polonya uçuşumu Amsterdam aktarmalı yapmaya karar verdim. Ezgi’nin kardeşi Erdi’nin de katılımıyla müthiş bir üçlü olduk ve Amsterdam’da 3 muhteşem gün geçirdik.
+
 [Üçlü Resmimiz]
+
 Amsterdam Dünya’nın en ütopik kentlerinden biri. 3 büyük günah diyebileceğimiz; marijuana(bildiği esrar) satışının yasal olması, eşcinsel evliliğin serbest olması ve fuhuşun serbest olması bu şehir için çok sıradan. 
 
 Yine de bunlar, sanılanın aksine Amsterdam’ı kirli ve kötü bir yer yapmıyor. Burası dünyanın suç oranı en düşük başkentlerinden. Şöyle bir haber bunun en net kanıtı olacaktır:
+
 [Hollanda, boş cezaevlerini mültecilere ev olarak servis ediyor.][multeci] 
 
 Şehirde konaklama maliyeti ise yuhhh dedirtiyor. Hostellerde bile tek gece kalma maliyeti 30-40 eurolardan başlıyor.
@@ -25,6 +28,7 @@ Bu kartın geçerlilik süresince size sağlayacağı avantajları şöyle liste
 •	Anlaşmalı Blue Tour firmasıyla istediğiniz zaman(ve sınırsız) kanal turu hakkı.
 •	Anlaşmalı firmalardan bisiklet kiralamak istediğinizde ve ücretli müzelere girişlerde ise %20 - %25 civarında indirim imkanı.
 •	Amsterdam Arena stadyum turu.
+
 Ahanda [buradan][iamsterdamcard] sitesine gidebilir, detaylı inceleyebilirsiniz.
 
 # Bisiklet Cumhuriyeti
@@ -40,12 +44,16 @@ Dünyanın en çok bisiklet kullanılan şehri olmasının yanında, bence düny
 # Şehrin Kalbi: Dam Meydanı
 -----
 Her şehrin kalbinin attığı, insanların buluşma noktası haline gelen, tarihi olaylara tanıklık eden büyük meydanları vardır. Amsterdam’ın kalbi de Dam Meydanı’nda atıyor. Kraliyet Sarayı, De Niewe Kerk kilisesi, balmumu heykeller müzesi Madam Tussaud ve National Monument(Ulusal Anıt)’e ev sahipliği yapan meydan günün her saati çok kalabalık.
+
 [Ezgiyle ikili Dam meydanından bir fotoğraf]
+
 Meydanın ana arteri olan Damrak caddesi ve onun kılcalları olan ara sokaklar ise şehrin hareketli ve turistik açıdan canlı noktaları; kafeler, dükkanlar, ot satan tütüncüler, hediyelik eşya dükkanları, giyim mağazaları, eğlence merkezleri ve hatta bir kumarhane bile mevcut. Laf aramızda, meraklıları için Sex Müzesi de bu caddede bulunuyor.
+
 # De Niewe Kerk
 -----
 De Niewe Kerk, Yeni Kilise anlamındaymış. Kraliyet Sarayının hemen yanındaki görkemli kilisede zamanında Hollanda hükümdarlarının taç giyme törenleri yapılıyormuş. Şimdilerde bir sergi salonu olmuş durumda. Biz gittiğimizde Mahatma Gandhi, Martin Luther King ve Nelson Mandela’nın ilham kaynağı olduğu  We Have a Dream temalı bir sergi vardı. 
-(`Dipnot:`) Bir [son dakika bilgisi][breakingnews] aldık, We Have a Dream sergisi 4 Şubat 2018’e kadar devam edicekmiş. 
+
+`Dipnot:` Bir [son dakika bilgisi][breakingnews] aldık, We Have a Dream sergisi 4 Şubat 2018’e kadar devam edicekmiş. 
 
 # Nam-ı Değer Amsterdam Kanalları
 -----
@@ -55,7 +63,7 @@ De Niewe Kerk, Yeni Kilise anlamındaymış. Kraliyet Sarayının hemen yanında
 
 [Tekne turundan resim.]
 
-Kanalların en büyük problemlerinden biriyse içine düşen bisikletler, her yıl binlerce bisiklet toplanıyormuş. Burda[https://www.youtube.com/watch?v=hWmAIhz43S4] örnek bir video var.
+Kanalların en büyük problemlerinden biriyse içine düşen bisikletler, her yıl binlerce bisiklet toplanıyormuş. [Burda][youtubebisiklet] örnek bir video var.
 [Yüzen ev resmi]
 Yıllar önce bir belgesel izlemiştim, konut sorunu yaşanan Amsterdam’da yüzen ev yaptıklarını anlatıyordu.  Amsterdam’da da buna şahit olmak mümkün, kanallar üzerinde pek çok yüzen ev var. Pek çok kişi su üzerinde yaşıyor. Hatta bazıları evlerini turistlere kiralıyormuş. 
 
@@ -100,7 +108,7 @@ Müzede bulunan ünlü resimlerin bazıları;
 •	Haymaking 1887
 •	View Seen Through a Balcony 1880
 
-(`Dipnot:`) Maalesef “The Starry Night” müzede yok.  1941 yılından beri New York’taki Modern Sanatlar Müzesi’nde bulunuyormuş. 
+`Dipnot:` Maalesef “The Starry Night” müzede yok.  1941 yılından beri New York’taki Modern Sanatlar Müzesi’nde bulunuyormuş. 
 
 # Burda Fotoğraf Çekilmeden Ölmeyin
 -----
@@ -138,3 +146,4 @@ Red Ligth District Resmi: https://www.getyourguide.com.tr/amsterdam-l36/amsterda
 [iamsterdamcard]: https://www.iamsterdam.com/en/i-am/i-amsterdam-city-card
 [multeci]: http://www.mynet.com/haber/dunya/hollanda-bos-cezaevlerini-multecilere-ev-olarak-servis-ediyor-2463655-1
 [breakingnews]: https://www.nieuwekerk.nl/en/pers/we-have-a-dream/
+[youtubebisiklet]: https://www.youtube.com/watch?v=hWmAIhz43S4
