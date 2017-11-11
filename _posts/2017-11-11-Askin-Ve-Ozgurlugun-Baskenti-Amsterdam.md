@@ -23,11 +23,11 @@ Amsterdam ayrıca kültürel açıdan da çok zengin. Her insana uygun müze bul
 ![I Amsterdam Card Image](https://user-images.githubusercontent.com/9788440/32684892-2906f1fa-c689-11e7-8759-575d948382b3.jpg)
 
 Bu kartın geçerlilik süresince size sağlayacağı avantajları şöyle listeleyebiliriz.
-•	Şehirdeki müzelerin yaklaşık yüzde 90’ına ücretsiz giriş hakkı.
-•	Şehir içindeki GVB hatlarının(tramvay ve metro hatları) ücretsiz kullanımı.
-•	Anlaşmalı Blue Tour firmasıyla istediğiniz zaman(ve sınırsız) kanal turu hakkı.
-•	Anlaşmalı firmalardan bisiklet kiralamak istediğinizde ve ücretli müzelere girişlerde ise %20 - %25 civarında indirim imkanı.
-•	Amsterdam Arena stadyum turu.
+*	Şehirdeki müzelerin yaklaşık yüzde 90’ına ücretsiz giriş hakkı.
+*	Şehir içindeki GVB hatlarının(tramvay ve metro hatları) ücretsiz kullanımı.
+*	Anlaşmalı Blue Tour firmasıyla istediğiniz zaman(ve sınırsız) kanal turu hakkı.
+*	Anlaşmalı firmalardan bisiklet kiralamak istediğinizde ve ücretli müzelere girişlerde ise %20 - %25 civarında indirim imkanı.
+*	Amsterdam Arena stadyum turu.
 
 Ahanda [buradan][iamsterdamcard] sitesine gidebilir, detaylı inceleyebilirsiniz.
 
@@ -64,7 +64,9 @@ De Niewe Kerk, Yeni Kilise anlamındaymış. Kraliyet Sarayının hemen yanında
 [Tekne turundan resim.]
 
 Kanalların en büyük problemlerinden biriyse içine düşen bisikletler, her yıl binlerce bisiklet toplanıyormuş. [Burda][youtubebisiklet] örnek bir video var.
+
 [Yüzen ev resmi]
+
 Yıllar önce bir belgesel izlemiştim, konut sorunu yaşanan Amsterdam’da yüzen ev yaptıklarını anlatıyordu.  Amsterdam’da da buna şahit olmak mümkün, kanallar üzerinde pek çok yüzen ev var. Pek çok kişi su üzerinde yaşıyor. Hatta bazıları evlerini turistlere kiralıyormuş. 
 
 # Amsterdam Evleri
@@ -72,6 +74,7 @@ Yıllar önce bir belgesel izlemiştim, konut sorunu yaşanan Amsterdam’da yü
 Amsterdam diyince kanal şeritleri boyunca yer alan bu ince, boylamasına uzun evler akla gelir hemen. Her biri çok şirin ve sempatik. Ahh param olsa da alsam yaşasam şurda diyeceğimiz cinsten çekiciler.
 
 [Amsterdam Evleri Resmi]
+
 Zamanında su taşkınlarına dur demek için bu kanallar yapılınca, herkesler kanal kenarında evim olsun, benim olsun demiş. Belediye de arsa satarken çareyi 6 metre sınırı koymakta bulmuş. Yani arsanın genişliği çok önemli değil x lira verin, pardon euro verin, ya da her neyse o zamanki para birimi, kanal kenarından 6 metre arsanız olsun demiş. Bazı kodoman arkadaşlarda öyle iş mi olur ya al şu 2x’i bana 12 metre ver filan demiş. Öylece anlaşmışlar. 
 
 [Kancalı çatı resmi]
@@ -101,18 +104,20 @@ Müzede ressamın hayatı, belirli dönemlere ayrılmış, çizdiği resimlerin 
 
 ![Potato Eaters](https://user-images.githubusercontent.com/9788440/32670766-1139ae44-c645-11e7-9ddc-a03499d6c589.jpg)
 Müzede bulunan ünlü resimlerin bazıları;
-•	The Potato Eaters 1885
-•	Peasent Family at the Table 1882
-•	Wheatfield with Crows 1890
-•	Almomd Blossom 1890
-•	Haymaking 1887
-•	View Seen Through a Balcony 1880
+
+* The Potato Eaters 1885
+*	Peasent Family at the Table 1882
+* Wheatfield with Crows 1890
+*	Almomd Blossom 1890
+*	Haymaking 1887
+*	View Seen Through a Balcony 1880
 
 `Dipnot:` Maalesef “The Starry Night” müzede yok.  1941 yılından beri New York’taki Modern Sanatlar Müzesi’nde bulunuyormuş. 
 
 # Burda Fotoğraf Çekilmeden Ölmeyin
 -----
 Van Gogh müzesinin de bulunduğu meydan ve parkın adı Museuplein. Şehrin en ünlü meydanlarından. Burası aynı zamanda o ünlü I Amsterdam yazısına da ev sahipliği yapıyor. Bizde burda fotoğraf çekilmeden ölmeyenler derneğine katılıyoruz bu vesileyle.
+
 [I Amsterdam Resimleri]
 
 # Müzelerin Kralı: Rijksmuseum
@@ -126,10 +131,12 @@ I Amsterdam kartla ücretsiz giriş yapılamayan sadece indirim elde edebildiği
 # Red Light District
 -----
 Amsterdam’ın en ünlü sokaklarından Kırmızı Işık Bölgesi, en turistik yerlerden biri. 
-[Red Ligth District Foto]
+
+![Red Ligth District Foto](https://user-images.githubusercontent.com/9788440/32685263-1ff74498-c68e-11e7-9b04-92485950f28a.jpg)
+
 Misyonu itibariyle bekar erkek turistlerin daha çok dikkatini çeken bir yer. Yine de caddeden kız arkadaşınızla gezmeye tereddüt etmenize gerek yok. Bizdeki Zürafa Sokak örneğinin aksine rahatsız edilmeden yürümeniz mümkün.  
 
-Bir yazının daha sonuna geldik. Herşeyiyle harika bir deneyimdi Amsterdam’da olmak. Gezin, görün, yaşayın bu hayatı gençler. “Yaşıyosun bu hayatı” diyen değil, dediren kişi olun. Her imkansızlık kendi imkanını yaratır. Şehir hakkında bizi hayal kırıklığına uğratan şey ise bu şehri tam anlamıyla gezmek için 3 gün bile yetmiyor. Bu kadar da olmaz dedik.Heineken bira müzesi, Vondelpark ve Anne Frank'in evi gitmek isteyip zamanımızın yetmediği yerler.
+Bir yazının daha sonuna geldik. Herşeyiyle harika bir deneyimdi Amsterdam’da olmak. Gezin, görün, yaşayın bu hayatı gençler. “Yaşıyosun bu hayatı” diyen değil, dediren kişi olun. Her imkansızlık kendi imkanını yaratır. Şehir hakkında bizi hayal kırıklığına uğratan şey ise bu şehri tam anlamıyla gezmek için 3 gün bile yetmiyor. Bu kadar da olmaz dedik. Heineken bira müzesi, Vondelpark ve Anne Frank'in evi gitmek isteyip zamanımızın yetmediği yerler.
 
 Esen kalın efenim.
 
