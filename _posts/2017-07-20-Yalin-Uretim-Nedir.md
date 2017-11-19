@@ -2,7 +2,7 @@
 layout: post
 title: Yalın Üretim Nedir?
 author: Erkan Ceylan
-id: 3
+id: 4
 coverPhoto: https://user-images.githubusercontent.com/9788440/28430091-e2b65f6a-6d87-11e7-95f8-f47b81a4001a.jpg 
 ---
 Bu yaz Bursa Bosch Fren Sistemleri fabrikasında stajımı gerçekleştirdim. Ve bir bilgisayar mühendisi adayı olarak endüstri alanıyla ve seri üretimle ilgili ilgi çekici bilgiler öğrenme imkanı buldum. Farklı bir disiplin gibi görünse bile üretimle ilgili kavramların ve fikir akımlarının direkt ya da dolaylı olarak #yazılım üretimi#ne benzerliği dikkatimi çekti. Blogum vesilesiyle öğrendiklerimi daha detaylı araştırıp burdan sizlerle paylaşmak istedim. 
