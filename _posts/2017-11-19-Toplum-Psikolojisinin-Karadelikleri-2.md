@@ -6,11 +6,11 @@ id: 8
 coverPhoto: https://user-images.githubusercontent.com/9788440/33021391-f92fad7a-ce01-11e7-86c0-6e84743427bd.jpg
 ---
 ![Photo by Aaron Burden on Unsplash](https://user-images.githubusercontent.com/9788440/33021391-f92fad7a-ce01-11e7-86c0-6e84743427bd.jpg)
-İnsan dünyanın en gelişmiş ve aynı zamanda en zeki canlısı. İnsan psikolojisi de, beyni bu denli komplike ve gelişmiş olan bir canlı 
-için oldukça karmaşık. İnsan psikolojisine hep bir ilgim olmuştur ve toplumsal olaylar karşısında insanların anlamsız davranışları 
-veya uç tepkileri hep dikkatimi çekmiştir. Peki neden? Hayatını neden-sonuç ilişkisi üzerine kuran insanlar ne oluyorda bazen 
-çok mantıksız kararlar alabiliyorlar. Bazı insanları neden anlaması gerçekten çok zor oluyor. Bu yazımda az bilinen ama toplumda 
-sık rastlanan psikolojik rahatsızlıklardan, sendromlardan ve fenomenlerden bahsedeceğim.
+
+İnsanın dünyanın en gelişmiş ve aynı zamanda en zeki canlısı olduğundan, insan psikolojisi üzerine merağım ve araştırmalarım olduğundan
+baha önceki yazılarımda bahsetmiştim. Psikologların ortaya çıkardığı toplumda sık rastlanan ama aynı sıklıkta bilinmeyen psikolojik rahatsızlıklardan, sendromlardan ve fenomenlerden bahsetmeye bu yazımla devam edicem.
+
+`Dipnot:` Bu yazı dizisinin birinci bölümü olan Toplum Psikolojisinin Karadelikleri yazıma [buradan](https://erkanceylan.com/2017/11/07/Toplum-Psikolojisinin-Karadelikleri) ulaşabilirsiniz.
 
 # Pratfall Etkisi
 -----
@@ -47,7 +47,8 @@ yapsa bile, çirkin bir kişinin yaptığına göre daha iyi değerlendiriliyord
 Acaba İtalya’da arkadaşını öldürmekle suçlanan Amerikalı Amanda Marie Knox‘un yargılanma kararının geri çevrilmesinde bu psikolojik 
 fenomenin etkisi olabilir mi?
 
-![Photo by rawpixel.com on Unsplash](https://user-images.githubusercontent.com/9788440/33021387-f317922c-ce01-11e7-8c4b-56ec0d82d580.jpg)
+
+![Photo by Ehimetalor Unuabona on Unsplash](https://user-images.githubusercontent.com/9788440/33021393-fab6c2b4-ce01-11e7-98ba-066f9c5f4998.jpg)
 
 # Ringelmann Etkisi
 -----
@@ -59,7 +60,7 @@ verimliliğin artacağına inanan grup liderleri aslında yanılıyor. Gruba ekl
 olan marjinal katkısı azalıyor. İngilizce’de social loafing (sosyal boş gezme) olarak da adlandırılan bu fenomen, grup dinamiklerinde 
 dikkatle incelenen bir durum.
 
-![Photo by Ehimetalor Unuabona on Unsplash](https://user-images.githubusercontent.com/9788440/33021393-fab6c2b4-ce01-11e7-98ba-066f9c5f4998.jpg)
+![Photo by rawpixel.com on Unsplash](https://user-images.githubusercontent.com/9788440/33021387-f317922c-ce01-11e7-8c4b-56ec0d82d580.jpg)
 
 # İsim-Harf Etkisi
 -----
