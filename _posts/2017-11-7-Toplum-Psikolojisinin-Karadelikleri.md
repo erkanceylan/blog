@@ -87,6 +87,13 @@ yerlere bile girilebildiğinden zaten bazen paranoyaya varan genel bir rahatsız
 
 Bütün bu faktörler bir araya geldiğinde bilhassa kuşkucu kişilerde truman sendromu dediğimiz sanrısal bozukluklar ortaya çıkabilmektedir. Bu noktada sanrının boyutu şiddetli kuşkucu nöroz tablosundan, ağır hezeyanlı psikoz durumuna kadar değişkenlik göstermektedir. 
 
+-----
+
+Bunlara ne kadar psikolojik bozukluk denebilir bilmiyorum. Ama fenomenler, sendromlar insanlarda mantıklı dediğimiz, neden-sonuç ilişkisi içerisinde bireyin kazanım sağlamasını hedefleyen kararlar yerine, farklı eğilimlerle davranmalarına neden oluyor.
+Esen kalın efenim.
+
+`Dipnot:` Bu yazı dizisinin ikinci bölümü olan Toplum Psikolojisinin Karadelikleri - 2 yazıma [buradan](https://erkanceylan.com/2017/11/19/Toplum-Psikolojisinin-Karadelikleri-2) ulaşabilirsiniz.
+
 # Kaynakça
 -----
 Dunning Kruger Etkisi https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
