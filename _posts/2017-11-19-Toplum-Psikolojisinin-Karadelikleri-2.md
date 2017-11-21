@@ -8,7 +8,7 @@ coverPhoto: https://user-images.githubusercontent.com/9788440/33021391-f92fad7a-
 ![Photo by Aaron Burden on Unsplash](https://user-images.githubusercontent.com/9788440/33021391-f92fad7a-ce01-11e7-86c0-6e84743427bd.jpg)
 
 İnsanın dünyanın en gelişmiş ve aynı zamanda en zeki canlısı olduğundan, insan psikolojisi üzerine merağım ve araştırmalarım olduğundan
-baha önceki yazılarımda bahsetmiştim. Psikologların ortaya çıkardığı toplumda sık rastlanan ama aynı sıklıkta bilinmeyen psikolojik rahatsızlıklardan, sendromlardan ve fenomenlerden bahsetmeye bu yazımla devam edicem.
+daha önceki yazımda bahsetmiştim. Psikologların ortaya çıkardığı toplumda sık rastlanan ama aynı sıklıkta bilinmeyen psikolojik rahatsızlıklardan, sendromlardan ve fenomenlerden bahsetmeye bu yazımla devam edicem.
 
 `Dipnot:` Bu yazı dizisinin birinci bölümü olan Toplum Psikolojisinin Karadelikleri yazıma [buradan](https://erkanceylan.com/2017/11/07/Toplum-Psikolojisinin-Karadelikleri) ulaşabilirsiniz.
 
