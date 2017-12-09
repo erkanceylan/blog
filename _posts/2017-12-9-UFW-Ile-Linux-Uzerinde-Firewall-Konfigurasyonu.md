@@ -43,47 +43,47 @@ Güvenlik duvarımızda ufw ile yeni kural tanımlamak ise çok basit.
 
 ```{r, engine='bash', count_lines}
 $ sudo ufw [allow  veya deny] [port numarası ya da servis ismi]
-
+```
 Kuralı tanımlama deseni temel olarak böyle. Allow ile belirttiğimiz porta erişime izin verir, deny ile erişimi engelleriz. Port numarası yerine http gibi sistem üzerinde tanımlı servis kısaltmalarını da yazabiliriz.
 
 Belirli port aralığına izin vermek için aşağıdaki komut kullanılır.
 
 ```{r, engine='bash', count_lines}
 $ sudo ufw allow 1900:2000/tcp
-
+```
 ```{r, engine='bash', count_lines}
 $ sudo ufw allow from 192.168.5.10
-
+```
 Bir portu her ip ye açmak için.
 
 ```{r, engine='bash', count_lines}
 $ sudo ufw allow to any port 22
-
+```
 Ssh izin ver kuralını siler
 
 ```{r, engine='bash', count_lines}
 $ sudo ufw delete allow ssh
-
+```
 ```{r, engine='bash', count_lines}
 $ sudo ufw delete allow 22/tcp
-
+```
 
 
 Kuralları numaralandırılmış olarak listeleme komutu
 
 ```{r, engine='bash', count_lines}
 $ sudo ufw status numbered
-
+```
 Listedeki 2 numaralı kuralın kaldırılması komutu
 
 ```{r, engine='bash', count_lines}
 $ sudo ufw delete 2
-
+```
 Firewall’daki tüm kuralların silinmesi
 
 ```{r, engine='bash', count_lines}
 $ sudo ufw reset
-
+```
 
 # Kaynakça
 -----
