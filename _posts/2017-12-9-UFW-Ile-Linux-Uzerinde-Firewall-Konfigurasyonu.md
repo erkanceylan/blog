@@ -21,24 +21,24 @@ Ubuntu için ufw kurulum komutu:
 
 ```{r, engine='bash', count_lines}
 $ sudo apt-get install ufw
-
+```
 Güvenlik duvarında tanımlanmış olan kural setini listelemek için:
 
 ```{r, engine='bash', count_lines}
 $ sudo ufw status verbose
-
+```
 Linux işletim sistemlerinde varsayılan olarak tüm portlar kapalı olduğu için firewall da aktif değildir. Bu nedenle yukaridaki komutu çalıştırdığınızda aşağıdaki sonucu almış olabilirsiniz.
 
 Firewall’ı aktive etmek için ise bu komutu yazıyoruz.
 
 ```{r, engine='bash', count_lines}
 $ sudo ufw enable
-
+```
 Firewall’ı pasif hale getirmek için ise bu komutu yazmanız yeterli.
 
 ```{r, engine='bash', count_lines}
 $ sudo ufw disable
-
+```
 Güvenlik duvarımızda ufw ile yeni kural tanımlamak ise çok basit. 
 
 ```{r, engine='bash', count_lines}
