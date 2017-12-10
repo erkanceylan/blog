@@ -29,24 +29,41 @@ $ sudo ufw status verbose
 ```
 Linux işletim sistemlerinde varsayılan olarak tüm portlar kapalı olduğu için firewall da aktif değildir. Bu nedenle yukaridaki komutu çalıştırdığınızda aşağıdaki sonucu almış olabilirsiniz.
 
+```
+Output:
+Status: inactive
+```
 Firewall’ı aktive etmek için ise bu komutu yazıyoruz.
 
 ```bash
 $ sudo ufw enable
 ```
-Firewall’ı pasif hale getirmek için ise bu komutu yazmanız yeterli.
+Güvenlik duvarımızın aktif hale geldiğini aşağıdaki çıktıdan anlayabilirsiniz.
+```
+Output:
+Status: active
+Logging: on (low)
+Default: deny (incoming), allow (outgoing), disabled (routed)
+New profiles: skip
+
+To                         Action      From
+--                         ------      ----
+22/tcp                     ALLOW IN    Anywhere
+```
+
+Şuan bunu yazmanızı tavsiye etmem ama ileride firewall’ı pasif hale getirmek isterseniz bu komutu yazmanız yeterli.
 
 ```bash
 $ sudo ufw disable
 ```
-Güvenlik duvarımızda ufw ile yeni kural tanımlamak ise çok basit. 
+Artık, güvenlik duvarımızda ufw ile yeni kurallar tanımlamaya başlayabiliriz. 
 
 ```bash
 $ sudo ufw [allow  veya deny] [port numarası ya da servis ismi]
 ```
 Kuralı tanımlama deseni temel olarak böyle. Allow ile belirttiğimiz porta erişime izin verir, deny ile erişimi engelleriz. Port numarası yerine http gibi sistem üzerinde tanımlı servis kısaltmalarını da yazabiliriz.
 
-Belirli port aralığına izin vermek için aşağıdaki komut kullanılır.
+Belirli port aralığına izin vermek için aşağıdaki komut kullanılır. Örnek olarak 1900 ile 2000 arası tüm portları aktif ediyoruz.
 
 ```bash
 $ sudo ufw allow 1900:2000/tcp
@@ -55,17 +72,17 @@ $ sudo ufw allow 1900:2000/tcp
 ```bash
 $ sudo ufw allow from 192.168.5.10
 ```
-Bir portu her ip ye açmak için.
+Bir portu internetten gelen isteğe açmak için ise alttaki komutu kullanmalısınız.
 
 ```bash
 $ sudo ufw allow to any port 22
 ```
-Ssh izin ver kuralını siler
+Kural silmek için delete anahtar sözcüğü kullanılır. Örnek olarak ssh bağlantısına izin veren kuralı silelim
 
 ```bash
 $ sudo ufw delete allow ssh
 ```
-
+Port numarası ile kural silelim.
 ```bash
 $ sudo ufw delete allow 22/tcp
 ```
@@ -76,16 +93,29 @@ Kuralları numaralandırılmış olarak listeleme komutu
 ```bash
 $ sudo ufw status numbered
 ```
-Listedeki 2 numaralı kuralın kaldırılması komutu
+Çıktımız ise bu şekilde;
+```
+Numbered Output:
+Status: active
+
+     To                         Action      From
+     --                         ------      ----
+[ 1] 22                         ALLOW IN    15.15.15.0/24
+[ 2] 80                         ALLOW IN    Anywhere
+```
+
+Listedeki 2 numaralı kuralın kaldırılması için gerekli komut;
 
 ```bash
 $ sudo ufw delete 2
 ```
-Firewall’daki tüm kuralların silinmesi
+Firewall’daki tüm kuralların silmek / firewallı resetlemek istersek ise reset komutu işimizi görecektir.
 
 ```bash
 $ sudo ufw reset
 ```
+
+Bugünde ufw ile Linux tabanlı sistemlerde güvenlik duvarı yapılandırma komutlarını öğrendik. Sorularınız için benimle iletişebilirsiniz. Esen kalın efenim...
 
 # Kaynakça
 -----
