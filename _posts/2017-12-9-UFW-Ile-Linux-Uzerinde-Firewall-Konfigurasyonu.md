@@ -29,7 +29,7 @@ $ sudo ufw status verbose
 ```
 Linux işletim sistemlerinde varsayılan olarak tüm portlar kapalı olduğu için firewall da aktif değildir. Bu nedenle yukaridaki komutu çalıştırdığınızda aşağıdaki sonucu almış olabilirsiniz.
 
-```
+```bash
 Output:
 Status: inactive
 ```
@@ -39,7 +39,7 @@ Firewall’ı aktive etmek için ise bu komutu yazıyoruz.
 $ sudo ufw enable
 ```
 Güvenlik duvarımızın aktif hale geldiğini aşağıdaki çıktıdan anlayabilirsiniz.
-```
+```bash
 Output:
 Status: active
 Logging: on (low)
@@ -94,7 +94,7 @@ Kuralları numaralandırılmış olarak listeleme komutu
 $ sudo ufw status numbered
 ```
 Çıktımız ise bu şekilde;
-```
+```bash
 Numbered Output:
 Status: active
 
