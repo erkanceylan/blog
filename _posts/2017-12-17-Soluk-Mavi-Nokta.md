@@ -3,9 +3,9 @@ layout: post
 title: "Soluk Mavi Nokta"
 author: Erkan Ceylan
 id: 10
-coverPhoto: https://user-images.githubusercontent.com/9788440/34080003-fce026c0-e337-11e7-80aa-ad8c236c522d.png
+coverPhoto: https://user-images.githubusercontent.com/9788440/34080884-574e386a-e345-11e7-9d85-2c302cc5c9c2.png
 ---
-![Photo of Pale Blue Dot](https://user-images.githubusercontent.com/9788440/34080003-fce026c0-e337-11e7-80aa-ad8c236c522d.png)
+![Photo of Pale Blue Dot](https://user-images.githubusercontent.com/9788440/34080884-574e386a-e345-11e7-9d85-2c302cc5c9c2.png)
 
 Soluk Mavi Nokta, bir fotoğrafa verilen isim. 1977 yılında NASA tarafından içerisinde insan uygarlığına ait bilgiler yer alan
 altın bir plakla(bir başka yazıda anlatmak dileğiyle) birlikte uzay araştırmaları için gönderilen Voyager 1 uzay sondası 
@@ -26,6 +26,7 @@ Bu yazının esas konteksi Sagan'ın Cosmos'un bir bölümünde, ekrana bu soluk
 sözleri. Bu küçük mavi noktanın bildiğimiz tek evimiz, tek sığınağımızın evrenin sonsuz büyüklüğü içindeki minnaklığı, zavallığı,
 yaşam gayesi edindiğimiz hedeflerimizin anlamsızlığı. Şimdi sizi Carl Sagan'la başbaşa bırakıyım. Carl, söz sende:
 
+![Pale Blue Dot Picture](https://user-images.githubusercontent.com/9788440/34080003-fce026c0-e337-11e7-80aa-ad8c236c522d.png)
 
 >Şu noktaya tekrar bakın. Orası evimiz. O biziz. Sevdiğiniz ve tanıdığınız, adını duyduğunuz, yaşayan ve ölmüş olan herkes 
 onun üzerinde bulunuyor. Tüm neşemizin ve kederimizin toplamı, binlerce birbirini yalanlayan din, ideoloji ve iktisat 
@@ -46,10 +47,7 @@ yok. Ziyaret edebiliriz, ama henüz yerleşemeyiz. Beğenin veya beğenmeyin, ş
 Gökbilimin mütevazılaştırıcı ve kişilik kazandıran bir deneyim olduğu söylenir. Belki de insanın kibrinin ne kadar 
 aptalca olduğunu bundan daha iyi gösteren bir fotoğraf yoktur. Bence, birbirimize daha iyi davranma sorumluluğumuzu 
 vurguluyor, ve bu mavi noktaya, biricik yuvamıza.
-"BU SAHİP OLDUĞUMUZ TEK ŞEY".
-
-
-
+BU SAHİP OLDUĞUMUZ TEK ŞEY.
 
 
 Kaynakça
