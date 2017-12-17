@@ -7,24 +7,22 @@ coverPhoto: https://user-images.githubusercontent.com/9788440/34080884-574e386a-
 ---
 ![Photo of Pale Blue Dot](https://user-images.githubusercontent.com/9788440/34080884-574e386a-e345-11e7-9d85-2c302cc5c9c2.png)
 
-Soluk Mavi Nokta, bir fotoğrafa verilen isim. 1977 yılında NASA tarafından içerisinde insan uygarlığına ait bilgiler yer alan
-altın bir plakla(bir başka yazıda anlatmak dileğiyle) birlikte uzay araştırmaları için gönderilen Voyager 1 uzay sondası 
-tarafından çekildiğinde, Dünya'nın en uzaktan çekilmiş fotoğrafıydı. 1990 yılı imkanlarıyla, tost makinasıyla çekilmiş 
+Soluk Mavi Nokta, bir fotoğrafa verilen isim. 1977 yılında NASA tarafından uzay araştırmaları için gönderilen Voyager 1 uzay sondası tarafından çekildiğinde, Dünya'nın en uzaktan çekilmiş fotoğrafıydı. 1990 yılı imkanlarıyla, tost makinasıyla çekilmiş 
 izlenimi verse de, o uzaklıktan bu fotoğrafın çekilip Dünya'ya gönderilmesi muazzam bir teknoloji. 
 
-Fotoğraf, dünyanın uzayın sonsuzluğu içerisinde nasıl yalnız kaldığını göstermekte ve Carl Sagan'ın deyiminle tüm sahillerdeki 
+Fotoğraf, dünyamızın, uzayın sonsuzluğu içerisinde nasıl yalnız kaldığını göstermekte ve Carl Sagan'ın deyiminle tüm sahillerdeki 
 tüm kum tanelerinin toplamından sadece biri olduğumuzu çok net bir biçimde anlatıyor.
 
 ![Carl Sagan Image](https://user-images.githubusercontent.com/9788440/34080000-f6befa1e-e337-11e7-9d92-ed4a500f9f01.jpg)
 
-Carl Sagan en sevdiğim, sözlerine ve görüşlerine değer verdiğim astronomi alanında müthiş işler yapmış biri. Bilim adamı 
+Carl Sagan sevdiğim, sözlerine ve görüşlerine değer verdiğim, astronomi alanında müthiş işler yapmış biri. Bilim adamı 
 kimliğinin dışında halka bilimi anlatma çabaları, inanmayı değil öğrenmeyi ve keşfetmeyi(bilmeyi) esas alan öğütleriyle 
 tanınmış bir insan. Aynı zamanda Amerika'nın en bilinin televizyon serilerinden Cosmos'un yaratıcısı ve dünyaya bilimi 
-sevdiren onlarca kitaba sahip biri. Carl Sagan'ı övmeye benim kelimelerim yetmez. Bu yazıyı da bu amaçla yazmıyorum.
+sevdiren onlarca kitabın yazarı. Carl Sagan'ı övmeye benim kelimelerim yetmez. Bu yazıyı da bu amaçla yazmıyorum.
 
-Bu yazının esas konteksi Sagan'ın Cosmos'un bir bölümünde, ekrana bu soluk mavi noktayı getirerek, insanlığa ders niteliğindeki
-sözleri. Bu küçük mavi noktanın bildiğimiz tek evimiz, tek sığınağımızın evrenin sonsuz büyüklüğü içindeki minnaklığı, zavallığı,
-yaşam gayesi edindiğimiz hedeflerimizin anlamsızlığı. Şimdi sizi Carl Sagan'la başbaşa bırakıyım. Carl, söz sende:
+Bu yazının esas konteksi Sagan'ın Cosmos'un bir bölümünde, ekrana bu soluk mavi noktayı getirerek, fotoğrafı, insanlığa ders niteliğindeki
+sözleriyle yorumlaması. Bu küçük mavi noktanın, bildiğimiz tek evimiz, tek sığınağımızın, evrenin sonsuz büyüklüğü içindeki minnaklığı, zavallığı...
+Yaşam gayesi edindiğimiz hedeflerimizin anlamsızlığı. Şimdi sizi Carl Sagan'la başbaşa bırakıyım. Carl, söz sende:
 
 ![Pale Blue Dot Picture](https://user-images.githubusercontent.com/9788440/34080003-fce026c0-e337-11e7-80aa-ad8c236c522d.png)
 
