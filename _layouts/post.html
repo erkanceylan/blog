@@ -34,8 +34,9 @@ layout: default
 	</span>
 	
 	<span class="article__date">
-		{% if page.category != "" %}
-			 | <a href="#">{{ page.category }}</a>
+		{% if post.category == "" %}
+		{% else %}
+			| <a class="article__button" href="#">{{ post.category }}</a>
 		{% endif %}
 			
 	</span>
