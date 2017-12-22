@@ -143,7 +143,7 @@ header {
 		>div {
 
 			height: $headerHeight;
-			@include vendor2(width, calc(100% - #{$header__iconHeight * 2}));
+			@include vendor2(width, calc(100% - #{$header__iconHeight * 4}));
 
 			/* Site description */
 			h6 {
