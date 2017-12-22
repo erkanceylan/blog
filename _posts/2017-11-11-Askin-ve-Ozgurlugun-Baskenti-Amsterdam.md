@@ -3,6 +3,7 @@ layout: post
 title: "Aşkın ve Özgürlüğün Başkenti: Amsterdam"
 author: Erkan Ceylan
 id: 7
+category: "Gezi"
 coverPhoto: https://user-images.githubusercontent.com/9788440/32684707-ac07e8a0-c686-11e7-9578-b8749ffec522.JPG 
 ---
 ![Main Image: Amsterdam](https://user-images.githubusercontent.com/9788440/32684707-ac07e8a0-c686-11e7-9578-b8749ffec522.JPG)
