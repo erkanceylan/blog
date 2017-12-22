@@ -3,6 +3,7 @@ layout: post
 title: Toplum Psikolojisinin Karadelikleri - 2
 author: Erkan Ceylan
 id: 8
+category: "Psikoloji"
 coverPhoto: https://user-images.githubusercontent.com/9788440/33021391-f92fad7a-ce01-11e7-86c0-6e84743427bd.jpg
 ---
 ![Photo by Aaron Burden on Unsplash](https://user-images.githubusercontent.com/9788440/33021391-f92fad7a-ce01-11e7-86c0-6e84743427bd.jpg)
