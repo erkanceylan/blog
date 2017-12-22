@@ -60,12 +60,11 @@ layout: default
 				{% endif %}
 			</span>
 			
-			<span class="article__date">
 					{% if post.category == "" %}
 					{% else %}
 						| <a class="article__button" href="#">{{ post.category }}</a>
 					{% endif %}
-			</span>
+			
 			
 			<!-- Article continue reading button -->
 			<a class="article__button" href="{{ site.baseurl }}{{ post.url }}">{% if site.lang == "tr" %}DEVAMINI OKU{% else %}CONTINUE READING{% endif %}</a>
