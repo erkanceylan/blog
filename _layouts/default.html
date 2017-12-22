@@ -59,6 +59,7 @@ layout: htmlCompressor
 	{% if site.google != "" %}<meta name="google-site-verification" content="{{ site.google }}">{% endif %}
 
 	<!-- Favicon & RSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="icon" href="{{ site.baseurl }}/assets/img/favicon.ico">
 	<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.baseurl }}/rss.xml">
 
@@ -79,7 +80,9 @@ layout: htmlCompressor
 
 			<!-- Homepage -->
 			<a href="{{ site.baseurl }}"><i class="icon-home"></i></a>
-			<a href="{{ site.baseurl }}"><i class="icon-home"></i></a>
+			<!-- About -->
+			<a href="{{ site.aboutUrl }}"><i class="icon-user-o"></i></a>
+			
 			<!-- Site name & description -->
 			<div>
 
