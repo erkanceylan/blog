@@ -3,6 +3,7 @@ layout: post
 title: DFA İndirgenmesi (DFA Minimization)
 author: Erkan Ceylan
 id: 1
+category: "Bilgisayar Bilimleri"
 ---
 
 Bu yazımda Bilgisayar Bilimlerinin temel derslerinden olan Biçimsel Diller ve Soyut Makineler dersi için önemli bir konu olan DFA makinesinin optimizasyonunu anlatacağım.
