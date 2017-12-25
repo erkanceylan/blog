@@ -61,7 +61,14 @@ Tutkulu bir Beşiktaş taraftarı olmamın dışında, seyahat etmek, kampa gitm
 ***********
 
 Bana alttaki linklerin herhangi birinden ulaşabilirsiniz. Esen kalın efenim...  
-	
+
+<a href="[Linkedin][linkedin]"><i class="fa fa-linkedin"></i></a>
+<a href="[Github][github]"><i class="fa fa-github"></i></a>
+<a href="[Facebook][facebook]"><i class="fa fa-facebook-square"></i></a>
+<a href="[Twitter][twitter]"><i class="fa fa-twitter"></i></a>
+<a href="[Medium][medium]"><i class="fa fa-medium"></i></a>
+<a href="[Mail][mail]"><i class="fa fa-envelope-o"></i></a>
+<a href="[Pinterest][pinterest]"><i class="fa fa-pinterest"></i></a>
 
 [Linkedin][linkedin]  
   
