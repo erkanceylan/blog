@@ -61,36 +61,17 @@ Tutkulu bir Beşiktaş taraftarı olmamın dışında, seyahat etmek, kampa gitm
 ***********
 
 Bana alttaki linklerin herhangi birinden ulaşabilirsiniz. Esen kalın efenim...  
+<div style="text-align:center;border-bottom:none;color:#b0b0b0;width:40px;height:40px;border-radius:50%;-o-border-radius:50%;-ms-border-radius:50%;-moz-border-radius:50%;-webkit-border-radius:50%;margin-top:30px}">
+	
+<a target="_blank" href="https://tr.linkedin.com/in/erkanceylan"><i class="fa fa-linkedin"></i></a>
+<a target="_blank" href="https://github.com/erkanceylan"><i class="fa fa-github"></i></a>
+<a target="_blank" href="https://facebook.com/erkanceylan.4"><i class="fa fa-facebook-square"></i></a>
+<a target="_blank" href="https://twitter.com/erkan4ceylan"><i class="fa fa-twitter"></i></a>
+<a target="_blank" href="https://medium.com/@erkanceylan"><i class="fa fa-medium"></i></a>
+<a target="_blank" href="mailto:erkanceylan4@gmail.com"><i class="fa fa-envelope-o"></i></a>
+<a target="_blank" href="https://pinterest.com/erkanceylan4"><i class="fa fa-pinterest"></i></a>
 
-<a href="[Linkedin][linkedin]"><i class="fa fa-linkedin"></i></a>
-<a href="[Github][github]"><i class="fa fa-github"></i></a>
-<a href="[Facebook][facebook]"><i class="fa fa-facebook-square"></i></a>
-<a href="[Twitter][twitter]"><i class="fa fa-twitter"></i></a>
-<a href="[Medium][medium]"><i class="fa fa-medium"></i></a>
-<a href="[Mail][mail]"><i class="fa fa-envelope-o"></i></a>
-<a href="[Pinterest][pinterest]"><i class="fa fa-pinterest"></i></a>
-
-[Linkedin][linkedin]  
-  
-[Github][github]  
-  
-[Facebook][facebook]  
-  
-[Twitter][twitter]  
-  
-[Medium][medium]  
-  
-[Mail][mail]  
-
-[Pinterest][pinterest]
-
+</div>
   
 
-[erkanceylan]: http://erkanceylan.com
-[github]: https://github.com/erkanceylan
-[facebook]: https://facebook.com/erkanceylan.4
-[twitter]: https://twitter.com/erkan4ceylan
-[linkedin]: https://tr.linkedin.com/in/erkanceylan
-[medium]: https://medium.com/erkanceylan
-[mail]: mailto:erkanceylan4@gmail.com
-[pinterest]: https://pinterest.com/erkanceylan4
+[erkanceylan]: https://erkanceylan.com
