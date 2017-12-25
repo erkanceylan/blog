@@ -60,8 +60,8 @@ Tutkulu bir Beşiktaş taraftarı olmamın dışında, seyahat etmek, kampa gitm
 
 ***********
 
-Bana alttaki linklerin herhangi birinden ulaşabilirsiniz. Esen kalın efenim...  
-
+Bana alttaki sosyal medya linklerin herhangi birinden ulaşabilirsiniz. Esen kalın efenim...  
+<br/>
   
 
 [erkanceylan]: https://erkanceylan.com
