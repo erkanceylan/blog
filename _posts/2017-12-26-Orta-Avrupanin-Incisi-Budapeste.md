@@ -23,7 +23,7 @@ hakikaten Budin ve Peşte şehirleri, 1849 yılında Chain Bridge(Zincir Köprü
 
 ![Islak Islak Bakma Oyle](https://user-images.githubusercontent.com/9788440/34344454-6ac19fe8-e9e6-11e7-8e71-cfa923641ca4.jpg)
 
-Şehrin batı yakası Budin, doğu yakası ile Peşte tarafı oluyor. Peşte, Buda’ya oranla şehrin daha büyük kısmını oluşturuyor 
+Şehrin batı yakası Budin, doğu yakası ile Peşte tarafı oluyor. Peşte, Budin’e oranla şehrin daha büyük kısmını oluşturuyor 
 ve gezilecek yerlerin çoğu bu yakada. Vaci Ulca, Budapeşte’nin en meşhur sokağı, Sakaryalılar bilir aynı bir ters bir düz 
 tur attığımız Çark Caddesi, ya da İstanbullular için tarif etmek gerekirse İstiklal gibi trafiğe kapalı ve içinde her tür 
 mekan bulunan bir cadde. 
@@ -113,10 +113,10 @@ Tabiki ki gösteriş nasıl yapılır bunlardan öğrenecek değiliz, bin odalı
 olan bu yapı devletin headquarterı, yani tüm kararlar burada alınıyor. Belki de bizim meclisteki gibi kickboks görüntülerine 
 de sahne oluyordur arada bir, kimbilir...
 
-# Buda Kalesi
+# Budin Kalesi
 -----
 
-![Buda Kalesi](https://user-images.githubusercontent.com/9788440/34344484-6e457892-e9e6-11e7-98fa-4fab81b1fd0a.jpg)
+![Budin Kalesi](https://user-images.githubusercontent.com/9788440/34344484-6e457892-e9e6-11e7-98fa-4fab81b1fd0a.jpg)
 Kaleler yükseklerde kurulur bilirsiniz. Buraya gelince de tırmanmanız gereken yüksekliği görünce “buda” mı gol değil be 
 diyebilirsiniz. Kaleye finükülerle çıkmak mümkün pek tabiki. Tarihi, şekil bir finüküler hattı da yapmışlar. Biz fakirdik 
 paramız yetmedi, yürüdük. Yukarıda nefis bir manzara ve bizim gibi kış ayında gittiyseniz sert bir rüzgar sizi bekliyor 
