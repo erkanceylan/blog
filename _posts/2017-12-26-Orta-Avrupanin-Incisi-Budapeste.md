@@ -15,7 +15,7 @@ de kültürel ve tarihi açıdan zengin bir başkente sahip.
 
 Dilerseniz öncelikle Macaristan’ın ve Budapeşte hakkında genel bilgiler vereyim. Macaristan Cumhuriyeti, komünizmin çöküşü 
 sonrası 1989 yılında bağımsızlığını ilan etmiş. Nüfusu 10 milyon ve bu nüfusun 5’te 1’i olan 2 milyonu, başkent Budapeşte’de 
-yaşıyor. Budapeşte ayrıca Berlin’den sonra avrupanın 2. büyük şehri. Ülke 1999’da NATO’ya, 2004’te de Avrupa Birliği’ne 
+yaşıyor. Budapeşte ayrıca Berlin’den sonra Orta Avrupa'nın 2. büyük şehri. Ülke 1999’da NATO’ya, 2004’te de Avrupa Birliği’ne 
 girmiş. Komünizm nasıl bıktırdıysa adamları siz düşünün.
 
 Budapeşte, Tuna nehrinin içinden geçip ikiye böldüğü bir şehir. Aslında iki şehirin birleşimi demek daha doğru. Çünkü 
