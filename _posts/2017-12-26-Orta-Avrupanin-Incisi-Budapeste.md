@@ -6,12 +6,9 @@ id: 11
 category: "Gezi"
 coverPhoto: https://user-images.githubusercontent.com/9788440/34344474-6d2229d8-e9e6-11e7-8231-3f6217ca7e5b.jpg
 ---
-# Orta Avrupa’nın İncisi:Budapeşte
------
-
 Erasmus yaşamının kaçınılmaz aktivitelerinden gezintinin başka bir bölümünde Budapeşte’yi sizler için gezdim.  Budapeşte, 
 Orta Avrupa ülkelerinden Macaristan’ın başkenti. Macaristan, Sovyetler Birliği’nin dağılmasından sonra bağımsızlığını 
-ilan etmiş yeni bir ülke gibi görünse de,tarihi 1100 yıl eskiye dayanan köklü bir imparatorlukla başlıyor. Böyle bir ülke 
+ilan etmiş yeni bir ülke gibi görünse de, tarihi 1100 yıl eskiye dayanan köklü bir imparatorlukla başlıyor. Böyle bir ülke 
 de kültürel ve tarihi açıdan zengin bir başkente sahip. 
 
 ![Genel Budapeşte Fotosu](https://user-images.githubusercontent.com/9788440/34344474-6d2229d8-e9e6-11e7-8231-3f6217ca7e5b.jpg)
