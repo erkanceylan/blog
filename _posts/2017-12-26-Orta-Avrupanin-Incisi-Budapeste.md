@@ -70,7 +70,7 @@ tasarrufunuz değerli okurlarım.
 # Kahramanlar Meydanı
 -----
 ![Kahramanlar Meydanı Resmi](https://user-images.githubusercontent.com/9788440/34344480-6dcaeba4-e9e6-11e7-8bfe-578fe283f5b7.jpg)
-_"Arkada Macar kahramanlar, önde de bir 21. yüzyıl kahramanı olarak ben."_
+_Arkada Macar kahramanlar, önde de bir 21. yüzyıl kahramanı olarak ben._
 
 Budapeşte’de en bilinen meydan Kahramanlar Meydanı(Hösok Tere). Unesco dünya mirasları listesinde yer alan meydanın tam ortasında 1900 
 yılında inşa edilen Milenium anıtı var. Macaristan'ın 1000.yılını kutlamak için yapılmış. Gerçekten ihtişamlı heykellerden 
