@@ -38,11 +38,11 @@ zayıflığı/milli gelir seviyesinin düşüklüğü olabilir. Kendi para birim
 Para birimi kafa karışıklığına neden olup, hediyelik bir şeyler satın alırken ufak bir kerat cetveli hesabına girmenize 
 yol açabiliyor. Amman dikkat diyoruz. 
 
-# Kapalı Halk Pazarı (Nagycsarnok ya da Great Market Hall) 
+# Kapalı Halk Pazarı
 -----
 ![Great Market Hall Foto](https://user-images.githubusercontent.com/9788440/34344636-1fbcd0a6-e9e8-11e7-8414-e4a7bfb54537.jpeg)
 
-Hediyelik deyince Budapeşte’de ilk akla gelen yer burası. 1897'de faaliyete geçmiş bir halk pazarı. İçerisinde hediyelikten 
+Kapalı Halk Pazarı, Macarca Nagycsarnok ya da İngilizce Great Market Hall. Hediyelik deyince Budapeşte’de ilk akla gelen yer burası. 1897'de faaliyete geçmiş bir halk pazarı. İçerisinde hediyelikten 
 tutun macar salamlarına, çeşitlik yöresel lezzetlerden biberlere ne ararsan varmış bu kapalı pazar yerinde. Lokasyon olarak 
 Tuna nehrinin hemen yanında, Özgürlük(Freedom) köprüsünün Peşte ayağında yer alıyor. Nehrin yanında yer almasının sebebi 
 taze gıda, balık vs direkt nehirden pazar yerine aktarılıp, taze taze satılmasını sağlamakmış. Bizde bu yeri görmek için 
