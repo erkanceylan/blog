@@ -43,7 +43,7 @@ yol açabiliyor. Amman dikkat diyoruz.
 ![Great Market Hall Foto](https://user-images.githubusercontent.com/9788440/34344636-1fbcd0a6-e9e8-11e7-8414-e4a7bfb54537.jpeg)
 
 Kapalı Halk Pazarı, Macarca Nagycsarnok ya da İngilizce Great Market Hall. Hediyelik deyince Budapeşte’de ilk akla gelen yer burası. 1897'de faaliyete geçmiş bir halk pazarı. İçerisinde hediyelikten 
-tutun macar salamlarına, çeşitlik yöresel lezzetlerden biberlere ne ararsan varmış bu kapalı pazar yerinde. Lokasyon olarak 
+tutun macar salamlarına, çeşitli yöresel lezzetlerden biberlere ne ararsan varmış bu kapalı pazar yerinde. Lokasyon olarak 
 Tuna nehrinin hemen yanında, Özgürlük(Freedom) köprüsünün Peşte ayağında yer alıyor. Nehrin yanında yer almasının sebebi 
 taze gıda, balık vs direkt nehirden pazar yerine aktarılıp, taze taze satılmasını sağlamakmış. Bizde bu yeri görmek için 
 cumartesi günü saat 3 civarı buraya geldiğimizde kapalı olması şokuyla karşılaştık. Pazar yeri, cumartesi günü saat 2 ye 
@@ -58,7 +58,7 @@ Zincir Köprüsü, Buda ve Peşte’yi baglayan en ünlü köprü demiştik. Seb
 
 > “Bu şehrin de iki yakası bir araya gelmiyor ha.” -Macaristan Kralı
 
-Köprüyle ilgili bir efsane varki, çok ilginç. Dinleyince inanmadım ben ama size de aktarıyım. Köprünün açılışı sırasında 
+Köprüyle ilgili bir efsane varki, çok ilginç. Dinleyince inanmadım ben ama size de aktarıyım. Köprünün açılışı sırasında, 
 aslan heykellerini yapan heykeltraş, heykellerin o zamana kadar yapılmış en gerçekçi aslan heykeli olduğundan gururla 
 bahsederken, troll bir vatandaş, ağzı açık aslan heykellerinin dilinin olmamasına dikkat ederek, “nasıl gerçekçi la 
 bunların dili nerde !” diye çıkışır. Yaptığı hatanın farkına varan heykeltraş da büyük bir hayalkırıklığı travmasına 
@@ -67,12 +67,12 @@ tasarrufunuz değerli okurlarım.
 
 ![Aslanların Dili Fotoğrafı](https://user-images.githubusercontent.com/9788440/34344478-6d93211a-e9e6-11e7-88d6-201abcc994f9.jpg)
 
-# Kahramanlar Meydanı (Hösok Tere)
+# Kahramanlar Meydanı
 -----
 ![Kahramanlar Meydanı Resmi](https://user-images.githubusercontent.com/9788440/34344480-6dcaeba4-e9e6-11e7-8bfe-578fe283f5b7.jpg)
 Arkada Macar kahramanlar, önde de bir 21. yüzyıl kahramanı olarak ben.
 
-Budapeşte’de en bilinen meydan Kahramanlar Meydanı. Unesco dünya mirasları listesinde yer alan meydanın tam ortasında 1900 
+Budapeşte’de en bilinen meydan Kahramanlar Meydanı(Hösok Tere). Unesco dünya mirasları listesinde yer alan meydanın tam ortasında 1900 
 yılında inşa edilen Milenium anıtı var. Macaristan'ın 1000.yılını kutlamak için yapılmış. Gerçekten ihtişamlı heykellerden 
 oluşuyor meydan, dibimiz düştü efenim. Neden bizimde böyle bir heykelimiz yok, niye bize püskevit almıyorsunuz. Velhasıl 
 kelam bu heykellerde ne var; anıtın ortasındaki heykelde hristiyanlığa göre meleklerin en yücesi olan Cebrail’in, hak din 
@@ -85,16 +85,16 @@ hediye eder. Eeee ne de olsa hristiyanlığı ayrı bir pazara açmanın mükafa
 ![Kahramanlar 2 Photo](https://user-images.githubusercontent.com/9788440/34344450-65e65158-e9e6-11e7-8848-d8a36636d1c5.jpg)
 
 Ek olarak Avrupa’nın en eski metro hatlarından birinin Kahramanlar Meydanın’da yer aldığını belirtmek isterim. 
-Peşte yakasındaki M1 metrosu, Avrupa’nın en eski 3. metrosu. En eskisi Londra metrosu ve ikinci Osmanlı döneminde 
-yapılan gururumuz, İstanbul’daki Karaköy-Taksim metrosu(ver mehteri). 
+Peşte yakasındaki M1 metrosu, Avrupa’nın en eski 3. metrosu. En eskisi Londra metrosu ve ikinci en eskisi, Osmanlı döneminde 
+yapılan gururumuz, İstanbul’daki Karaköy-Tünel metrosu(ver mehteri). 
 
 ![Metronun resmi](https://user-images.githubusercontent.com/9788440/34344460-6b69c3d0-e9e6-11e7-8165-fee2866e45d0.jpg)
 
-# St. Stephan’s Basilica (Aziz Stephan Bazilikası)
+# Aziz Stephan Bazilikası
 
 ![St. Stephans Photo](https://user-images.githubusercontent.com/9788440/34344482-6e0c8686-e9e6-11e7-9156-c6126606ca52.jpg)
 Madem Stephan’dan bahsettik, şehirdeki aynı ismi taşıyan bazilikadan bahsetmeden olmaz. Bildiğiniz gibi Stephan(Macarca’da 
-Istvan) hristiyanlığı kabul eden ilk Macar kralı.Adına yaptırılan St. Stephan Kilisesi, 96 metre uzunluğunda, Macar 
+Istvan) hristiyanlığı kabul eden ilk Macar kralı. Adına yaptırılan Aziz Stephan Bazilikası, 96 metre uzunluğunda, Macar 
 krallığının kuruluşu olan 896 yılına olan saygılarından dolayı şehrin en yüksek binası niteliğini taşıyor.(Cümle mhpnin 
 40 yılına doğru gidiyordu iyi topladım.)
 
@@ -103,7 +103,7 @@ sergilenen, Aziz Stephan'ın sağ eli. (El şakası yapmayın lütfen.)
 
 ![Kutsal Emanetler Photo](https://user-images.githubusercontent.com/9788440/34344819-2582a748-e9ea-11e7-996f-ea32e452c560.jpg)
 
-# Parlemento Sarayı
+# Parlamento Sarayı
 -----
 ![Parlamento Binası Resmi](https://user-images.githubusercontent.com/9788440/34344459-6b4ba9cc-e9e6-11e7-97a4-4515cfc86b60.jpg)
 
@@ -114,11 +114,13 @@ de sahne oluyordur arada bir, kimbilir...
 
 # Buda Kalesi
 -----
+
 ![Buda Kalesi](https://user-images.githubusercontent.com/9788440/34344484-6e457892-e9e6-11e7-98fa-4fab81b1fd0a.jpg)
 Kaleler yükseklerde kurulur bilirsiniz. Buraya gelince de tırmanmanız gereken yüksekliği görünce “buda” mı gol değil be 
 diyebilirsiniz. Kaleye finükülerle çıkmak mümkün pek tabiki. Tarihi, şekil bir finüküler hattı da yapmışlar. Biz fakirdik 
 paramız yetmedi, yürüdük. Yukarıda nefis bir manzara ve bizim gibi kış ayında gittiyseniz sert bir rüzgar sizi bekliyor 
 olucak.
+
 ![Finukuler](https://user-images.githubusercontent.com/9788440/34344461-6b8616de-e9e6-11e7-8132-fe42bee2ce8d.jpg)
 
 # Mathias Kilisesi
@@ -127,18 +129,22 @@ olucak.
 Kilisenin içine girmedik. O yüzden söyleyeceğim pek birşey yok, dışardan güzel kilise. Hemen arkasında Trinity Anıtı 
 bulunuyor. Veba salgını yüzünden yapılmış, bu heykelle vebayı yeneceklerini düşünmüşler, cehalet işte.
 
-# Fisherman’s Bastion (Balıkçı Tabyası)
+# Fisherman’s Bastion 
 -----
 ![Heykelli Fishermans Bastion Photo](https://user-images.githubusercontent.com/9788440/34344462-6ba934a2-e9e6-11e7-9944-846b76f9919d.jpg)
-Fisherman's Bastion, Mathias kilisesiyle aynı lokasyonda bulunuyor. 7 kule adet kuleden oluşan görkemli bir yapı. 7 kule 
+
+Fisherman's Bastion(Balıkçı Tabyası), Mathias kilisesiyle aynı lokasyonda bulunuyor. 7 kule adet kuleden oluşan görkemli bir yapı. 7 kule 
 olması manidar çünkü bu kuleler ülkeyi kuran 7 kavmi temsil ediyor. Nehir seviyesinden oldukça yüksekte ve manzarasıyla 
 şehri çiçek gibi izleyebiliyorsunuz. Hatta paranız varsa içindeki fiyakalı restaurantlarda öğle yemeğinizi yiyip şarabınızı 
 yudumlayabilirsiniz.
+
 ![Manzaralı Fishermans Bastion](https://user-images.githubusercontent.com/9788440/34344463-6bc73812-e9e6-11e7-9bff-e42fab19801e.jpg)
 
 # Gellert Tepesi
 -----
+
 ![Gellert Tepesi Photo](https://user-images.githubusercontent.com/9788440/34344458-6b2f4b06-e9e6-11e7-97b7-5fa43775212e.jpg)
+
 İstanbul’un Pierre Loti’si, Budapeşte’nin Gellert tepesi. Şehri panoromik bir şekilde izleme lüksü sunuyor. 
 
 Bu tepenin hikayesi ilginç, ismini aldığı adam Gellert bir çeşit misyoner. Ama baya yaman bir adammış ki önce Kral Stephan’ı 
@@ -148,6 +154,7 @@ tepeden aşağıya atmışlar.
 Tepede bir de devasa bir özgürlük anıtı mevcut. II.Dünya Savaşı sırasında, şehri Alman işgalinden kurtarırken ölen Sovyet 
 askerleri anısına Sovyetler Birliği tarafından yaptırılmış. Macaristan’ın bağımsızlığı sonrası ufak rütuşlar yiyen heykel 
 tüm görkemiyle şehrin en yüksek tepesinde kendine yer buluyor.  
+
 ![Orgurluk Aniti](https://user-images.githubusercontent.com/9788440/34344455-6adc74a8-e9e6-11e7-8469-7b17e9bd8d91.jpg)
 
 Güzel bir Avrupa şehrini daha beraber tanıdık, gördük. Daha fazlası için beni izlemeye devam edin, ve esen kalmayı unutmayın 
