@@ -11,6 +11,8 @@ Orta Avrupa ülkelerinden Macaristan’ın başkenti. Macaristan, Sovyetler Birl
 ilan etmiş yeni bir ülke gibi görünse de, tarihi 1100 yıl eskiye dayanan köklü bir imparatorlukla başlıyor. Böyle bir ülke 
 de kültürel ve tarihi açıdan zengin bir başkente sahip. 
 
+<audio src="/assets/N%C3%A9meth_Juci_-_N%C3%A9kem_csak_Budapest_kell_Budapest_B%C3%A1r%5Bwww.MP3Fiber.com%5D.mp3" controls preload></audio>
+
 ![Genel Budapeşte Fotosu](https://user-images.githubusercontent.com/9788440/34344474-6d2229d8-e9e6-11e7-8231-3f6217ca7e5b.jpg)
 
 Dilerseniz öncelikle Macaristan’ın ve Budapeşte hakkında genel bilgiler vereyim. Macaristan Cumhuriyeti, komünizmin çöküşü 
