@@ -9,8 +9,8 @@ coverPhoto: https://user-images.githubusercontent.com/9788440/35019354-baf8e6fa-
 
 ![Photo of Main](https://user-images.githubusercontent.com/9788440/35019354-baf8e6fa-fb26-11e7-84b2-a9dc5a5792e0.png)
 
-I am taking a Concurrent and Distributed Programming lecture in my Erasmus+ journey. End of the lecture, there will be final exam
-about mostly explation of some notations concerning Concerning Concurrent And Distributed Programming. Hence I decided write whole
+I am taking Concurrent and Distributed Programming lecture in my Erasmus+ journey. End of the lecture, there will be final exam
+about mostly explation of some notations concerning Concurrent And Distributed Programming. Hence I decided to write whole
 notation in this lecture here. 
 
 __Process:__ is an instance of a computer program that is being executed. It contains the program code and its current activity
