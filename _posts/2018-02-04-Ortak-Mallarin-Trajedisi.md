@@ -46,14 +46,13 @@ O mekanlarda görmeye aşina olduğumuz nedense birilerinin hiç takmadığı ya
 "Lütfen bulmak istediğiniz gibi bırakınız"
 "Lütfen sifonu çekiniz, su parasını ben veriyorum aq" gibi
 
-Bazı yurtlarda ortak kullanım mutfaklar vardır. Hep pistir o mutfaklar, titiz birileri için çekilmez bir çiledir adeta.
+Bazı öğrenci yurtlarında ortak kullanım mutfaklar vardır. Hep pistir o mutfaklar, titiz birileri için çekilmez bir çiledir adeta.
 
 # Bu konularda Avrupa Birliği ülkelerinde durum ne?
 
 Yaklaşık 4-5 aydır avrupadayım ve burada yaşayan insanları da az çok gözlemleme şansım oldu. İlk dikkat ettiğim şeylerden
-biri avmlerde self servis ile yemek aldıysanız, kalkarken masanızdaki bulaşıkları ilgili birime bırakmak zorunda olmanız.
-Yani bu bir zorunluluk değil ama herkes bunu yapıyor. Bulaşığınızı bırakıp kalktığınızda kötü bakışlara maruz kaldığınızı
-hissedeceksiniz.
+biri avmlerde self servis bölümden yemek aldıysanız, kalkarken masanızdaki bulaşıkları ilgili yere bırakmak zorunda olmanız.
+Yani bu bir zorunluluk değil ama herkes bunu yapıyor. Bulaşığınızı masada bırakıp kalktığınızda kötü bakışlara maruz kaldığınızı hissedeceksiniz.
 
 Herkesin bahsettiği bir konu olan trafik kurallarına olan saygıları. Trafik kurallarına uymak, trafikte bir başkasının hakkını çiğnemediğiniz anlamına gelir. Yani bir nevi ortak mal sayılabilir. Buradaki kurallar gereği ışık bulunmayan her yaya geçidinde yayaların geçiş üstünlüğü vardır. Yani siz yaya geçidine ayak bastığınız anda trafik durur. İsterse dakikalarca beklemek zorunda kalsınlar, insanlar buna çok alışmış durumda ve çok normal karşılıyorlar.
 
