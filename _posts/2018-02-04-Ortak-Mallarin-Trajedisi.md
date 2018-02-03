@@ -7,17 +7,13 @@ category: "Hayat"
 coverPhoto: https://user-images.githubusercontent.com/9788440/35772498-368f3cd4-0940-11e8-865d-0b23e820223c.jpg
 ---
 Başlık biraz dramatik gelebilir. Ama içeriğin akılda kalması manasında çok iyi seçilmiş bir kelime; trajedi. 
-Bu kavram ilk olarak 1833 yılında İngiliz ekonomist William Forster Lloyd tarafından yayınlanan makalesinde kullanıldı.
-Bu yazımda sizlere bu kavramdan bahsedeceğiz. Başlayalım..
+Bu kavram ilk olarak 1833 yılında İngiliz ekonomist William Forster Lloyd tarafından yayınlanan bir makalede kullanıldı.
+Bu yazımda sizlere bu kavramdan bahsedeceğim. Başlayalım..
 
 ![Main](https://user-images.githubusercontent.com/9788440/35772498-368f3cd4-0940-11e8-865d-0b23e820223c.jpg)
 
 Esasen insanoğlu mülkiyete bağımlı yaşar. Yani kapitalizmle birlikte gelen mülkiyet hakkına, zamanla bağımlı hale gelmiştir.
 Önce araba almak sonra ev almak, iş kurmak, dükkan almak vs. bitmeyen bir sahip olma isteğimiz var. Bu makalede ise insanın bu mülkiyet bağımlılığı ve ortak kullanılması gereken malların aşırı kullanımı sonucu ulaştığı kötü kader ele alınmaktadır.
-
-Bu ilk bakışta yanlış dediğimiz görüş bir şekilde çoğu kişinin sahip olduğu bir görüş. Evrimsel olarak incelediğimizde ortak kullanılan bir üründen
-daha fazla pay almak insana hayatta kalmak anlamında avantaj kazandırmış olabilir. En azından ortak kullanım ürününden hiç yararlanamayanların avcunu
-yaladığı kesin.
 
 # Ortak mallar diye tanımladığımız şeyler neler?
 
@@ -29,6 +25,10 @@ Hiçbir kaynak sonsuz değildir. Haliyle sürdürülebilir bir gelişime sahip o
 Ama bu kaynağın tükenmesinde tüketicilerinde katkısı yadsınamaz. Çünkü eğer her tüketici, tükettiği kaynağın geleceğini ve diğer tüketicileri düşünerek hareket etseydi bu davranış kaynağın ömrünü uzatmaya yeterdi.
 
 Bir köyde otlak olduğunu düşünün ve bir çok çoban koyunlarını burada otlatıyor. Günün birinde aralarından biri, diğerlerinden daha uzun süre otlattığında, bunu farkeden diğer çobanlar bunun hesabını o çobandan sormak yerine kendi koyunlarını da daha uzun süre otlatıyorlar. Böylece sonu gelmez bir tüketim misillemesi devam ediyor. Ve canına okunan otlak oluyor. Hiç ot kalmadığında, çobanlar eğer sadece yettiği kadar otlatsalar uzunca bir süre daha koyunlarını besleyecekleri kaynaktan mahrum kalıyorlar. İşte ortak malların trajedisi tam olarak budur. Ah o otlağın bir dili olsa da konuşsa, anlatsa ona yapılan soykırımı...
+
+Bu ilk bakışta yanlış dediğimiz görüş bir şekilde çoğu kişinin sahip olduğu bir görüş. Evrimsel olarak incelediğimizde ortak kullanılan bir üründen
+daha fazla pay almak insana hayatta kalmak anlamında avantaj kazandırmış olabilir. En azından ortak kullanım ürününden hiç yararlanamayanların avcunu
+yaladığı kesin.
 
 Ölçü olmayan, net kuralları bulunmayan, denetletmeyen koşullarda, herkes kendi atını koşturuyor. Olansa kaynağa oluyor tabiki.
 
