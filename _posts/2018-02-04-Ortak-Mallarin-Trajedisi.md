@@ -6,9 +6,6 @@ id: 13
 category: "Hayat"
 coverPhoto: https://user-images.githubusercontent.com/9788440/35772498-368f3cd4-0940-11e8-865d-0b23e820223c.jpg
 ---
-
-# Ortak Malların Trajedisi
-
 Başlık biraz dramatik gelebilir. Ama içeriğin akılda kalması manasında çok iyi seçilmiş bir kelime; trajedi. 
 Bu kavram ilk olarak 1833 yılında İngiliz ekonomist William Forster Lloyd tarafından yayınlanan makalesinde kullanıldı.
 Bu yazımda sizlere bu kavramdan bahsedeceğiz. Başlayalım..
