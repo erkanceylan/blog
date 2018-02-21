@@ -48,6 +48,14 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 	- Kanban Sisteminin Uygulanması
 
 <br/>
+## Yeteneklerim
+- __C# ve ASP.NET MVC__
+- __PHP__
+- __Javascript - Node JS__
+- __Unity 3D ile oyun programlama__
+- __SQL - T-SQL__
+- __Android ile mobil programlama__
+<br/>
 ## Hobilerim
 -----  
 <br/>	
