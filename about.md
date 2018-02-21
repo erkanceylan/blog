@@ -14,7 +14,7 @@ Merhabalar, ben [Erkan Ceylan][erkanceylan]. Bu da benim kişisel blogum.
 <br/>
 Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisayar Mühendisliği bölümü son sınıf öğrencisiyim.  
 <br/>
-## Eğitim
+### Eğitim
 -----  
 <br/>
 - __Susurluk Anadolu Teknik Lisesi__ / Bilişim Teknolojileri Bölümü
@@ -25,7 +25,7 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 <br/>
 - __University of Rzeszow__ / 2017-18 Erasmus+  
 <br/>
-## Tecrübelerim
+### Tecrübelerim
 -----
 <br/>
 - __Eflatun Yazılım__ / İstanbul, Başakşehir, Living Lab(`Stajyer`)
@@ -42,9 +42,10 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 	- Kanban Sisteminin Uygulanması
 
 <br/>
-## Yeteneklerim
+<br/>
+### Yeteneklerim
 -----
-
+<br/>
 - __Intermediate Level English__
 - __C# ve ASP.NET MVC__
 - __PHP__
@@ -54,7 +55,8 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 - __Android ile mobil programlama__
 - __UML Diyagramlar__
 <br/>
-## Hobilerim
+<br/>
+### Hobilerim
 -----  
 <br/>	
 Yazılım alanında birşeyler öğrenip(Android, Game Development, Web), birşeyler araştırmayı(Cyber Security) ve ortaya birşeyler çıkarmayı çok seviyorum. Ortamlarda kullanabileceğim
