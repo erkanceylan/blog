@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <center>
-<img style="height:300px;width:300px;border-radius: 50%;" src="https://user-images.githubusercontent.com/9788440/32659603-c2c1cc26-c61f-11e7-92df-0b7eda5de520.jpg" title="Profile-Picture" class="profile">
+<img style="height:300px;width:300px;border-radius: 50%;" src="https://user-images.githubusercontent.com/9788440/36485944-62254162-172e-11e8-8913-ed662ef6468e.jpeg" title="Profile-Picture" class="profile">
 </center>
 <br/>
 ## Hakkımda
@@ -18,16 +18,10 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 -----  
 <br/>
 - __Susurluk Anadolu Teknik Lisesi__ / Bilişim Teknolojileri Bölümü
-	- C
-	- C#
-	- SQL
-	- Database Management Systems  
+
 <br/>
 - __Sakarya Üniversitesi__ / Bilgisayar Mühendisliği Bölümü
-	- C++
-	- Java
-	- PostgreSql
-	- UML Diagrams  
+
 <br/>
 - __University of Rzeszow__ / 2017-18 Erasmus+  
 <br/>
@@ -49,12 +43,14 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 
 <br/>
 ## Yeteneklerim
+- __Intermediate Level English__
 - __C# ve ASP.NET MVC__
 - __PHP__
 - __Javascript - Node JS__
 - __Unity 3D ile oyun programlama__
 - __SQL - T-SQL__
 - __Android ile mobil programlama__
+- __UML Diyagramlar__
 <br/>
 ## Hobilerim
 -----  
