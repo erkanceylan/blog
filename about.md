@@ -43,6 +43,8 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 
 <br/>
 ## Yeteneklerim
+-----
+
 - __Intermediate Level English__
 - __C# ve ASP.NET MVC__
 - __PHP__
