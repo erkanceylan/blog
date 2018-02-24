@@ -1,79 +1,56 @@
 ---
 layout: default
+title: Home
 ---
 
-<!-- Don't show pagination bar in homepage -->
-{% if paginator.page > 1 %}
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Featured</span></h2>
+    </div>
+    <div class="row listfeaturedtag">
+        
+    {% for post in site.posts %}
 
-	<!-- Include pagination bar -->
-	{% include pagination.html section="top" %}
+        {% if post.featured == true %}
 
-{% endif %}
+            {% include featuredbox.html %}
 
-<!-- Loop for posts by paginator -->
-{% for post in paginator.posts %}
+        {% endif %}
 
-	<!-- Article -->
-	<article>
+    {% endfor %}
+        
+    </div>
+</section>
 
-		<!-- Article title -->
-		<a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+    <div class="section-title">
+        <h2><span>All Stories</span></h2>
+    </div>
+    <div class="masonrygrid row listrecent">
+        
+    {% for post in paginator.posts %}
 
-			<!-- If article has a cover photo -->
-			{% if post.coverPhoto %}
+        {% unless post.featured == true %}
 
-				<!-- Article image with aspect ratio -->
-				<a href="{{ site.baseurl }}{{ post.url }}" class="ar-container">
-					<span class="ar-content" style="background-image: url({{ post.coverPhoto }});"></span>
-				</a><!-- .ar-container -->
+            {% include postbox.html %}
 
-			{% endif %}
+        {% endunless %}
 
-		<!-- Article pre description -->
-		<section class="max-height">{{ post.content | strip_html | slice: 0, 200 }}</section>
+    {% endfor %}
 
-		<!-- Article date & article continue reading button container -->
-		<div class="article__bottom">
+    </div>
+</section>
 
-			<!-- Article date -->
-			<span class="article__date">
-				{% if site.lang == "tr" %}
-					{% assign m = post.date | date: "%-m" %}
-					{{ post.date | date: "%-d" }} 
-					{% case m %}
-						{% when "1" %}OCAK 
-						{% when "2" %}ŞUBAT 
-						{% when "3" %}MART 
-						{% when "4" %}NİSAN 
-						{% when "5" %}MAYIS 
-						{% when "6" %}HAZİRAN 
-						{% when "7" %}TEMMUZ 
-						{% when "8" %}AĞUSTOS 
-						{% when "9" %}EYLÜL 
-						{% when "10" %}EKİM 
-						{% when "11" %}KASIM 
-						{% when "12" %}ARALIK 
-					{% endcase %}
-					{{ post.date | date: "%Y" }}
-				{% else %}
-					{{ post.date | date_to_long_string | upcase }}
-				{% endif %}
-			</span>
-			<span class="article__date">
-					{% if post.category == "" %}
-					{% else %}
-						| <a href="#">{{ post.category }}</a>
-					{% endif %}
-			</span>
-			
-			<!-- Article continue reading button -->
-			<a class="article__button" href="{{ site.baseurl }}{{ post.url }}">{% if site.lang == "tr" %}DEVAMINI OKU{% else %}CONTINUE READING{% endif %}</a>
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
 
-		</div><!-- .article__bottom -->
-
-	</article><!-- article -->
-
-{% endfor %}
-
-<!-- Include pagination bar -->
-{% include pagination.html section="bottom" %}

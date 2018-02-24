@@ -1,69 +1,104 @@
 ---
 layout: default
+disqus: false
+archive: false
+post_class: post-template
 ---
 
-<!-- Article -->
-<article{% if site.addthisId == "" and site.disqusUsername == "" %} class="noBorder"{% endif %}>
+<!-- Begin Article
+================================================== -->
+<div class="container">
+	<div class="row">
 
-	<!-- Article title -->
-	<h1>{{ page.title }}</h1>
+		<!-- Post Share -->
+		<div class="col-md-2 col-xs-12 xs-hidden-down">            
+           {% include share.html %}  
+		</div>
+		
 
-	<!-- Article date -->
-	<span class="article__date">
-		{% if site.lang == "tr" %}
-			{% assign m = page.date | date: "%-m" %}
-			{{ page.date | date: "%-d" }} 
-			{% case m %}
-				{% when "1" %}OCAK 
-				{% when "2" %}ŞUBAT 
-				{% when "3" %}MART 
-				{% when "4" %}NİSAN 
-				{% when "5" %}MAYIS 
-				{% when "6" %}HAZİRAN 
-				{% when "7" %}TEMMUZ 
-				{% when "8" %}AĞUSTOS 
-				{% when "9" %}EYLÜL 
-				{% when "10" %}EKİM 
-				{% when "11" %}KASIM 
-				{% when "12" %}ARALIK 
-			{% endcase %}
-			{{ page.date | date: "%Y" }}
-		{% else %}
-			{{ page.date | date_to_long_string | upcase }}
-		{% endif %}
-	</span>
-	
-	<span class="article__date">
-		{% if page.category == "" %}
-		{% else %}
-			| <a href="#">{{ page.category }}</a>
-		{% endif %}
-			
-	</span>
-	<!-- Article description -->
-	<section>{{ page.content }}</section>
+		<!-- Post -->        
+        {% assign author = site.authors[page.author] %}
+        
+		<div class="col-md-8 col-md-offset-2 col-xs-12">
+			<div class="mainheading">
 
-</article><!-- article -->
+                <!-- Author Box -->
+                {% if page.author %}				
+				<div class="row post-top-meta">
+					<div class="col-md-2">
+						<img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
+					</div>
+					<div class="col-md-10">
+						<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+						<span class="author-description">{{ author.description }}</span>						
+					</div>
+				</div>				
+                {% endif %}
+                
+                <!-- Post Title -->
+				<h1 class="posttitle">{{ page.title }}</h1> 
+                
+			</div>
 
-<!-- If addthisId declared -->
-{% if site.addthisId != "" %}
+			<!-- Post Featured Image -->
+			{% if page.image %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
+			<!-- End Featured Image -->
 
-	<!-- Addthis -->
-	<div class="addthis_sharing_toolbox mt"></div>
-	<script async src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-{{ site.addthisId }}"></script>
+			<!-- Post Content -->
+			<div class="article-post">
+				{{content}}
+			</div>
 
-{% endif %}
+            <!-- Post Date -->
+            <p>
+            <small>
+                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+                {% if page.last_modified_at %}
+                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                {% endif %}
+                </small>
+            </p>
+            
+			<!-- Post Categories -->
+			<div class="after-post-tags">
+				<ul class="tags">
+                    {% assign sortedCategories = page.categories | sort %}
+                    {% for category in sortedCategories %}
+                    <li>
+                     <a href="{{ site.baseurl }}/category/{{ category | slugify }}/">{{ category }}</a>
+                    </li>
+                    {% endfor %}
+				</ul>
+			</div>
+			<!-- End Categories -->
+            
+            <!-- Prev/Next -->
+            <div class="row PageNavigation">
+              {% if page.previous.url %}
+                <a class="col-md-6 prev" href="{{page.previous.url | absolute_url}}">&laquo; {{page.previous.title}}</a>
+              {% endif %}
+              {% if page.next.url %}
+                <a class="col-md-6 text-right next" href="{{page.next.url | absolute_url}}">{{page.next.title}} &raquo;</a>
+              {% endif %}
+            </div>
+            <!-- End Categories -->
 
-<!-- If disqusUsername declared -->
-{% if site.disqusUsername != "" %}
+		</div>
+		<!-- End Post -->
 
-	<!-- Full width -->
-	<div class="full">
+	</div>
+</div>
+<!-- End Article
+================================================== -->
 
-		<!-- Disqus -->
-		<div id="disqus_thread" class="mt mb"></div>
-		<script async src="//{{ site.disqusUsername }}.disqus.com/embed.js"></script>
+  
 
-	</div><!-- .full -->
-
-{% endif %}
+<!-- Begin Comments
+================================================== -->
+<div id="comments" class="row justify-content-center mb-5">
+    <div class="col-md-8">              
+        {% include disqus.html %}                
+    </div>
+</div>
+<!--End Comments
+================================================== -->

@@ -1,40 +1,39 @@
-# Website details
-name: "ERKAN CEYLAN"
-description: "Programmer From Somewhere On Earth"
-email: "erkanceylan4@gmail.com"
-author: "erkanceylan"
-lang: "tr"
-locale: ""
+# Site
+name: Erkan Ceylan
+description: A developer from somewhere on earth.
+meta_description: "A developer from somewhere on earth."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+paginate: 15
+baseurl: /
+google_analytics: 'UA-63036486-2'
+disqus: 'erkanceylan4'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
-# Jekyll
-paginate: 10
-highlighter: ""
+# Authors
+authors:
+  erkan:
+    name: Erkan Ceylan
+    display_name: Erkan
+    gravatar: erkanceylan4
+    email: erkanceylan4@gmail.com
+    web: https://erkanceylan.com
+    twitter: https://twitter.com/erkan4ceylan
+    description: "Nane nane nane."
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
 markdown: kramdown
-gems: [jekyll-paginate]
-timezone: Europe/Istanbul
-paginateLabel: page
-paginate_path: "page/:num"
-permalink: /:year/:month/:day/:title
-baseurl: http://erkanceylan.com
-aboutUrl: http://erkanceylan.com/about
-projectsUrl: http://erkanceylan.com/projects
-
-# Includes
-addthisId: ""
-disqusUsername: "erkanceylan4"
-googleAnalyticsId: "UA-63036486-2"
-
-# Search engine verifications
-bing: ""
-yandex: ""
-google: ""
-
-#Sitemap
-sitemap:
-    file: "/sitemap.xml"
-    exclude:
-        - "/404.html"
-    include_posts:
-        - "/index.html"
-    change_frequency_name: "daily"
-    priority_name: "1.00"
+highlighter: rouge
