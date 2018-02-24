@@ -1,89 +1,78 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Hakkımda
+permalink: /about/
 comments: true
 ---
+<center>
 
-This website is built with Jekyll and Mediumish template for Jekyll. It is meant for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+![Profile Photo](https://user-images.githubusercontent.com/9788440/36485944-62254162-172e-11e8-8913-ed662ef6468e.jpeg){: .shadow}
 
-### License & Download
+</center>
+<br/>
+## Hakkımda
+-----
+<br/>
+Merhabalar, ben [Erkan Ceylan][erkanceylan]. Bu da benim kişisel blogum.
+<br/>
+Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisayar Mühendisliği bölümü son sınıf öğrencisiyim.  
+<br/>
+### Eğitim
+-----  
+<br/>
+- __Susurluk Anadolu Teknik Lisesi__ / Bilişim Teknolojileri Bölümü
 
-**Mediumish for Jekyll** is designed and developed by WowThemes.net and it is *free* for personal use.
+<br/>
+- __Sakarya Üniversitesi__ / Bilgisayar Mühendisliği Bölümü
 
-For commercial use, please, purchase a license ($10).
+<br/>
+- __University of Rzeszow__ / 2017-18 Erasmus+  
+<br/>
+### Tecrübelerim
+-----
+<br/>
+- __Eflatun Yazılım__ / İstanbul, Başakşehir, Living Lab(`Stajyer`)
+    - Game Development
+	- Unity 3D ile Mobil Oyun Geliştirme
+	- Android Uygulama Geliştirme
+	- T-SQL Diliyle Veritabanı Programlama
+	- ASP.NET Web Api Geliştirme
+<br/>
+- __Bosch Fren Sistemleri__ / Bursa, Nilüfer, Organize Sanayi Bölgesi(`Stajyer`)
+	- RFID Cihazlarının Programlanması
+	- Bosch Üretim Sistemleri(BPS)
+	- Yalın Üretim
+	- Kanban Sisteminin Uygulanması
 
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/mediumish-jekyll-template" target="_blank">Download Mediumish - Jekyll</a>
+<br/>
+<br/>
+### Yeteneklerim
+-----
+<br/>
+- __Intermediate Level English__
+- __C# ve ASP.NET MVC__
+- __PHP__
+- __Javascript - Node JS__
+- __Unity 3D ile oyun programlama__
+- __SQL - T-SQL__
+- __Android ile mobil programlama__
+- __UML Diyagramlar__
+<br/>
+<br/>
+### Hobilerim
+-----  
+<br/>	
+Yazılım alanında birşeyler öğrenip(Android, Game Development, Web), birşeyler araştırmayı(Cyber Security) ve ortaya birşeyler çıkarmayı çok seviyorum. Ortamlarda kullanabileceğim
+entel dantel diyebileceğimiz gerekli gereksiz yeni şeyleri araştırmaya, sorgulamaya bayılıyorum. Bunları da bu blog vasıtasıyla
+meraklılara elimden geldiğince tanıtıyorum.  
+<br/>
+Tutkulu bir Beşiktaş taraftarı olmamın dışında, seyahat etmek, kampa gitmek, spor yapmak gibi hobilerim bulunmakta.  
+<br/>
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/mediumish-jekyll-template.png){: .shadow}
+***********
 
-### Features
+Bana alttaki sosyal medya linklerin herhangi birinden ulaşabilirsiniz. Esen kalın efenim...  
+<br/>
+  
 
-- Built for Jekyll
-- Compatible with Github pages
-- Featured Posts
-- Index Pagination
-- Post Share
-- Post Categories
-- Prev/Next Link
-- Category Archives (this is not yet compatible with github pages though)
-- Jumbotron Categories
-- Integrations:
-    - Disqus Comments
-    - Google Analaytics
-    - Mailchimp Integration
-- Design Features:
-    - Bootstrap v4.0.0-alpha.6
-    - Font Awesome
-    - Masonry
-- Layouts:
-    - Default
-    - Post
-    - Page
-    - Archive
-    
-### How to Use
-
-If you aren't familiar with Jekyll yet, you should know that it is a static site generator. It will transform your plain text into static websites and blogs. No more databases, slow loading websites, risk of being hacked...just your content. And not only that, with Jekyll you get free hosting with GitHub Pages! This page itself is free hosted on Github with the help of Jekyll and Mediumish template that you're currently previewing. If you are a beginner we recommend you start with [Jekyll's Docs](https://jekyllrb.com/docs/installation/){:target="_blank"}. Now if you know how to use Jekyll, let's move on to using Mediumish template in Jekyll:
-
-#### Using Mediumish
-
-Download or Fork *Mediumish for Jekyll*. 
-- In your local project, open <code>_config.yml</code>. If your site is in root, for <code>baseurl</code>, make sure this is set to <code>baseurl: /</code>. Also, change your Google Analytics code, disqus username, authors, Mailchimp list etc.
-- Mediumish requires 2 plugins: 
-    - <code>$ gem install jekyll-paginate</code>
-    - <code>$ gem install jekyll-archives</code>.
-- Edit the menu and footer copyrights in <code>default.html</code>
-- Start by adding your .md files in <code>_posts</code>. Mediumish already has a few as an example. 
-- YAML front matter
-    - post featured - <code>featured:true</code>
-    - post featured image - <code>image: assets/images/mypic.jpg</code>
-    - page comments - <code>comments:true</code>
-    - meta description (optional) - <code>description: "this is my meta description"</code>
-    
-YAML Post Example:
-<pre>
----
-layout: post
-title:  "We all wait for summer"
-author: john
-categories: [ Jekyll, tutorial ]
-image: assets/images/5.jpg
-featured: true
----
-</pre>
-
-YAML Page Example
-<pre>
----
-layout: page
-title: Mediumish Template for Jekyll
-comments: true
----
-</pre>
-
-#### Contribute
-
-- Clone the repo.
-- Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-- Open a pull request on GitHub and describe the feature or fix.
+[erkanceylan]: https://erkanceylan.com
