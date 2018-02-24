@@ -1,17 +1,21 @@
 ---
 layout: post
-title: Toplum Psikolojisinin Karadelikleri
-author: Erkan Ceylan
+title:  "Toplum Psikolojisinin Karadelikleri"
+author: erkan
+categories: [ Psikoloji ]
+image: https://user-images.githubusercontent.com/9788440/32510866-4b534bd0-c3f2-11e7-81d3-4e2fd16acfc5.jpg
 id: 5
-category: "Psikoloji"
-coverPhoto: https://user-images.githubusercontent.com/9788440/32510866-4b534bd0-c3f2-11e7-81d3-4e2fd16acfc5.jpg
+
 ---
-![Main Image](https://user-images.githubusercontent.com/9788440/32510866-4b534bd0-c3f2-11e7-81d3-4e2fd16acfc5.jpg)
+
 İnsan dünyanın en gelişmiş ve aynı zamanda en zeki canlısı. İnsan psikolojisi de, beyni bu denli komplike ve gelişmiş olan bir canlı 
 için oldukça karmaşık. İnsan psikolojisine hep bir ilgim olmuştur ve toplumsal olaylar karşısında insanların anlamsız davranışları 
 veya uç tepkileri hep dikkatimi çekmiştir. Peki neden? Hayatını neden-sonuç ilişkisi üzerine kuran insanlar ne oluyorda bazen 
 çok mantıksız kararlar alabiliyorlar. Bazı insanları neden anlaması gerçekten çok zor oluyor. Bu yazımda az bilinen ama toplumda 
 sık rastlanan psikolojik rahatsızlıklardan, sendromlardan ve fenomenlerden bahsedeceğim.
+
+![Main Image](https://user-images.githubusercontent.com/9788440/32510866-4b534bd0-c3f2-11e7-81d3-4e2fd16acfc5.jpg)
+
 
 # Dunning-Kruger Sendromu
 -----

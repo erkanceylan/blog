@@ -1,10 +1,13 @@
 ---
 layout: post
+title:  "Krallar Şehri: Krakow"
+author: erkan
+categories: [ Gezi ]
+image:https://user-images.githubusercontent.com/9788440/32450387-5a5b15a6-c314-11e7-8fb8-85dfd786ad63.jpg 
+layout: post
 title: "Krallar Şehri: Krakow"
 author: Erkan Ceylan
 id: 6
-category: "Gezi"
-coverPhoto: https://user-images.githubusercontent.com/9788440/32450387-5a5b15a6-c314-11e7-8fb8-85dfd786ad63.jpg 
 ---
 
 ![Main-Image](https://user-images.githubusercontent.com/9788440/32580823-845682bc-c4e7-11e7-9655-07e78bec5ec5.jpg)

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "UFW İle Linux Üzerinde Firewall Konfigürasyonu"
-author: Erkan Ceylan
+title:  "UFW İle Linux Üzerinde Firewall Konfigürasyonu"
+author: erkan
+categories: [ Yazılım ]
+image: https://user-images.githubusercontent.com/9788440/33800378-1c5b100e-dd3f-11e7-823a-d57838496c2f.jpg 
 id: 9
-category: "Yazılım"
-coverPhoto: https://user-images.githubusercontent.com/9788440/33800378-1c5b100e-dd3f-11e7-823a-d57838496c2f.jpg 
+
 ---
 ![Photo of Wall - Main](https://user-images.githubusercontent.com/9788440/33800378-1c5b100e-dd3f-11e7-823a-d57838496c2f.jpg)
 Firewall yani güvenlik duvarı dediğimiz yapı temelde, bilgisayarımızın ya da sunucumuzun internet dünyasında güvenli hale 

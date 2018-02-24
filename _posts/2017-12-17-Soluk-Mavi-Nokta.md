@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Soluk Mavi Nokta"
-author: Erkan Ceylan
+title:  "Soluk Mavi Nokta"
+author: erkan
+categories: [ Astrofizik ]
+image: https://user-images.githubusercontent.com/9788440/34080884-574e386a-e345-11e7-9d85-2c302cc5c9c2.png
+featured: true
 id: 10
-category: "Astrofizik"
-coverPhoto: https://user-images.githubusercontent.com/9788440/34080884-574e386a-e345-11e7-9d85-2c302cc5c9c2.png
 ---
 ![Photo of Pale Blue Dot](https://user-images.githubusercontent.com/9788440/34080884-574e386a-e345-11e7-9d85-2c302cc5c9c2.png)
 

@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Orta Avrupa'nın İncisi: Budapeşte"
-author: Erkan Ceylan
+title:  "Orta Avrupa'nın İncisi: Budapeşte"
+author: erkan
+categories: [ Gezi ]
+image: https://user-images.githubusercontent.com/9788440/34344474-6d2229d8-e9e6-11e7-8231-3f6217ca7e5b.jpg
+featured: true
 id: 11
-category: "Gezi"
-coverPhoto: https://user-images.githubusercontent.com/9788440/34344474-6d2229d8-e9e6-11e7-8231-3f6217ca7e5b.jpg
+
 ---
 _Lokman, ver oğlum müziği_
 <audio src="/assets/N%C3%A9meth_Juci_-_N%C3%A9kem_csak_Budapest_kell_Budapest_B%C3%A1r%5Bwww.MP3Fiber.com%5D.mp3" controls preload></audio>
