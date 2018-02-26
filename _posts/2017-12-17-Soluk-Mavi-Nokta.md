@@ -3,14 +3,14 @@ layout: post
 title:  "Soluk Mavi Nokta"
 author: erkan
 categories: [ Astrofizik ]
-image: https://user-images.githubusercontent.com/9788440/34080884-574e386a-e345-11e7-9d85-2c302cc5c9c2.png
-featured: true
+image: assets/images/soluk.png
 id: 10
 ---
-![Photo of Pale Blue Dot](https://user-images.githubusercontent.com/9788440/34080884-574e386a-e345-11e7-9d85-2c302cc5c9c2.png)
 
 Soluk Mavi Nokta, bir fotoğrafa verilen isim. 1977 yılında NASA tarafından uzay araştırmaları için gönderilen Voyager 1 uzay sondası tarafından çekildiğinde, Dünya'nın en uzaktan çekilmiş fotoğrafıydı. 1990 yılı imkanlarıyla, tost makinasıyla çekilmiş 
 izlenimi verse de, o uzaklıktan bu fotoğrafın çekilip Dünya'ya gönderilmesi muazzam bir teknoloji. 
+
+![Photo of Pale Blue Dot](https://user-images.githubusercontent.com/9788440/34080884-574e386a-e345-11e7-9d85-2c302cc5c9c2.png)
 
 Fotoğraf, dünyamızın, uzayın sonsuzluğu içerisinde nasıl yalnız kaldığını göstermekte ve Carl Sagan'ın deyimiyle tüm sahillerdeki 
 tüm kum tanelerinin toplamından sadece biri olduğumuzu çok net bir biçimde anlatıyor.

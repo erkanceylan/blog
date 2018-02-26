@@ -3,16 +3,13 @@ layout: post
 title:  "Krallar Şehri: Krakow"
 author: erkan
 categories: [ Gezi ]
-image:https://user-images.githubusercontent.com/9788440/32450387-5a5b15a6-c314-11e7-8fb8-85dfd786ad63.jpg 
-layout: post
-title: "Krallar Şehri: Krakow"
-author: Erkan Ceylan
+image: assets/images/krakow.jpg
 id: 6
 ---
 
-![Main-Image](https://user-images.githubusercontent.com/9788440/32580823-845682bc-c4e7-11e7-9655-07e78bec5ec5.jpg)
+Bilenler bilir bu yılın(2017-18 dönemi) güz yarıyılı için Erasmus+ öğrenci değişim programı kapsamında Polonya’da bulunuyorum. Ülkenin güneydoğusunda bulunan Rzeszow’da yaşıyorum. Rzeszow(Jaşow diye okunuyor) çok sakin bir yer ama yaşaması keyifli. Farklı bir yazıda burdaki hayatımdan da bahsederim. Bu sakinlikten biraz kaçmak için fırsat buldukça tatillerimi değerlendirip ülkenin ve avrupanın güzel kentlerini ziyaret etmeye çalışıyorum. Bu yazıda 14 Ekim tarihinde gezdiğim Krakow -Türkçe de Krakov- kentinden bahsedicem biraz.
 
-Bilenler bilir bu yılın(2017-18 dönemi) güz yarıyılı için Erasmus+ öğrenci değişim programı kapsamında Polonya’da bulunuyorum. Ülkenin güneydoğusunda bulunan Rzeszow’da yaşıyorum. Rzeszow(Jaşow diye okunuyor) çok sakin bir yer ama yaşaması keyifli. Farklı bir yazıda burdaki hayatımdan da bahsederim. Bu sakinlikten biraz kaçmak için fırsat buldukça tatillerimi değerlendirip ülkenin ve avrupanın güzel kentlerini ziyaret etmeye çalışıyorum. Bu yazıda 14 Ekim tarihinde gezdiğim Krakow -Türkçe de Krakov- kentinden bahsedicem biraz. 
+![Main-Image](https://user-images.githubusercontent.com/9788440/32580823-845682bc-c4e7-11e7-9655-07e78bec5ec5.jpg)
 
 Krakow, Polonya’nın(O zamanki adıyla Lehistan İmparatorluğu) 6 asır boyunca başkentliğini yapmış ve 2 Dünya Şavaşından hemen hemen hiç hasar almadan kurtulan nadir bir kent. Yüzyıllar boyunca  ülkenin bilim, kültür ve sanat merkezi olan şehir, birçok kuşatmaya, savaşa ve soykırım dramına şahitlik etmiş.
 Krakow’u gezmeye Old Town’dan başlamanızı tavsiye ederim. Eski şehire girer girmez kendinizi 100-200 yıl öncesinde bulduğunuz bir tarihi doku karşılıyor sizi.

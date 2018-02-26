@@ -3,7 +3,7 @@ layout: post
 title:  "Toplum Psikolojisinin Karadelikleri - 2"
 author: erkan
 categories: [ Psikoloji ]
-image: https://user-images.githubusercontent.com/9788440/33021391-f92fad7a-ce01-11e7-86c0-6e84743427bd.jpg
+image: assets/images/karadelik-2.jpg
 id: 8
 ---
 

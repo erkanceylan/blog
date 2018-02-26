@@ -3,7 +3,7 @@ layout: post
 title:  "DFA İndirgenmesi (DFA Minimization)"
 author: erkan
 categories: [ Bilgisayar Bilimleri ]
-image:
+image: false
 layout: post
 id: 1
 ---

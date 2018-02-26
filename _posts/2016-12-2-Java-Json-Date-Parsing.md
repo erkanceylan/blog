@@ -3,7 +3,7 @@ layout: post
 title:  "Java'da Json İçerisinden Date Bilgisi Elde Etmek"
 author: erkan
 categories: [ Yazılım ]
-image:
+image: false
 id: 2
 ---
 

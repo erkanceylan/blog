@@ -3,10 +3,10 @@ layout: post
 title:  "Ortak Malların Trajedisi"
 author: erkan
 categories: [ Hayat ]
-image: https://user-images.githubusercontent.com/9788440/35772498-368f3cd4-0940-11e8-865d-0b23e820223c.jpg
-featured: true
+image: assets/images/ortak-mallar.jpg
 id: 13
 ---
+
 Başlık biraz dramatik gelebilir. Ama içeriğin akılda kalması manasında çok iyi seçilmiş bir kelime; trajedi. 
 Bu kavram ilk olarak 1833 yılında İngiliz ekonomist William Forster Lloyd tarafından yayınlanan bir makalede kullanıldı.
 Bu yazımda sizlere bu kavramdan bahsedeceğim. Başlayalım..

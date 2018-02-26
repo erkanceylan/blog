@@ -3,7 +3,7 @@ layout: post
 title:  "UFW İle Linux Üzerinde Firewall Konfigürasyonu"
 author: erkan
 categories: [ Yazılım ]
-image: https://user-images.githubusercontent.com/9788440/33800378-1c5b100e-dd3f-11e7-823a-d57838496c2f.jpg 
+image: assets/images/ufw.jpg
 id: 9
 
 ---

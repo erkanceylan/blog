@@ -3,8 +3,7 @@ layout: post
 title:  "Orta Avrupa'nın İncisi: Budapeşte"
 author: erkan
 categories: [ Gezi ]
-image: https://user-images.githubusercontent.com/9788440/34344474-6d2229d8-e9e6-11e7-8231-3f6217ca7e5b.jpg
-featured: true
+image: assets/images/budapest.jpg
 id: 11
 
 ---
