@@ -3,7 +3,7 @@ layout: post
 title:  "Aşkın ve Özgürlüğün Başkenti: Amsterdam"
 author: erkan
 categories: [ Gezi ]
-image: assets/images/amsterdam.jpg
+image: assets/images/amsterdam.JPG
 id: 7
 ---
 ![Main Image: Amsterdam](https://user-images.githubusercontent.com/9788440/32684707-ac07e8a0-c686-11e7-9578-b8749ffec522.JPG)

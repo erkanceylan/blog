@@ -48,27 +48,33 @@
             <!-- Begin Menu -->
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">                
-                <a class="nav-link" href="index.html">Blog</a>
+			<a class="nav-link" href="/"><i class="fa fa-pencil"></i> Blog</a>
                 </li>
                 <li class="nav-item">
-                 <a class="nav-link" href="{{ site.baseurl }}/about">Hakkımda</a>
+			<a class="nav-link" href="{{ site.baseurl }}/about"><i class="fa fa-user"></i> Hakkımda</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/projects"><i class="fa fa-rocket"></i>Projelerim</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/projects"><i class="fa fa-rocket"></i> Projelerim</a>
                    </li>
                 
+		<li class="nav-item">
+                <a target="_blank"  class="nav-link" href="https://github.com/erkanceylan"><i class="fa fa-github"></i></a>
+                </li>
+		
+		<li class="nav-item">
+                <a target="_blank"  class="nav-link" href="https://linkedin.com/erkanceylan"><i class="fa fa-linkedin"></i></a>
+                </li>
+		    
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="https://www.facebook.com/erkanceylan.4/"><i class="fa fa-facebook"></i></a>
+                </li>
+                
+                <li class="nav-item">
+                <a target="_blank"  class="nav-link" href="https://twitter.com/erkan4ceylan"><i class="fa fa-twitter"></i></a>
+                </li>
 
                 <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://www.facebook.com/wowthemesnet/"><i class="fa fa-facebook"></i></a>
-                </li>
-                <li class="nav-item">
-                <a target="_blank"  class="nav-link" href="https://github.com/wowthemesnet/mediumish-theme-jekyll/"><i class="fa fa-github"></i></a>
-                </li>
-                <li class="nav-item">
-                <a target="_blank"  class="nav-link" href="https://twitter.com/wowthemesnet"><i class="fa fa-twitter"></i></a>
-                </li>
-                <li class="nav-item">
-                <a target="_blank"  class="nav-link" href="https://plus.google.com/+WowthemesNet"><i class="fa fa-google-plus"></i></a>
+                <a target="_blank"  class="nav-link" href="https://plus.google.com/u/0/115594771713561325807"><i class="fa fa-google-plus"></i></a>
                 </li>
             </ul>		
         </div>
@@ -103,11 +109,11 @@
 ================================================== -->
 <div class="alertbar">
 	<div class="container text-center">
-		<img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter 
+		<img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; E-posta bültenime abone olun, ve <b>paylaşımlarımdan</b> anında haberdar olun. 
         <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
             <div class="mc-field-group">
             <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on">
-            <input type="submit" value="Subscribe" name="subscribe" class="heart">
+            <input type="submit" value="Abone Ol" name="subscribe" class="heart">
             </div>
         </form>
 	</div>
@@ -119,7 +125,7 @@
 <div class="jumbotron fortags">
 	<div class="row">
 		<div class="col-md-4 align-self-center text-center">
-			<h2 class="hidden-sm-down">Explore →</h2>
+			<h2 class="hidden-sm-down">Keşfet →</h2>
 		</div>
 		<div class="col-md-8 align-self-center text-center">
           {% assign tags_list = site.categories %}  
@@ -147,8 +153,7 @@
          Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
     </p>
     <p class="pull-right">
-    <!-- Please, leave credit to author unless you make a donation: https://www.wowthemes.net/freebies-license/ --> 
-        <a target="_blank" href="https://www.wowthemes.net">Mediumish Theme</a> by WowThemes.net
+        <a target="_blank" href="https://www.wowthemes.net">Mediumish Theme</a> 
     </p>
     <div class="clearfix">
     </div>
