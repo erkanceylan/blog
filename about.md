@@ -4,13 +4,6 @@ title: Hakkımda
 permalink: /about/
 comments: true
 ---
-<center>
-
-![Profile Photo]({{site.baseurl}}/assets/images/13.jpeg){: .shadow}
-<img src="/assets/images/13.jpeg" alt="jekyll template mediumish" class="shadow">
-
-</center>
-
 ![Profile Photo1]({{site.baseurl}}/assets/images/13.jpeg){: .shadow}
 <br/>
 ## Hakkımda
