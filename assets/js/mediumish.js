@@ -30,13 +30,17 @@ jQuery(document).ready(function($){
 
 
     // alertbar later
+    var isDismissed=false;
     $(document).scroll(function () {
         var y = $(this).scrollTop();
-        if (y > 280) {
-            $('.alertbar').fadeIn();
-        } else {
-            $('.alertbar').fadeOut();
+        if(!isDismissed){
+            if (y > 280) {
+                $('.alertbar').fadeIn();
+            } else {
+                $('.alertbar').fadeOut();
+            }
         }
+        
     });
 
      // masonry
