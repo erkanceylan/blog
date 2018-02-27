@@ -2,7 +2,7 @@
 layout: post
 title:  "Notations Of Concurrent And Distributed Programming"
 author: erkan
-categories: [ Jekyll, tutorial,Yazılım ]
+categories: [ Yazılım ]
 image: assets/images/concurrent.png
 featured: true
 id: 12
