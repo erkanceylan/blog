@@ -4,6 +4,7 @@ title:  "Node JS'in Asenkron Mimarisi"
 author: erkan
 categories: [ Yazılım ]
 image: assets/images/nodejs.jpg
+featured: true
 id: 14
 ---
 
