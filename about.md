@@ -21,9 +21,21 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 
 ### Tecrübelerim
 -----
-- __Eflatun Yazılım__ / İstanbul, Başakşehir, Living Lab(`Stajyer`)
-    - Game Development
-	- Unity 3D ile Mobil Oyun Geliştirme
+- __Eflatun Yazılım__ / İstanbul, Başakşehir, Living Lab(`Stajyer + Uzaktan Çalışma`)
+    - Unity 3D ile Mobil Oyun Geliştirme
+		- Staj sürecimde öğrendiğim Unity3D uygulamasına ait temelleri, oyun motoruna ait kütüphaneleri kullanmalı, oyunlar için grafik tasarımı yapmayı ve c#'ın derinliklerine dair çok şey öğrendim. 2 boyutlu oyunların geliştirilmesi sürecine katkı sağladım.
+		### Katkıda Bulunduğum Projeler
+		
+		* [Şampiyon Takımlar 8bit Futbol Oyunu](https://play.google.com/store/apps/details?id=ef.superligfutbol&hl=tr)
+		![Profile Photo1]({{site.baseurl}}/assets/images/Sampiyon-Takimlar.png){: .shadow}
+		https://play.google.com/store/apps/details?id=ef.superligfutbol&hl=tr
+		* [Archers - Stickman Archery Game](https://play.google.com/store/apps/details?id=ef.ArcherGame)
+		![Profile Photo1]({{site.baseurl}}/assets/images/Archers.png){: .shadow}
+		https://play.google.com/store/apps/details?id=ef.ArcherGame
+		* [Clash of Archers](https://play.google.com/store/apps/details?id=ef.clashofarchers) 
+		![Profile Photo1]({{site.baseurl}}/assets/images/Clash-Of-Archers.png){: .shadow}
+		https://play.google.com/store/apps/details?id=ef.clashofarchers
+
 	- Android Uygulama Geliştirme
 	- T-SQL Diliyle Veritabanı Programlama
 	- ASP.NET Web Api Geliştirme
