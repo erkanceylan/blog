@@ -4,9 +4,9 @@ title: Hakkımda
 permalink: /about/
 comments: true
 ---
-![Profile Photo1]({{site.baseurl}}/assets/images/13.jpeg){: .shadow}
+![Profile Photo1]({{site.baseurl}}/assets/images/13.jpeg){: .shadow .text-center}
 <br/>
-## Hakkımda
+
 -----
 
 Merhabalar, ben [Erkan Ceylan][erkanceylan]. Bu da benim kişisel blogum.
