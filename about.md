@@ -4,14 +4,14 @@ title: Hakkımda
 permalink: /about/
 comments: true
 ---
-![Profile Photo1]({{site.baseurl}}/assets/images/13.jpeg){: .shadow .text-center}
+![Profile Photo1]({{site.baseurl}}/assets/images/13.jpeg){: .shadow }
 <br/>
 
 -----
 
 Merhabalar, ben [Erkan Ceylan][erkanceylan]. Bu da benim kişisel blogum.
 
-Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisayar Mühendisliği bölümü son sınıf öğrencisiyim.  
+Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisayar Mühendisliği bölümü son sınıf öğrencisiyim. Yazılım alanında, özellikle web tabanlı yazılımlarda kendimi geliştirmeyi ve öğrendiklerimi aktarmayı seviyorum. 
 
 ### Eğitim
 -----  
@@ -23,9 +23,9 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 -----
 - __Eflatun Yazılım__ / İstanbul, Başakşehir, Living Lab(`Stajyer + Uzaktan Çalışma`)
     - Unity 3D ile Mobil Oyun Geliştirme
-		- Staj sürecimde öğrendiğim Unity3D uygulamasına ait temelleri, oyun motoruna ait kütüphaneleri kullanmalı, oyunlar için grafik tasarımı yapmayı ve c#'ın derinliklerine dair çok şey öğrendim. 2 boyutlu oyunların geliştirilmesi sürecine katkı sağladım.
+		- Staj sürecimde öğrendiğim Unity3D uygulamasına ait temelleri, oyun motoruna ait kütüphaneleri kullanmayı, oyunlar için grafik tasarımı yapmayı ve c#'ın derinliklerine dair çok şey öğrendim. 2 boyutlu oyunların geliştirilmesi sürecine katkı sağladım.
 
-
+		<br/>
 		``` Katkıda Bulunduğum Projeler ```
 		
 		* [Şampiyon Takımlar 8bit Futbol Oyunu](https://play.google.com/store/apps/details?id=ef.superligfutbol&hl=tr)
@@ -58,6 +58,7 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 ### Yeteneklerim
 -----
 - __Intermediate Level English__
+	- I am not a fluent speaker but I am pretty good at reading something in English. I can say that almost there is no English documentations that I cannot read completely in software sector.
 - __C# ve ASP.NET MVC__
 - __PHP__
 - __Javascript - Node JS__
@@ -68,7 +69,7 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 
 ### Hobilerim
 -----
-Yazılım alanında birşeyler öğrenip(Android, Game Development, Web), birşeyler araştırmayı(Cyber Security) ve ortaya birşeyler çıkarmayı çok seviyorum. Ortamlarda kullanabileceğim
+Yazılım alanında birşeyler öğrenmeyi(Android, Game Development, Web), araştırmayı ve ortaya birşeyler çıkarmayı çok seviyorum. Ortamlarda kullanabileceğim
 entel dantel diyebileceğimiz gerekli gereksiz yeni şeyleri araştırmaya, sorgulamaya bayılıyorum. Bunları da bu blog vasıtasıyla
 meraklılara elimden geldiğince tanıtıyorum.  
 
@@ -76,7 +77,7 @@ Tutkulu bir Beşiktaş taraftarı olmamın dışında, seyahat etmek, kampa gitm
 
 ***********
 
-Bana alttaki sosyal medya linklerin herhangi birinden ulaşabilirsiniz. Esen kalın efenim...  
+Bana sosyal medya linklerinin herhangi birinden ulaşabilirsiniz. Esen kalın efenim...  
 
   
 
