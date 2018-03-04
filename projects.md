@@ -10,21 +10,23 @@ permalink: /projects/
 
 ### Match Observer
 
-:soccer:
+<i class="fa fa-futbol"></i>
 Büyük liglere ait maç sonuçlarını, puan durumlarını ve oynanacak maçlara ait istatistiksel skor tahminleri olan android uygulama
 
-:link: Link: https://github.com/erkanceylan/match-observer
+<i class="fa fa-link"></i> [Github Link](https://github.com/erkanceylan/match-observer)
 
 ### Countries
 
-:earth_americas:
+<i class="fa fa-globe"></i>
 Dünyanın bütün ülkelerine ait isim, para birimi, konuştukları dil, nüfus vs bilgilere ulaşılabilen mobil uyumlu web uygulaması.
 
-:link: Link: https://github.com/erkanceylan/countries
+<i class="fa fa-link"></i> [Github Link](https://github.com/erkanceylan/countries)
 
 ### Gender Analyzer
 
-:mens: :womens:
+<i class="fa fa-male"></i>  <i class="fa fa-female"></i>
 Girilen isme göre kişinin cinsiyetini istatistiksel olarak tahmin eden uygulama.
 
-:link: Link: https://github.com/erkanceylan/gender-analyzer
+<i class="fa fa-link"></i> [Github Link](https://github.com/erkanceylan/gender-analyzer)
+
+![Gender-Analyzer-Resim](https://user-images.githubusercontent.com/9788440/34367368-2bd7e5ca-eaaa-11e7-8eeb-d2ff2a77b5ce.png)
