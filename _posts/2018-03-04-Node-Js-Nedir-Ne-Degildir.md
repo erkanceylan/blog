@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Node JS Nedir ? Ne Değildir ?"
+title:  "Node JS Nedir? Ne Değildir?"
 author: erkan
 categories: [ NodeJS ]
 image: assets/images/nodejs.jpg
