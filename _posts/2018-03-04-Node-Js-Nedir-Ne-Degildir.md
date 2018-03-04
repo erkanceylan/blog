@@ -19,9 +19,9 @@ Node Js bir Javascript framework'ü de değildir, yani onu Angular, React vs ile
 
 ### Javascript dili normalde nasıl çalışıyor ?
 
-Yıllar yıllar önce, uzak bir galakside Javascript adında bir dil tasarlanmıştır. Bu programlama dili, isim benzerliğine rağmen Java dilinden çok farklı bir yapıya sahiptir. Java her yerde çalıştırılabilen object oriented paradigmasına sahip bir dilken, Javascript sadece web tarayıcılarında çalışabilen bir programlama diliydi.
+Yıllar yıllar önce, çok uzak bir galakside Javascript adında bir dil tasarlanmıştı. Bu programlama dili, isim benzerliğine rağmen Java dilinden çok farklı bir yapıya sahipti. Java her yerde çalıştırılabilen object oriented paradigmasına sahip bir dilken, Javascript sadece web tarayıcılarında çalışabilen bir programlama diliydi.
 
-Javascript dili tarayıcılarda var olan, her tarayıcının kendi tasarladığı JS Engine'lar sayesinde işlevlerini yürütebilmektelerdir. Chrome'un v8, Firefox'un SpiderMonkey, Microsoft Edge'in Chakra'sı en çok bilinen JS Engine'lerdir. Bu Javascript motorları kodu yorumlarlar ve bilgisayarın anlayacağı makine koduna çevirerek o kodu çalışmasını sağlarlar.
+Javascript dili tarayıcılarda var olan, her tarayıcının kendi tasarladığı JS Engine'lar sayesinde işlevlerini yürütebilmektelerdir. Chrome'un v8, Firefox'un SpiderMonkey, Microsoft Edge'in Chakra'sı en çok bilinen JS Engine'lerdir. Bu Javascript motorları kodu yorumlarlar ve bilgisayarın anlayacağı makine koduna çevirerek o kodun çalışmasını sağlarlar.
 
 ### Node nasıl ortaya çıktı?
 
@@ -29,10 +29,10 @@ Javascript dili tarayıcılarda var olan, her tarayıcının kendi tasarladığ�
 
 ### Ne işe yarıyor ? Neden önemli ?
 
-Node Js ile birlikte Javascript dili kullanarak backend tarafında da kullanılabilir bir hale geldi. Javascript dilinin karakteristik özellikleri ve diğer klasik backend dillerine karşı bazı üstünlükleri sayesinde, Node Js ile çok hızlı çalışan ve son derece ölçeklenebilir projeler üretmek mümkün oldu.
+Node Js ile birlikte backend tarafında da Javascript dili kullanarak servisler yazılabilir hale geldi. Javascript dilinin karakteristik özellikleri ve diğer klasik backend dillerine karşı bazı üstünlükleri sayesinde, Node Js ile çok hızlı çalışan ve son derece ölçeklenebilir projeler üretmek mümkün oldu.
 
 #### Avantajları
-* Javascript bilen frontendçilerde backend tarafındaki kodları daha rahat yorumlayabilmesi.
+* Javascript bilen frontendçilerin de backend tarafındaki kodları daha rahat yorumlayabilmesi.
 * Açık kaynak dünyasının en geniş ekosistemlerinden birine sahip olması sayesinde ihtiyacınız olan modülü rahatça elde edebiliyor olmak.
 * Başlamak için kolay ve hızla öğrenilebilir olması.
 * Veri odaklı yada real-time uygulamalarda çok başarılı olması
