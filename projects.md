@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: Projelerim
 permalink: /projects/
 ---
 
@@ -25,6 +25,6 @@ Dünyanın bütün ülkelerine ait isim, para birimi, konuştukları dil, nüfus
 
 Girilen isme göre kişinin cinsiyetini istatistiksel olarak tahmin eden uygulama.
 
-<i class="fa fa-link"></i> <i class="fa fa-github"></i> [Github Link](https://github.com/erkanceylan/gender-analyzer)
-
 ![Gender-Analyzer-Resim](https://user-images.githubusercontent.com/9788440/34367368-2bd7e5ca-eaaa-11e7-8eeb-d2ff2a77b5ce.png)
+
+<i class="fa fa-link"></i> <i class="fa fa-github"></i> [Github Link](https://github.com/erkanceylan/gender-analyzer)
