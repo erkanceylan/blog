@@ -14,7 +14,7 @@ Yazım boyunca Almanlardan ziyade Naziler kelimesini kullanmayı uygun gördüm.
 
 Tarihi olayları incelerken, o olayları tetikleyen daha önceki olaylar, sebep ve sonuçlarıyla masaya yatırılır. Bu yöntemle gerçekleşen olaylara mantıksal açıklamalar bulunur. Hitler 1932 yılında izlediği nasyonel sosyelist(ırkçı) politikayla, ekonomik krizlerden boğulan, aç Alman halkının desteğiyle iktidara geldi. İlk icraati parlamento binasını yakmak ve komünistleri hapse atmak oldu. Kurmak istediği faşist düzenin temellerini anında attı ve dünyayı büyük bir ateşe sürükledi.
 
-!["Adolf-Hitler"](assets/images/hitler.jpg)
+!["Adolf-Hitler"](https://github.com/erkanceylan/blog/blob/gh-pages/assets/images/hitler.jpg)
 
 Hitler’in önlenemeyen yükselişi ve artan özgüveni, Dünya’yı 2.büyük savaşa sürükledi. Açgözlü Hitler önce Polonya’yı ve sonra çeşitli avrupa ülkelerini art arda işgal etti.
 
