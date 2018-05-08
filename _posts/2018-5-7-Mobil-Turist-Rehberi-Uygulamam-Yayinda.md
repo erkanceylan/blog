@@ -10,7 +10,7 @@ id: 17
 
 Sakarya Üniversitesi'ndeki son günlerimi yaşamanın verdiği sevinçle sözlerimi, siz değerli okuyucularımı can-ı gönülden selamlayarak başlamak istiyorum. Son sınıf bitirme projesini de tamamlamış bulunmaktayım. Google Play Store'da yerini alan uygulamı indirerek bana destek olabilirsiniz.
 
-![Play-Store](~https://github.com/erkanceylan/blog/blob/gh-pages/assets/images/play_store.png)
+![Play-Store](https://github.com/erkanceylan/blog/blob/gh-pages/assets/images/play_store.png)
 
 ### Ne amaca hizmet şimdi bu ?
 
