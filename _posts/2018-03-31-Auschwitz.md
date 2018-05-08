@@ -10,9 +10,11 @@ id: 16
 
 Siz değerli okurlarıma söz verdiğim ama yazmakta geç kaldığım bir konu; Auschwitz. Krakow’un Oswiecim bölgesinde II.Dünya Savaşı sırasında Naziler tarafından kurulan bir yahudi toplama kampı.
 
-Yazım boyunca Almanlardan ziyade Naziler kelimesini kullanmayı uygun gördüm. Çünkü bütün bu yapılanlar hiç bir milletin sahip olamayacağı iğrenç sapık bir zihniyetin ürünü. 
+Yazım boyunca Almanlardan ziyade Naziler kelimesini kullanmayı uygun gördüm. Çünkü burada yapılanlar hiç bir milletin sahip olamayacağı iğrenç sapık bir zihniyetin ürünü. 
 
 Tarihi olayları incelerken, o olayları tetikleyen daha önceki olaylar, sebep ve sonuçlarıyla masaya yatırılır. Bu yöntemle gerçekleşen olaylara mantıksal açıklamalar bulunur. Hitler 1932 yılında izlediği nasyonel sosyelist(ırkçı) politikayla, ekonomik krizlerden boğulan, aç Alman halkının desteğiyle iktidara geldi. İlk icraati parlamento binasını yakmak ve komünistleri hapse atmak oldu. Kurmak istediği faşist düzenin temellerini anında attı ve dünyayı büyük bir ateşe sürükledi.
+
+!["Adolf-Hitler"](assets/images/hitler.jpg)
 
 Hitler’in önlenemeyen yükselişi ve artan özgüveni, Dünya’yı 2.büyük savaşa sürükledi. Açgözlü Hitler önce Polonya’yı ve sonra çeşitli avrupa ülkelerini art arda işgal etti.
 
