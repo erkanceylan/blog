@@ -12,7 +12,7 @@ Sakarya Üniversitesi'ndeki son günlerimi yaşamanın verdiği sevinçle sözle
 
 [İndirme Linki](https://play.google.com/store/apps/details?id=com.touristguide.mobile.mobiletouristguide)
 
-![Play-Store](https://github.com/erkanceylan/blog/blob/gh-pages/assets/images/play_store.png)
+![Play-Store](https://github.com/erkanceylan/blog/blob/gh-pages/assets/images/play_store.jpg)
 
 ### Ne amaca hizmet şimdi bu ?
 
