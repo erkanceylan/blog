@@ -3,7 +3,7 @@ layout: post
 title:  "Mobil Turist Rehberi Uygulamam Yayında"
 author: erkan
 categories: [ Yazilim ]
-image: assets/images/bitirme-main.pngg
+image: assets/images/bitirme-main.png
 featured: false
 id: 17
 ---
