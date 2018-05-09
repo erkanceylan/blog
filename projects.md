@@ -26,7 +26,7 @@ Dünyanın bütün ülkelerine ait isim, para birimi, konuştukları dil, nüfus
 Girilen isme göre kişinin cinsiyetini istatistiksel olarak tahmin eden uygulama.
 <i class="fa fa-link"></i> <i class="fa fa-github"></i> [Github Link](https://github.com/erkanceylan/gender-analyzer)
 
-![Gender-Analyzer-Resim](https://user-images.githubusercontent.com/9788440/34367368-2bd7e5ca-eaaa-11e7-8eeb-d2ff2a77b5ce.png)
+![Gender-Analyzer-Resim]!(https://user-images.githubusercontent.com/9788440/34367368-2bd7e5ca-eaaa-11e7-8eeb-d2ff2a77b5ce.png){: .shadow }
 
 ## Mobile Tourist Guide <i class="fa fa-plane"></i> <i class="fa fa-suitcase">
 
@@ -34,6 +34,6 @@ Bitirme projesi olarak yazdığım bu mobil uygulama ile dünyanın tüm şehirl
 
 <i class="fa fa-link"></i> <i class="fa fa-github"></i> [Github Link](https://github.com/erkanceylan/final-project)
 
-![Mobile-Tourist-Guide](https://user-images.githubusercontent.com/9788440/39761053-b06a024e-52df-11e8-87dd-63be65684149.png)
+![Mobile-Tourist-Guide](https://user-images.githubusercontent.com/9788440/39761053-b06a024e-52df-11e8-87dd-63be65684149.png){: .shadow }
 
 
