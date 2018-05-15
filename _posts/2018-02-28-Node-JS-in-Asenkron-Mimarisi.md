@@ -4,7 +4,7 @@ title:  "Node JS'in Asenkron Mimarisi"
 author: erkan
 categories: [ NodeJS ]
 image: assets/images/nodejs.jpg
-featured: true
+featured: false
 id: 14
 ---
 
