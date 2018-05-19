@@ -311,9 +311,11 @@ blockquote {
 	.listfeaturedtag .wrapthumbnail {
 		height:250px;
 	}
+	/*
 	.listfeaturedtag .card {
 		height:auto;
 	}
+	*/
 	.listfeaturedtag .wrapfooter {
 		position:relative;
 		margin-top:30px;
