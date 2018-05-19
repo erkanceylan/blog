@@ -12,7 +12,7 @@ comments: true
 
 Merhabalar, ben [Erkan Ceylan][erkanceylan]. Bu da benim kişisel blogum.
 
-Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisayar Mühendisliği bölümü son sınıf öğrencisiyim. Yazılım alanında, özellikle web tabanlı yazılımlarda kendimi geliştirmeyi ve öğrendiklerimi aktarmayı seviyorum. 
+Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisayar Mühendisliği bölümü son sınıf öğrencisiyim. Yazılım alanında, özellikle web tabanlı ve mobil yazılımlarda kendimi geliştirmeyi ve öğrendiklerimi aktarmayı seviyorum. 
 
 ### Eğitim
 -----  
@@ -25,11 +25,19 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 - __Eflatun Yazılım__ / İstanbul, Başakşehir, Living Lab(`Stajyer + Uzaktan Çalışma`)
     - Unity 3D ile Mobil Oyun Geliştirme
 		- Staj sürecimde öğrendiğim Unity3D uygulamasına ait temelleri, oyun motoruna ait kütüphaneleri kullanmayı, oyunlar için grafik tasarımı yapmayı ve c#'ın derinliklerine dair çok şey öğrendim. 2 boyutlu oyunların geliştirilmesi sürecine katkı sağladım.
+	- Android Uygulama Geliştirme
+	- T-SQL Diliyle Veritabanı Programlama
+	- ASP.NET Web Api Geliştirme
+- __Bosch Fren Sistemleri__ / Bursa, Nilüfer, Organize Sanayi Bölgesi(`Stajyer`)
+	- RFID Cihazlarının Programlanması
+	- Bosch Üretim Sistemleri(BPS)
+	- Yalın Üretim
+	- Kanban Sisteminin Uygulanması
 
-		<br/>
+<br/>
 		<section class="featured-posts">
 			<div class="section-title">
-				<h2><span>Katkıda Bulunduğum Projeler</span></h2>
+				<h2><span>Eflatun Yazılım'da Katkıda Bulunduğum Projeler</span></h2>
 			</div>
 			<div class="row listfeaturedtag">
 				
@@ -76,16 +84,6 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 				</div>
 			</div>
 		</section>
-		
-
-	- Android Uygulama Geliştirme
-	- T-SQL Diliyle Veritabanı Programlama
-	- ASP.NET Web Api Geliştirme
-- __Bosch Fren Sistemleri__ / Bursa, Nilüfer, Organize Sanayi Bölgesi(`Stajyer`)
-	- RFID Cihazlarının Programlanması
-	- Bosch Üretim Sistemleri(BPS)
-	- Yalın Üretim
-	- Kanban Sisteminin Uygulanması
 
 ### Yeteneklerim
 -----
