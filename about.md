@@ -28,6 +28,54 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 		<br/>
 		``` Katkıda Bulunduğum Projeler ```
 		
+		<section class="featured-posts">
+			<div class="section-title">
+				<h2><span>Katkıda Bulunduğum Projeler</span></h2>
+			</div>
+			<div class="row listfeaturedtag">
+				
+				<div class="col-md-4 grid-item" style="position: absolute; left: 0px; top: 0px;">
+					<div class="card">
+						<a href="https://erkanceylan.com/gezi/2018/03/31/Auschwitz.html">
+							<img class="img-fluid" src="/assets/images/aus-2.jpg" alt="Auschwitz"> 
+						</a>
+						<div class="card-block">
+							<h2 class="card-title"><a href="https://erkanceylan.com/gezi/2018/03/31/Auschwitz.html">Şampiyon Takımlar 8bit Futbol Oyunu</a></h2>
+							<h4 class="card-text">Siz değerli okurlarıma söz verdiğim ama yazmakta geç kaldığım bir konu; Auschwitz. Krakow’un Oswiecim bölgesinde II.Dünya Savaşı sırasında Naziler tarafından kurulan bir yahudi toplama kampı.
+							</h4>
+						</div>
+					</div>
+				</div>
+
+
+				<div class="col-md-4 grid-item" style="position: absolute; left: 0px; top: 0px;">
+					<div class="card">
+						<a href="https://erkanceylan.com/gezi/2018/03/31/Auschwitz.html">
+							<img class="img-fluid" src="/assets/images/aus-2.jpg" alt="Auschwitz"> 
+						</a>
+						<div class="card-block">
+							<h2 class="card-title"><a href="https://erkanceylan.com/gezi/2018/03/31/Auschwitz.html">Archers - Stickman Archery Game</a></h2>
+							<h4 class="card-text">Siz değerli okurlarıma söz verdiğim ama yazmakta geç kaldığım bir konu; Auschwitz. Krakow’un Oswiecim bölgesinde II.Dünya Savaşı sırasında Naziler tarafından kurulan bir yahudi toplama kampı.
+							</h4>
+						</div>
+					</div>
+				</div>
+
+
+				<div class="col-md-4 grid-item" style="position: absolute; left: 0px; top: 0px;">
+					<div class="card">
+						<a href="https://erkanceylan.com/gezi/2018/03/31/Auschwitz.html">
+							<img class="img-fluid" src="/assets/images/aus-2.jpg" alt="Auschwitz"> 
+						</a>
+						<div class="card-block">
+							<h2 class="card-title"><a href="https://erkanceylan.com/gezi/2018/03/31/Auschwitz.html">Clash of Archers</a></h2>
+							<h4 class="card-text">Siz değerli okurlarıma söz verdiğim ama yazmakta geç kaldığım bir konu; Auschwitz. Krakow’un Oswiecim bölgesinde II.Dünya Savaşı sırasında Naziler tarafından kurulan bir yahudi toplama kampı.
+							</h4>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
 		* [Şampiyon Takımlar 8bit Futbol Oyunu](https://play.google.com/store/apps/details?id=ef.superligfutbol&hl=tr)
 
 
