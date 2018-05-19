@@ -62,7 +62,7 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 				</div>
 
 
-				<div class="col-md-4 grid-item" style="position: absolute; left: 0px; top: 0px;">
+				<div class="col-md-4 grid-item">
 					<div class="card">
 						<a href="https://erkanceylan.com/gezi/2018/03/31/Auschwitz.html">
 							<img class="img-fluid" src="/assets/images/aus-2.jpg" alt="Auschwitz"> 
