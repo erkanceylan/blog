@@ -36,11 +36,25 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 				
 				<div class="col-md-4 grid-item">
 					<div class="card">
-						<a href="https://erkanceylan.com/gezi/2018/03/31/Auschwitz.html">
-							<img class="img-fluid" src="/assets/images/aus-2.jpg" alt="Auschwitz"> 
+						<a href="https://play.google.com/store/apps/details?id=ef.superligfutbol&hl=tr">
+							<img class="img-fluid" src="/assets/images/Sampiyon-Takimlar.png" alt="Sampiyon-Takimlar"> 
 						</a>
 						<div class="card-block">
-							<h2 class="card-title"><a href="https://erkanceylan.com/gezi/2018/03/31/Auschwitz.html">Şampiyon Takımlar 8bit Futbol Oyunu</a></h2>
+							<h2 class="card-title"><a href="https://play.google.com/store/apps/details?id=ef.superligfutbol&hl=tr">Şampiyon Takımlar 8bit Futbol Oyunu</a></h2>
+							<h4 class="card-text">Unity3D ile geliştirilen bu uygulama, 2 boyutlu bir mobil oyun. 8bit'li retro dizayna sahip oyun futbolcuların paslaşmasıyla yanmadan en yüksek skora ulaşmayı hedefliyor. Dünyanın en iyi takımlarının oyuncularını seçerek, en yüksek skora ulaşmaya çalışabilirsiniz.<a href="https://play.google.com/store/apps/details?id=ef.superligfutbol&hl=tr">Buraya</a> tıklayarak Android versiyonunu indirebilirsiniz.
+							</h4>
+						</div>
+					</div>
+				</div>
+
+
+				<div class="col-md-4 grid-item">
+					<div class="card">
+						<a href="https://play.google.com/store/apps/details?id=ef.ArcherGame">
+							<img class="img-fluid" src="/assets/images/Archers.png" alt="Archers"> 
+						</a>
+						<div class="card-block">
+							<h2 class="card-title"><a href="https://play.google.com/store/apps/details?id=ef.ArcherGame">Archers - Stickman Archery Game</a></h2>
 							<h4 class="card-text">Siz değerli okurlarıma söz verdiğim ama yazmakta geç kaldığım bir konu; Auschwitz. Krakow’un Oswiecim bölgesinde II.Dünya Savaşı sırasında Naziler tarafından kurulan bir yahudi toplama kampı.
 							</h4>
 						</div>
@@ -50,25 +64,11 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 
 				<div class="col-md-4 grid-item">
 					<div class="card">
-						<a href="https://erkanceylan.com/gezi/2018/03/31/Auschwitz.html">
-							<img class="img-fluid" src="/assets/images/aus-2.jpg" alt="Auschwitz"> 
+						<a href="https://play.google.com/store/apps/details?id=ef.clashofarchers">
+							<img class="img-fluid" src="/assets/images/Clash-Of-Archers.png" alt="Clash-Of-Archers"> 
 						</a>
 						<div class="card-block">
-							<h2 class="card-title"><a href="https://erkanceylan.com/gezi/2018/03/31/Auschwitz.html">Archers - Stickman Archery Game</a></h2>
-							<h4 class="card-text">Siz değerli okurlarıma söz verdiğim ama yazmakta geç kaldığım bir konu; Auschwitz. Krakow’un Oswiecim bölgesinde II.Dünya Savaşı sırasında Naziler tarafından kurulan bir yahudi toplama kampı.
-							</h4>
-						</div>
-					</div>
-				</div>
-
-
-				<div class="col-md-4 grid-item">
-					<div class="card">
-						<a href="https://erkanceylan.com/gezi/2018/03/31/Auschwitz.html">
-							<img class="img-fluid" src="/assets/images/aus-2.jpg" alt="Auschwitz"> 
-						</a>
-						<div class="card-block">
-							<h2 class="card-title"><a href="https://erkanceylan.com/gezi/2018/03/31/Auschwitz.html">Clash of Archers</a></h2>
+							<h2 class="card-title"><a href="https://play.google.com/store/apps/details?id=ef.clashofarchers">Clash of Archers</a></h2>
 							<h4 class="card-text">Siz değerli okurlarıma söz verdiğim ama yazmakta geç kaldığım bir konu; Auschwitz. Krakow’un Oswiecim bölgesinde II.Dünya Savaşı sırasında Naziler tarafından kurulan bir yahudi toplama kampı.
 							</h4>
 						</div>
