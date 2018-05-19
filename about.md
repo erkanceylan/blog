@@ -34,56 +34,55 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 	- Yalın Üretim
 	- Kanban Sisteminin Uygulanması
 
-<br/>
-		<section class="featured-posts">
-			<div class="section-title">
-				<h2><span>Eflatun Yazılım'da Katkıda Bulunduğum Projeler</span></h2>
-			</div>
-			<div class="row listfeaturedtag">
-				
-				<div class="col-md-4 grid-item">
-					<div class="card">
-						<a href="https://play.google.com/store/apps/details?id=ef.superligfutbol&hl=tr">
-							<img class="img-fluid" src="/assets/images/Sampiyon-Takimlar.png" alt="Sampiyon-Takimlar"> 
-						</a>
-						<div class="card-block">
-							<h2 class="card-title"><a href="https://play.google.com/store/apps/details?id=ef.superligfutbol&hl=tr">Şampiyon Takımlar 8bit Futbol Oyunu</a></h2>
-							<h4 class="card-text">Unity3D ile geliştirilen bu uygulama, 2 boyutlu bir mobil oyun. 8bit'li retro dizayna sahip oyun futbolcuların, paslaşmasıyla yanmadan en yüksek skora ulaşmak hedefleniyor. Dünyanın en iyi takımlarınını seçerek, en yüksek skora ulaşmaya çalışabilirsiniz.
-							</h4>
-						</div>
-					</div>
-				</div>
+	<br/>
+	<section class="featured-posts">
+	<div class="section-title">
+	<h2><span>Eflatun Yazılım'da Katkıda Bulunduğum Projeler</span></h2>
+	</div>
+	<div class="row listfeaturedtag">
+	<div class="col-md-4 grid-item">
+	<div class="card">
+	<a href="https://play.google.com/store/apps/details?id=ef.superligfutbol&hl=tr">
+	<img class="img-fluid" src="/assets/images/Sampiyon-Takimlar.png" alt="Sampiyon-Takimlar"> 
+</a>
+<div class="card-block">
+	<h2 class="card-title"><a href="https://play.google.com/store/apps/details?id=ef.superligfutbol&hl=tr">Şampiyon Takımlar 8bit Futbol Oyunu</a></h2>
+	<h4 class="card-text">Unity3D ile geliştirilen bu uygulama, 2 boyutlu bir mobil oyun. 8bit'li retro dizayna sahip oyun futbolcuların, paslaşmasıyla yanmadan en yüksek skora ulaşmak hedefleniyor. Dünyanın en iyi takımlarınını seçerek, en yüksek skora ulaşmaya çalışabilirsiniz.
+	</h4>
+</div>
+</div>
+	</div>
 
 
-				<div class="col-md-4 grid-item">
-					<div class="card">
-						<a href="https://play.google.com/store/apps/details?id=ef.ArcherGame">
-							<img class="img-fluid" src="/assets/images/Archers.png" alt="Archers"> 
-						</a>
-						<div class="card-block">
-							<h2 class="card-title"><a href="https://play.google.com/store/apps/details?id=ef.ArcherGame">Archers - Stickman Archery Game</a></h2>
-							<h4 class="card-text">
-								Stickman Archery Game, 2 boyutlu bir okçuluk oyunu. Kahramınımızla en fazla düşmanı mağlup edip en yüksek skoru almak ana hedef. 
-							</h4>
-						</div>
-					</div>
-				</div>
+<div class="col-md-4 grid-item">
+	<div class="card">
+		<a href="https://play.google.com/store/apps/details?id=ef.ArcherGame">
+			<img class="img-fluid" src="/assets/images/Archers.png" alt="Archers"> 
+		</a>
+		<div class="card-block">
+			<h2 class="card-title"><a href="https://play.google.com/store/apps/details?id=ef.ArcherGame">Archers - Stickman Archery Game</a></h2>
+			<h4 class="card-text">
+				Stickman Archery Game, 2 boyutlu bir okçuluk oyunu. Kahramınımızla en fazla düşmanı mağlup edip en yüksek skoru almak ana hedef. 
+			</h4>
+		</div>
+	</div>
+</div>
 
 
-				<div class="col-md-4 grid-item">
-					<div class="card">
-						<a href="https://play.google.com/store/apps/details?id=ef.clashofarchers">
-							<img class="img-fluid" src="/assets/images/Clash-Of-Archers.png" alt="Clash-Of-Archers"> 
-						</a>
-						<div class="card-block">
-							<h2 class="card-title"><a href="https://play.google.com/store/apps/details?id=ef.clashofarchers">Clash of Archers</a></h2>
-							<h4 class="card-text">Dünya üzerindeki diğer bütün kullanıcılarla ortak bir haritada oynanan oyunda amaç, düşmanların topraklarını ele geçirip kendi hakimiyetini büyütmektir.
-							</h4>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
+<div class="col-md-4 grid-item">
+	<div class="card">
+		<a href="https://play.google.com/store/apps/details?id=ef.clashofarchers">
+			<img class="img-fluid" src="/assets/images/Clash-Of-Archers.png" alt="Clash-Of-Archers"> 
+		</a>
+		<div class="card-block">
+			<h2 class="card-title"><a href="https://play.google.com/store/apps/details?id=ef.clashofarchers">Clash of Archers</a></h2>
+			<h4 class="card-text">Dünya üzerindeki diğer bütün kullanıcılarla ortak bir haritada oynanan oyunda amaç, düşmanların topraklarını ele geçirip kendi hakimiyetini büyütmektir.
+			</h4>
+		</div>
+	</div>
+</div>
+</div>
+</section>
 
 ### Yeteneklerim
 -----
