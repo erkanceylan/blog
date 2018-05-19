@@ -4,7 +4,8 @@ title: Hakkımda
 permalink: /about/
 comments: true
 ---
-<img class"shadow" alt="Profile Photo" src="/assets/images/13.jpeg" style="border-radius: 50%;">
+
+![Profile Photo1]({{site.baseurl}}/assets/images/13.jpeg){: .shadow}
 <br/>
 
 -----
