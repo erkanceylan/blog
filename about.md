@@ -34,16 +34,17 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 	- Yalın Üretim
 	- Kanban Sisteminin Uygulanması
 
-	<br/>
-	<section class="featured-posts">
-	<div class="section-title">
-	<h2><span>Eflatun Yazılım'da Katkıda Bulunduğum Projeler</span></h2>
-	</div>
-	<div class="row listfeaturedtag">
-	<div class="col-md-4 grid-item">
-	<div class="card">
-	<a href="https://play.google.com/store/apps/details?id=ef.superligfutbol&hl=tr">
-	<img class="img-fluid" src="/assets/images/Sampiyon-Takimlar.png" alt="Sampiyon-Takimlar"> 
+<br/>
+<section class="featured-posts">
+<div class="section-title">
+<h2><span>Eflatun Yazılım'da Katkıda Bulunduğum Projeler</span></h2>
+</div>
+<div class="row listfeaturedtag">
+
+<div class="col-md-4 grid-item">
+<div class="card">
+<a href="https://play.google.com/store/apps/details?id=ef.superligfutbol&hl=tr">
+<img class="img-fluid" src="/assets/images/Sampiyon-Takimlar.png" alt="Sampiyon-Takimlar"> 
 </a>
 <div class="card-block">
 	<h2 class="card-title"><a href="https://play.google.com/store/apps/details?id=ef.superligfutbol&hl=tr">Şampiyon Takımlar 8bit Futbol Oyunu</a></h2>
@@ -51,7 +52,7 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 	</h4>
 </div>
 </div>
-	</div>
+</div>
 
 
 <div class="col-md-4 grid-item">
