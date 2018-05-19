@@ -35,11 +35,11 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 	- Kanban Sisteminin Uygulanması
 
 <br/>
-<section class="featured-posts">
+<section class="recent-posts">
 <div class="section-title">
 <h2><span>Eflatun Yazılım'da Katkıda Bulunduğum Projeler</span></h2>
 </div>
-<div class="row listfeaturedtag">
+<div class="row listrecent">
 
 <div class="col-md-4 grid-item">
 <div class="card">
