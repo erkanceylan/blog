@@ -24,21 +24,22 @@ Hitler’in neden bu kadar yahudi düşmanı olduğu konusunda çeşitli fikirle
 
 Auschwitz kampı dünya üzerindeki en büyük insan katliamlarından birinin yapıldığı bir yer. Auschwitz-Birkenau'ya tüm Avrupa'dan 1,3 milyon insan yerleştirilmiş.1 milyonu Yahudi olmak üzere 1,1 milyon insanın öldürüldüğü tahmin edilmektedir. Yaklaşık 900.000 kişi kampa geldikleri anda doğrudan gaz odalarına gönderilmiş ya da vurularak öldürülmüş. Kalan 200.000 kişi, hastalık, eksik beslenme, kötü muamele, tıbbi deneyler nedeniyle ve daha sonra gönderildikleri gaz odalarında ölmüştür. Ortalama 6 ay içinde ölen tutsaklar, en ağır şartlarda günde en az 10 saat çalıştırıldılar. Gaz odalarına gönderilirken, saç kesme, ceset toplama, yakma gibi işlemleri de yine kendileri yapıyorlardı.
 
-![Calismak-Insani-Ozgurlestirir]()
+![Calismak-Insani-Ozgurlestirir](https://user-images.githubusercontent.com/9788440/32450499-a3a84508-c314-11e7-96c7-77e4edbc8cf6.jpg)
 
 Auschwitz kampının kapısı bu, “Çalışmak insanı özgürleştirir” yazısı. Özgürleşmeyeceklerini bilen insanların, sonu ölümlerle biten yolculuklarının son durağı.
 
-![Dikenli-Teller]()
+![Dikenli-Teller](https://user-images.githubusercontent.com/9788440/32450510-ab4fa062-c314-11e7-9123-9ca5e288e935.jpg)
 
+![Dikenli-Teller-2](https://user-images.githubusercontent.com/9788440/40178271-b2df243a-59e9-11e8-9809-1133b3734adc.jpg)
 İnsanların kamptan kaçmasını engellemek için içerisinden yüksek voltlu elektrik geçirilen dikenli teller.
 
-![Samanlı-Oda]()
+![Samanlı-Oda](https://user-images.githubusercontent.com/9788440/40178281-bfcb3076-59e9-11e8-9ae3-371d97f70104.jpg)
 
 Kampa yeni gelen insanlar, yeterli yatak olmadığı için, yatakta yatanlar ölene dek zeminine saman serilmiş odalarda yatırılıyorlarmış.
 
-![Katil-Doktor]()
+![Katil-Doktor](https://user-images.githubusercontent.com/9788440/40178268-b1615aba-59e9-11e8-9bb4-bf927c1f94dd.jpg)
 Resimde görülen kişi Auschwitz kampının katil doktoru ...
 
-![Ceset-Yakma-Odalari]()
+![Ceset-Yakma-Odalari](https://user-images.githubusercontent.com/9788440/32450518-afb1c590-c314-11e7-8d68-845590407901.jpg)
 Auschwitz'de her gün yüzlerce kişi hayatını kaybeder, ve bu ölüler kampta yaşayan diğer mahkumlar tarafından bu odalarda yakılırlardı.
 

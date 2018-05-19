@@ -7,7 +7,7 @@ image: assets/images/ufw.jpg
 id: 9
 
 ---
-![Photo of Wall - Main](https://user-images.githubusercontent.com/9788440/33800378-1c5b100e-dd3f-11e7-823a-d57838496c2f.jpg)
+
 Firewall yani güvenlik duvarı dediğimiz yapı temelde, bilgisayarımızın ya da sunucumuzun internet dünyasında güvenli hale 
 gelmesini sağlayan kurallar setidir. Belirli portların açılması, kapatılması, sınırlanması, ip bazlı engelleme vs pekçok
 spesifik kural tanımlanabiliriz.
