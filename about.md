@@ -26,8 +26,6 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 		- Staj sürecimde öğrendiğim Unity3D uygulamasına ait temelleri, oyun motoruna ait kütüphaneleri kullanmayı, oyunlar için grafik tasarımı yapmayı ve c#'ın derinliklerine dair çok şey öğrendim. 2 boyutlu oyunların geliştirilmesi sürecine katkı sağladım.
 
 		<br/>
-		``` Katkıda Bulunduğum Projeler ```
-		
 		<section class="featured-posts">
 			<div class="section-title">
 				<h2><span>Katkıda Bulunduğum Projeler</span></h2>
@@ -41,7 +39,7 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 						</a>
 						<div class="card-block">
 							<h2 class="card-title"><a href="https://play.google.com/store/apps/details?id=ef.superligfutbol&hl=tr">Şampiyon Takımlar 8bit Futbol Oyunu</a></h2>
-							<h4 class="card-text">Unity3D ile geliştirilen bu uygulama, 2 boyutlu bir mobil oyun. 8bit'li retro dizayna sahip oyun futbolcuların paslaşmasıyla yanmadan en yüksek skora ulaşmayı hedefliyor. Dünyanın en iyi takımlarının oyuncularını seçerek, en yüksek skora ulaşmaya çalışabilirsiniz.<a href="https://play.google.com/store/apps/details?id=ef.superligfutbol&hl=tr">Buraya</a> tıklayarak Android versiyonunu indirebilirsiniz.
+							<h4 class="card-text">Unity3D ile geliştirilen bu uygulama, 2 boyutlu bir mobil oyun. 8bit'li retro dizayna sahip oyun futbolcuların paslaşmasıyla yanmadan en yüksek skora ulaşmak hedefleniyor. Dünyanın en iyi takımlarınını seçerek, en yüksek skora ulaşmaya çalışabilirsiniz.
 							</h4>
 						</div>
 					</div>
@@ -55,7 +53,8 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 						</a>
 						<div class="card-block">
 							<h2 class="card-title"><a href="https://play.google.com/store/apps/details?id=ef.ArcherGame">Archers - Stickman Archery Game</a></h2>
-							<h4 class="card-text">Siz değerli okurlarıma söz verdiğim ama yazmakta geç kaldığım bir konu; Auschwitz. Krakow’un Oswiecim bölgesinde II.Dünya Savaşı sırasında Naziler tarafından kurulan bir yahudi toplama kampı.
+							<h4 class="card-text">
+								Stickman Archery Game, 2 boyutlu bir okçuluk oyunu. Kahramınımızla en fazla düşmanı mağlup edip en yüksek skoru almak ana hedef. 
 							</h4>
 						</div>
 					</div>
@@ -69,29 +68,13 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 						</a>
 						<div class="card-block">
 							<h2 class="card-title"><a href="https://play.google.com/store/apps/details?id=ef.clashofarchers">Clash of Archers</a></h2>
-							<h4 class="card-text">Siz değerli okurlarıma söz verdiğim ama yazmakta geç kaldığım bir konu; Auschwitz. Krakow’un Oswiecim bölgesinde II.Dünya Savaşı sırasında Naziler tarafından kurulan bir yahudi toplama kampı.
+							<h4 class="card-text">Dünya üzerindeki diğer bütün kullanıcılarla ortak bir haritada oynanan oyunda amaç, düşmanların topraklarını ele geçirip kendi hakimiyetini büyütmektir.
 							</h4>
 						</div>
 					</div>
 				</div>
 			</div>
 		</section>
-		* [Şampiyon Takımlar 8bit Futbol Oyunu](https://play.google.com/store/apps/details?id=ef.superligfutbol&hl=tr)
-
-
-		![Profile Photo1]({{site.baseurl}}/assets/images/Sampiyon-Takimlar.png){: .shadow}
-		
-		
-		* [Archers - Stickman Archery Game](https://play.google.com/store/apps/details?id=ef.ArcherGame)
-
-
-		![Profile Photo1]({{site.baseurl}}/assets/images/Archers.png){: .shadow}
-		
-		
-		* [Clash of Archers](https://play.google.com/store/apps/details?id=ef.clashofarchers) 
-
-
-		![Profile Photo1]({{site.baseurl}}/assets/images/Clash-Of-Archers.png){: .shadow}
 		
 
 	- Android Uygulama Geliştirme
