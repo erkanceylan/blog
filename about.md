@@ -4,7 +4,7 @@ title: Hakkımda
 permalink: /about/
 comments: true
 ---
-![Profile Photo1]({{site.baseurl}}/assets/images/13.jpeg){: .shadow }
+<img class"shadow" alt="Profile Photo" src="/assets/images/13.jpeg" style="border-radius: 50%;"/>
 <br/>
 
 -----
@@ -39,7 +39,7 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 						</a>
 						<div class="card-block">
 							<h2 class="card-title"><a href="https://play.google.com/store/apps/details?id=ef.superligfutbol&hl=tr">Şampiyon Takımlar 8bit Futbol Oyunu</a></h2>
-							<h4 class="card-text">Unity3D ile geliştirilen bu uygulama, 2 boyutlu bir mobil oyun. 8bit'li retro dizayna sahip oyun futbolcuların paslaşmasıyla yanmadan en yüksek skora ulaşmak hedefleniyor. Dünyanın en iyi takımlarınını seçerek, en yüksek skora ulaşmaya çalışabilirsiniz.
+							<h4 class="card-text">Unity3D ile geliştirilen bu uygulama, 2 boyutlu bir mobil oyun. 8bit'li retro dizayna sahip oyun futbolcuların, paslaşmasıyla yanmadan en yüksek skora ulaşmak hedefleniyor. Dünyanın en iyi takımlarınını seçerek, en yüksek skora ulaşmaya çalışabilirsiniz.
 							</h4>
 						</div>
 					</div>
