@@ -4,7 +4,7 @@ title:  "Mobil Turist Rehberi Uygulamam Yayında"
 author: erkan
 categories: [ Yazilim ]
 image: assets/images/bitirme-main.png
-featured: true
+featured: false
 id: 17
 ---
 
