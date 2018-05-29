@@ -30,16 +30,19 @@ Auschwitz kampının kapısı bu, “Çalışmak insanı özgürleştirir” yaz
 
 ![Dikenli-Teller](https://user-images.githubusercontent.com/9788440/32450510-ab4fa062-c314-11e7-9123-9ca5e288e935.jpg)
 
+İnsanların kamptan kaçmasını engellemek için içerisinden yüksek voltlu elektrik geçirilen dikenli teller. Pekçoğunun bir umut kaçmayı planladığı ama aşamadığı engel.
+
 ![Dikenli-Teller-2](https://user-images.githubusercontent.com/9788440/40178271-b2df243a-59e9-11e8-9809-1133b3734adc.jpg)
-İnsanların kamptan kaçmasını engellemek için içerisinden yüksek voltlu elektrik geçirilen dikenli teller.
+
 
 ![Samanlı-Oda](https://user-images.githubusercontent.com/9788440/40178281-bfcb3076-59e9-11e8-9ae3-371d97f70104.jpg)
 
-Kampa yeni gelen insanlar, yeterli yatak olmadığı için, yatakta yatanlar ölene dek zeminine saman serilmiş odalarda yatırılıyorlarmış.
+Kampa yeni gelen insanlar, yeterli yatak olmadığı için, zeminine saman serilmiş odalarda yatırılıyorlarmış. Taaki yatakta yatma ayrıcalığına sahip birileri ölene dek. 
 
 ![Katil-Doktor](https://user-images.githubusercontent.com/9788440/40178268-b1615aba-59e9-11e8-9bb4-bf927c1f94dd.jpg)
 Resimde görülen kişi Auschwitz kampının katil doktoru ...
+Kamptaki insanlar üzerinde çılgın deneyler yapmış. Tipi bile korkutucu değil mi?
 
 ![Ceset-Yakma-Odalari](https://user-images.githubusercontent.com/9788440/32450518-afb1c590-c314-11e7-8d68-845590407901.jpg)
-Auschwitz'de her gün yüzlerce kişi hayatını kaybeder, ve bu ölüler kampta yaşayan diğer mahkumlar tarafından bu odalarda yakılırlardı.
+Auschwitz'de her gün yüzlerce kişi hayatını kaybeder, ve bu ölüler kampta yaşayan diğer mahkumlar tarafından bu odalarda yakılırlarmış. Almanlar canlı yada ölü hiçbir yahudiye el sürmezmiş. Alman askerine dokunmak ölüm sebebiymiş.
 
