@@ -12,7 +12,7 @@ comments: true
 
 Merhabalar, ben [Erkan Ceylan][erkanceylan]. Bu da benim kişisel blogum.
 
-Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisayar Mühendisliği bölümü son sınıf öğrencisiyim. Yazılım alanında, özellikle web tabanlı ve mobil yazılımlarda kendimi geliştirmeyi ve öğrendiklerimi aktarmayı seviyorum. 
+Kendimden bahsetmem gerekirse, 23 yaşındayım. Sakarya Üniversitesi, Bilgisayar Mühendisliği bölümü son sınıf öğrencisiyim. Yazılım alanında, özellikle web tabanlı ve mobil yazılımlarda kendimi geliştirmeyi ve öğrendiklerimi aktarmayı seviyorum. 
 
 ### Eğitim
 -----  
@@ -33,6 +33,8 @@ Kendimden bahsetmem gerekirse, 22 yaşındayım. Sakarya Üniversitesi, Bilgisay
 	- Bosch Üretim Sistemleri(BPS)
 	- Yalın Üretim
 	- Kanban Sisteminin Uygulanması
+- __Eflatun Yazılım__ / İstanbul, Başakşehir, Living Lab(`Junior Web Developer`)
+	- ASP.NET Web Programlama
 
 <br/>
 <section class="recent-posts">
