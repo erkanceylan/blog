@@ -92,12 +92,12 @@ Kendimden bahsetmem gerekirse, 23 yaşındayım. Sakarya Üniversitesi, Bilgisay
 - __Intermediate Level English__
 	- I am not a fluent speaker but I am pretty good at reading something in English. I can say that almost there is no English documentations that I cannot read completely in software sector.
 - __C# ve ASP.NET MVC__
-- __PHP__
 - __Javascript - Node JS__
-- __Unity 3D ile oyun programlama__
 - __SQL - T-SQL__
+- __Unity 3D ile oyun programlama__
 - __Android ile mobil programlama__
 - __UML Diyagramlar__
+
 
 ### Hobilerim
 -----
