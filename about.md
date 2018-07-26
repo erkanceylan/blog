@@ -23,8 +23,7 @@ Kendimden bahsetmem gerekirse, 23 yaşındayım. Sakarya Üniversitesi, Bilgisay
 ### Tecrübelerim
 -----
 - __Eflatun Yazılım__ / İstanbul, Başakşehir, Living Lab(`Stajyer + Uzaktan Çalışma`)
-    - Unity 3D ile Mobil Oyun Geliştirme
-		- Staj sürecimde öğrendiğim Unity3D uygulamasına ait temelleri, oyun motoruna ait kütüphaneleri kullanmayı, oyunlar için grafik tasarımı yapmayı ve c#'ın derinliklerine dair çok şey öğrendim. 2 boyutlu oyunların geliştirilmesi sürecine katkı sağladım.
+    	- Unity 3D ile Mobil Oyun Geliştirme
 	- Android Uygulama Geliştirme
 	- T-SQL Diliyle Veritabanı Programlama
 	- ASP.NET Web Api Geliştirme
