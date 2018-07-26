@@ -36,6 +36,6 @@ Bitirme projesi olarak yazdığım bu mobil uygulama ile dünyanın tüm şehirl
 
 ![Mobile-Tourist-Guide](https://user-images.githubusercontent.com/9788440/39761053-b06a024e-52df-11e8-87dd-63be65684149.png){: .shadow }
 
-## Erasmus.Online <i class="fa fa-graduation-cap>
+## Erasmus.Online <i class="fa fa-graduation-cap></i>
 
 Devam eden bir proje. http://erasmus.online adresinde yayında olucak.
