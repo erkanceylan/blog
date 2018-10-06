@@ -50,7 +50,9 @@ post_class: post-template
 			</div>
 
             <!-- Post Date -->
-            <p>
+             {% if page.date %}
+ 			<p>
+			
             <small>
                 <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
                 {% if page.last_modified_at %}
@@ -58,7 +60,8 @@ post_class: post-template
                 {% endif %}
                 </small>
             </p>
-            
+			{% endif %}
+           
 			<!-- Post Categories -->
 			<div class="after-post-tags">
 				<ul class="tags">
