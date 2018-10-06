@@ -12,7 +12,7 @@ comments: true
 
 Merhabalar, ben [Erkan Ceylan][erkanceylan]. Bu da benim kişisel blogum.
 
-Kendimden bahsetmem gerekirse, 23 yaşındayım. Sakarya Üniversitesi, Bilgisayar Mühendisliği bölümü son sınıf öğrencisiyim. Yazılım alanında, özellikle web tabanlı ve mobil yazılımlarda kendimi geliştirmeyi ve öğrendiklerimi aktarmayı seviyorum. 
+Kendimden bahsetmem gerekirse, 23 yaşındayım. Sakarya Üniversitesi, Bilgisayar Mühendisliği bölümü son sınıf öğrencisiyim. Yazılım alanında, özellikle web tabanlı ve mobil yazılımlarda kendimi geliştirmeyi ve öğrendiklerimi aktarmayı seviyorum. Şu anda İstanbul lokasyonlu Eflatun Yazılım firmasında, kripto para borsası olan [borsabit.com](https://borsabit.com) projesinde görev almaktayım.
 
 ### Eğitim
 -----  
