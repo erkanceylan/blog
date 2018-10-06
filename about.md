@@ -108,7 +108,10 @@ Tutkulu bir Beşiktaş taraftarı olmamın dışında, seyahat etmek, kampa gitm
 
 ***********
 
-Bana sosyal medya linklerinin herhangi birinden ulaşabilirsiniz. Esen kalın efenim...  
+Bana sosyal medya linklerinin herhangi birinden ulaşabilirsiniz. Esen kalın efenim... 
+
+Unutmadan, aşağıdaki linkten de bir kahve ısmarlayabilirsiniz. :)
+<a href="https://www.buymeacoffee.com/erkan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> 
 
   
 
