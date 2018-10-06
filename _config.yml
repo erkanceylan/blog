@@ -1,14 +1,14 @@
 # Site
 name: Erkan Ceylan
-description: A developer from somewhere on earth.
-meta_description: "A developer from somewhere on earth."
+description: "Web ve Android Yazılım Geliştirici."
+meta_description: "Web ve Android Yazıım Geliştirici"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 paginate: 10
 baseurl: /
 google_analytics: 'UA-63036486-2'
 disqus: 'erkanceylan4'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: ''
 
 # Authors
 authors:
