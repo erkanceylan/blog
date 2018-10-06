@@ -1,18 +1,5 @@
 jQuery(document).ready(function($){
-    
- 
-    if ($(".hideshare")[0]){
-        var topOfOthDiv = $(".hideshare").offset().top;
-        $(window).scroll(function() {
-          if($(window).scrollTop() > topOfOthDiv) { //scrolled past the other div?
-              $(".share").hide(); //reached the desired point -- show div
-          }
-          else{
-            $(".share").show();
-          }
-        });
-    }
-    
+
     var offset = 1250; 
     var duration = 800; 
     jQuery(window).scroll(function() { 
@@ -30,30 +17,16 @@ jQuery(document).ready(function($){
 
 
     // alertbar later
-    var isDismissed=false;
     $(document).scroll(function () {
         var y = $(this).scrollTop();
-        if(!isDismissed){
-            if (y > 280) {
-                $('.alertbar').fadeIn();
-            } else {
-                $('.alertbar').fadeOut();
-            }
+        if (y > 280) {
+            $('.alertbar').fadeIn();
+        } else {
+            $('.alertbar').fadeOut();
         }
-        
     });
 
-     // masonry
-    if ($('.masonrygrid').length){
-      var $grid = $('.masonrygrid').masonry({
-      itemSelector: '.grid-item'
-      });
-      $grid.imagesLoaded().progress( function() {
-        $grid.masonry();
-      });
-    }
 
- 
         // Smooth scroll to an anchor
         $('a.smoothscroll[href*="#"]')
           // Remove links that don't actually link to anything
@@ -96,7 +69,7 @@ jQuery(document).ready(function($){
     var didScroll;
     var lastScrollTop = 0;
     var delta = 5;
-    var navbarHeight = $('header').outerHeight();
+    var navbarHeight = $('nav').outerHeight();
 
     $(window).scroll(function(event){
         didScroll = true;
@@ -121,13 +94,13 @@ jQuery(document).ready(function($){
         // This is necessary so you never see what is "behind" the navbar.
         if (st > lastScrollTop && st > navbarHeight){
             // Scroll Down            
-            $('header').removeClass('nav-down').addClass('nav-up'); 
-            $('.nav-up').css('top', - $('header').outerHeight() + 'px');
+            $('nav').removeClass('nav-down').addClass('nav-up'); 
+            $('.nav-up').css('top', - $('nav').outerHeight() + 'px');
            
         } else {
             // Scroll Up
             if(st + $(window).height() < $(document).height()) {               
-                $('header').removeClass('nav-up').addClass('nav-down');
+                $('nav').removeClass('nav-up').addClass('nav-down');
                 $('.nav-up, .nav-down').css('top', '0px');             
             }
         }
