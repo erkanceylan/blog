@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Hakkımda
 permalink: /about/
 comments: true
