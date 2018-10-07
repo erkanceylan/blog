@@ -4,11 +4,10 @@ description: "Web ve Android Yazılım Geliştirici."
 meta_description: "erkan ceylan, web, yazılım geliştirici, blog, kişisel web sitesi"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-paginate: 10
 baseurl: /
 google_analytics: 'UA-63036486-2'
 disqus: 'erkanceylan4'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: ''
 
 # Authors
 authors:
@@ -34,6 +33,10 @@ jekyll-archives:
   permalinks:
     category: '/year/month/day/:name/'
     
+# Pagination 
+paginate: 10
+paginate_path: /page:num/
+
 # Other
 markdown: kramdown
 highlighter: rouge
