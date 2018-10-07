@@ -3,7 +3,7 @@ layout: post
 title:  "Auschwitz"
 author: erkan
 categories: [ Gezi ]
-image: assets/images/aus-2.jpg
+image: 'assets/images/aus-2.jpg'
 featured: false
 ---
 
