@@ -4,7 +4,7 @@ title:  "Toplum Psikolojisinin Karadelikleri"
 author: erkan
 categories: [ Psikoloji ]
 image: assets/images/karadelik-1.jpg
-id: 5
+featured: false
 
 ---
 

@@ -4,7 +4,7 @@ title:  "Toplum Psikolojisinin Karadelikleri - 2"
 author: erkan
 categories: [ Psikoloji ]
 image: assets/images/karadelik-2.jpg
-id: 8
+featured: false
 ---
 
 İnsanın dünyanın en gelişmiş ve aynı zamanda en zeki canlısı olduğundan, insan psikolojisi üzerine merağım ve araştırmalarım olduğundan

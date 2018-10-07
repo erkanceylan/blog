@@ -5,7 +5,6 @@ author: erkan
 categories: [ Yazilim ]
 image: assets/images/bitirme-main.png
 featured: false
-id: 17
 ---
 
 Sakarya Üniversitesi'ndeki son günlerimi yaşamanın verdiği sevinçle sözlerimi, siz değerli okuyucularımı can-ı gönülden selamlayarak başlamak istiyorum. Son sınıf bitirme projesini de tamamlamış bulunmaktayım. Google Play Store'da yerini alan uygulamı indirerek bana destek olabilirsiniz.

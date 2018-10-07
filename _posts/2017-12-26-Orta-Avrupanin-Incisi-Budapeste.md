@@ -4,7 +4,7 @@ title:  "Orta Avrupa'nın İncisi: Budapeşte"
 author: erkan
 categories: [ Gezi ]
 image: assets/images/budapest.jpg
-id: 11
+featured:false
 
 ---
 _Lokman, ver oğlum müziği_

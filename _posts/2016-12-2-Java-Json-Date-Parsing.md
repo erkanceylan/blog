@@ -4,7 +4,7 @@ title:  "Java'da Json İçerisinden Date Bilgisi Elde Etmek"
 author: erkan
 categories: [ Yazılım ]
 image: false
-id: 2
+featured: false
 ---
 
 Bu yazımda karşılaştığım ufak bir problemin basit çözümünü paylaşacağım.

@@ -4,7 +4,7 @@ title:  "Aşkın ve Özgürlüğün Başkenti: Amsterdam"
 author: erkan
 categories: [ Gezi ]
 image: assets/images/amsterdam.JPG
-id: 7
+featured: false
 ---
 
 Kız arkadaşım Ezgi, bu yaz Amerika’da Work And Travel programı kapsamında hem çalışıyordu hem de geziyordu (<a href="https://imgur.com/unt4d6C" target="_blank">*</a>). Benim de Erasmus’u kazanmam ile “kavuşmak hayal oldu” anlayacağınız. Onun Türkiye’ye dönüşüyle benim Türkiye’den gidişim çakışıyordu. Beraber bir tatil planı yapmayı düşündük ve Amsterdam’da karar kıldık. Bende Polonya uçuşumu Amsterdam aktarmalı yapmaya karar verdim. Ezgi’nin kardeşi Erdi’nin de katılımıyla müthiş bir üçlü olduk ve Amsterdam’da 3 muhteşem gün geçirdik.

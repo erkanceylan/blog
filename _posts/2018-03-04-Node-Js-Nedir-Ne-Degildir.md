@@ -5,7 +5,6 @@ author: erkan
 categories: [ NodeJS ]
 image: assets/images/nodejs.jpg
 featured: false
-id: 15
 ---
 
 Node Js'le ilgili, kendim öğrenirken siz değerli okurlarıma da anlatmak istediğim notlarıma bugün başlıyorum. Öncelikle; nedir, ne değildir ile Node Js kavramını ele almak istedim.

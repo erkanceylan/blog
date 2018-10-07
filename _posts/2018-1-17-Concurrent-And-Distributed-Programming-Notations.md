@@ -4,7 +4,7 @@ title:  "Notations Of Concurrent And Distributed Programming"
 author: erkan
 categories: [ Yazılım ]
 image: assets/images/concurrent.png
-id: 12
+featured:false
 ---
 I am taking Concurrent and Distributed Programming lecture in my Erasmus+ journey. End of the lecture, there will be final exam
 about mostly explation of some notations concerning Concurrent And Distributed Programming. Hence I decided to write whole

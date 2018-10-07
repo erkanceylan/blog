@@ -4,7 +4,7 @@ title:  "Soluk Mavi Nokta"
 author: erkan
 categories: [ Astrofizik ]
 image: assets/images/soluk.png
-id: 10
+featured: false
 ---
 
 Soluk Mavi Nokta, bir fotoğrafa verilen isim. 1977 yılında NASA tarafından uzay araştırmaları için gönderilen Voyager 1 uzay sondası tarafından çekildiğinde, Dünya'nın en uzaktan çekilmiş fotoğrafıydı. 1990 yılı imkanlarıyla, tost makinasıyla çekilmiş 

@@ -4,7 +4,6 @@ title:  "Ortak Malların Trajedisi"
 author: erkan
 categories: [ Hayat ]
 image: assets/images/ortak-mallar.jpg
-id: 13
 ---
 
 Başlık biraz dramatik gelebilir. Ama içeriğin akılda kalması manasında çok iyi seçilmiş bir kelime; trajedi. 

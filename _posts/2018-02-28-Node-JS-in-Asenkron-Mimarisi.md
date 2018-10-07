@@ -5,7 +5,6 @@ author: erkan
 categories: [ NodeJS ]
 image: assets/images/nodejs.jpg
 featured: false
-id: 14
 ---
 
 Node Js, dünya üzerinde artık en çok kullanılan dillerden biri olan Javascript'in server tarafında çalıştırılmasıyla ortaya çıkan framework. 2014 yılında ortaya çıkmasıyla büyük bir popülerliğe ulaşan Node Js, javascript dilinin karakteristik özelliklerini kullanarak, server taraflı kod yazımında farklı bir tarz kattı.

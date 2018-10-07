@@ -5,7 +5,6 @@ author: erkan
 categories: [ Yazilim ]
 image: assets/images/os.jpeg
 featured: false
-id: 18
 ---
 Biz yazılımcılar için işletim sistemleri amaç değil araçtır. Yazdığımız kodun donanımı kullanmasına yardım eden program olarak görürüz. Bu yüzden detaylarına çok inmeyiz, çünkü  karmaşık sistemlerdir, ve programlama dili öğrenmek gibi kolay değildir. 
 

@@ -5,7 +5,6 @@ author: erkan
 categories: [ Gezi ]
 image: assets/images/aus-2.jpg
 featured: false
-id: 16
 ---
 
 Siz değerli okurlarıma söz verdiğim ama yazmakta geç kaldığım bir konu; Auschwitz. Krakow’un Oswiecim bölgesinde II.Dünya Savaşı sırasında Naziler tarafından kurulan bir yahudi toplama kampı.

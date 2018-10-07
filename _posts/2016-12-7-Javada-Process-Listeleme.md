@@ -4,7 +4,7 @@ title:  "Java ile Process Listeleme"
 author: erkan
 categories: [ Yazılım ]
 image: assets/images/java.jpg
-id: 3
+featured: false
 ---
 
 Merhabalar bu yazımda Java'da işletim sistemi üzerinde çalışan process bilgilerini listelemeyi göstereceğim.

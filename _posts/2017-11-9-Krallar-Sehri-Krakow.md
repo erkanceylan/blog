@@ -4,7 +4,7 @@ title:  "Krallar Şehri: Krakow"
 author: erkan
 categories: [ Gezi ]
 image: assets/images/krakow.jpg
-id: 6
+featured: false
 ---
 
 Bilenler bilir bu yılın(2017-18 dönemi) güz yarıyılı için Erasmus+ öğrenci değişim programı kapsamında Polonya’da bulunuyorum. Ülkenin güneydoğusunda bulunan Rzeszow’da yaşıyorum. Rzeszow(Jaşow diye okunuyor) çok sakin bir yer ama yaşaması keyifli. Farklı bir yazıda burdaki hayatımdan da bahsederim. Bu sakinlikten biraz kaçmak için fırsat buldukça tatillerimi değerlendirip ülkenin ve avrupanın güzel kentlerini ziyaret etmeye çalışıyorum. Bu yazıda 14 Ekim tarihinde gezdiğim Krakow -Türkçe de Krakov- kentinden bahsedicem biraz.
