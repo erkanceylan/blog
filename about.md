@@ -23,6 +23,7 @@ Merhabalar, ben [Erkan Ceylan][erkanceylan].
 ### Tecrübelerim
 -----
 - __Eflatun Yazılım__ / İstanbul, Başakşehir, Living Lab(`Stajyer + Uzaktan Çalışma`)
+
     	- Unity 3D ile Mobil Oyun Geliştirme
 	- Android Uygulama Geliştirme
 	- T-SQL Diliyle Veritabanı Programlama
