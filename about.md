@@ -10,9 +10,9 @@ comments: true
 
 -----
 
-Merhabalar, ben [Erkan Ceylan][erkanceylan]. Bu da benim kişisel blogum.
+Merhabalar, ben [Erkan Ceylan][erkanceylan].
 
-Kendimden bahsetmem gerekirse, 23 yaşındayım. Sakarya Üniversitesi, Bilgisayar Mühendisliği bölümü son sınıf öğrencisiyim. Yazılım alanında, özellikle web tabanlı ve mobil yazılımlarda kendimi geliştirmeyi ve öğrendiklerimi aktarmayı seviyorum. Şu anda İstanbul lokasyonlu Eflatun Yazılım firmasında, kripto para borsası olan [borsabit.com](https://borsabit.com) projesinde görev almaktayım.
+23 yaşındayım. Sakarya Üniversitesi, Bilgisayar Mühendisliği bölümü son sınıf öğrencisiyim. Yazılım alanında, özellikle web tabanlı ve mobil yazılımlarda kendimi geliştirmeyi ve öğrendiklerimi aktarmayı seviyorum. Şu anda İstanbul lokasyonlu Eflatun Yazılım firmasında, kripto para borsası olan [borsabit.com](https://borsabit.com) projesinde görev almaktayım.
 
 ### Eğitim
 -----  
@@ -89,7 +89,7 @@ Kendimden bahsetmem gerekirse, 23 yaşındayım. Sakarya Üniversitesi, Bilgisay
 ### Yeteneklerim
 -----
 - __Intermediate Level English__
-	- I am not a fluent speaker but I am pretty good at reading something in English. I can say that almost there is no English documentations that I cannot read completely in software sector.
+	
 - __C# ve ASP.NET MVC__
 - __Javascript - Node JS__
 - __SQL - T-SQL__
@@ -98,19 +98,19 @@ Kendimden bahsetmem gerekirse, 23 yaşındayım. Sakarya Üniversitesi, Bilgisay
 - __UML Diyagramlar__
 
 
-### Hobilerim
------
-Yazılım alanında birşeyler öğrenmeyi(Android, Game Development, Web), araştırmayı ve ortaya birşeyler çıkarmayı çok seviyorum. Ortamlarda kullanabileceğim
-entel dantel diyebileceğimiz gerekli gereksiz yeni şeyleri araştırmaya, sorgulamaya bayılıyorum. Bunları da bu blog vasıtasıyla
-meraklılara elimden geldiğince tanıtıyorum.  
 
-Tutkulu bir Beşiktaş taraftarı olmamın dışında, seyahat etmek, kampa gitmek, spor yapmak gibi hobilerim bulunmakta.  
+
+
+
+  
+
+
 
 ***********
 
 Bana sosyal medya linklerinin herhangi birinden ulaşabilirsiniz. Esen kalın efenim... 
 
-Unutmadan, aşağıdaki linkten de bir kahve ısmarlayabilirsiniz. :)
+Unutmadan, aşağıdaki linkten de bir kahve ısmarlayabilirsiniz. :)<br/>
 <a href="https://www.buymeacoffee.com/erkan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> 
 
   
