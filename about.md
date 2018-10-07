@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hakkımda
+permalink: /about/
 comments: true
 ---
 
