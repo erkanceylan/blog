@@ -7,15 +7,14 @@ favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-63036486-2'
 disqus: 'erkanceylan4'
-mailchimp-list: ''
-mailchimp-list: '"https://erkanceylan.us18.list-manage.com/subscribe/post?u=ead13e95241587ea997e07942&amp;id=3521e48a0b'
+mailchimp-list: 'https://erkanceylan.us18.list-manage.com/subscribe/post?u=ead13e95241587ea997e07942&amp;id=3521e48a0b'
 
 # Authors
 authors:
   erkan:
-    name: Erkan
-    display_name: Erkan
-    gravatar: 1f256f0470eab78af49102de4d40f59c.
+    name: Erkan Ceylan
+    display_name: Erkan Ceylan
+    gravatar: 1f256f0470eab78af49102de4d40f59c
     email: contact@erkanceylan.com
     web: https://erkanceylan.com
     twitter: https://twitter.com/erkan4ceylan
