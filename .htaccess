@@ -9,5 +9,5 @@
 	ErrorDocument 404 /404.html
 
 	RewriteCond %{HTTP_HOST} ^www.domain\.com [NC]
-	RewriteRule ^(.*)$ http://domain.com/$1 [L,R=301]
+	RewriteRule ^(.*)$ https://domain.com/$1 [L,R=301]
 </IfModule>

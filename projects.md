@@ -38,4 +38,4 @@ Bitirme projesi olarak yazdığım bu mobil uygulama ile dünyanın tüm şehirl
 
 ## Erasmus.Online <i class="fa fa-graduation-cap"></i>
 
-Devam eden bir proje. [erasmus.online](http://erasmus.online) adresinde yayında olucak.
+Devam eden bir proje. [erasmus.online](https://erasmus.online) adresinde yayında olucak.
